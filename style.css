@@ -1,0 +1,19 @@
+table>thead>tr>th{
+    background-color: bisque;
+    padding:0px 10px;
+}
+#tabla_productos>tr>td{
+    background-color: cornflowerblue;
+    padding:0px 10px;
+}
+#tabla_productos>tr:nth-child(odd)>td{
+    background-color:cadetblue;
+    padding:0px 10px;
+}
+.caja-filtro{
+    margin:20px;
+}
+.stock-bajo{
+    color: rgb(132, 2, 17);
+    font-weight: bold;
+}
