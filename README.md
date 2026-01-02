@@ -27,7 +27,6 @@ El proyecto permite visualizar productos, buscar, filtrar, ordenar y resaltar pr
 
 👉 Ver la aplicación en vivo:  
 https://antomc.github.io/mi-app-web/
-
 ## 📂 Estructura del proyecto
 /|--index.html
  |--data.js
