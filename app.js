@@ -64,11 +64,11 @@ function mostrarClientes(lista) {
                         ${iconoUndo} Quitar
                     </button>` : 
                     `<button class="btn-check" onclick="soloRegistrarVisita('${e.CÓDIGO_DE_SUMINISTRO2}', '${nombreCompleto}')">
-                        ${iconoCheck} Visita
+                        ${iconoCheck} Marcar Visita
                     </button>`
                 }
                 <button class="btn-mapa-simple" onclick="abrirSoloMapa('${e.LATITUD2}', '${e.LONGITUD2}')">
-                    ${iconoMapa} Mapa
+                    ${iconoMapa} Ver Mapa
                 </button>
             </div>
         `;
