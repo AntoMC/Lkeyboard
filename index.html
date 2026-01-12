@@ -9,35 +9,37 @@
 </head>
 
 <body>
-    <h1>Lista de clientes</h1>
+   <header id="main-header">
+    <h1>Lista de Clientes</h1>
     <div class="caja-filtro">
-        <select id="filtro">
-           
-        </select>
-        <input type="text" id="busqueda" placeholder="Bucar clientes...">
-        <select id="ordenPrecio">
-            <option value="">sin ordenar</option>
-            <option value="asc">Ascendente</option>
-            <option value="desc">Descendente</option>
-        </select>
-        <button id="limpiarFiltros" disabled>limpiar filtros</button>
+        <div class="fila-principal">
+            <select id="filtro"></select>
+            <input type="text" id="busqueda" placeholder="🔍 Buscar...">
+        </div>
+        
+        <div class="filtros-controles">
+            <div class="botones-acciones">
+                <button id="btnOffline" class="btn-offline">✅ Visitas</button>
+                <button id="btnReset" class="btn-reset">🗑️ Reiniciar</button>
+                <button id="limpiarFiltros" disabled>✕ Limpiar</button>
+                <button onclick="enviarReporteWhatsApp()" class="btn-whatsapp">💬 Reporte</button>
+            </div>
+        </div>
     </div>
-    <div id="info">
+</header>
 
+<div id="info"></div>
+<div id="contenedor_cards" class="grid-cards"></div>
+
+<div id="banner-confirmacion" class="banner-oculto">
+    <div class="banner-contenido">
+        <p id="banner-mensaje">¿Confirmar visita para este cliente?</p>
+        <div class="banner-botones">
+            <button id="btn-cancelar" class="btn-secundario">Cancelar</button>
+            <button id="btn-confirmar" class="btn-primario">Sí, Confirmar</button>
+        </div>
     </div>
-    <table>
-        <thead>
-            <tr>
-                <th>Suministro</th>
-                <th>Nombre Completo</th>
-                <th>Distrito</th>
-                <th>Localidad</th>
-                <th>DNI</th>
-            </tr>
-        </thead>
-        <tbody id="tabla_productos"></tbody>
-
-    </table>
+</div>
 
     <!-- <script src="main.js" type="module"> </script> -->
     <script src="app.js" type="module"> </script>
