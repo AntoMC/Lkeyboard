@@ -27,6 +27,11 @@ async function cargarDatos() {
 }
 
 // 4. Lógica de Visualización
+// Define los iconos como variables de texto para no repetir código
+const iconoMapa = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 6v14l7-4 8 4 7-4V2l-7 4-8-4-7 4z"></path><line x1="8" y1="2" x2="8" y2="18"></line><line x1="16" y1="6" x2="16" y2="22"></line></svg>`;
+const iconoCheck = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>`;
+const iconoUndo = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="1 4 1 10 7 10"></polyline><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"></path></svg>`;
+
 function mostrarClientes(lista) {
     contenedor.innerHTML = "";
     const visitados = obtenerVisitados();
@@ -39,23 +44,22 @@ function mostrarClientes(lista) {
 
         contenedor.innerHTML += `
         <div class="card ${claseEstado} ${claseVisitado}">
-            ${yaVisitado ? '<span class="check-visitado">✅ VISITADO</span>' : ''}
+            ${yaVisitado ? `<span class="check-visitado">${iconoCheck} VISITADO</span>` : ''}
             <p class="label">Suministro: ${e.CÓDIGO_DE_SUMINISTRO2}</p>
             <h3>${nombreCompleto}</h3>
             <p><strong>DNI:</strong> ${e.N__DNI}</p>
             <p><strong>Localidad:</strong> ${e.LOCALIDAD}</p>
-            
             <div class="card-acciones">
-${yaVisitado ?
-                `<button class="btn-quitar" onclick="confirmarQuitarVisita('${e.CÓDIGO_DE_SUMINISTRO2}', '${nombreCompleto}')">
-        ✕ Quitar
-    </button>` :
-                `<button class="btn-check" onclick="soloRegistrarVisita('${e.CÓDIGO_DE_SUMINISTRO2}', '${nombreCompleto}')">
-        ✅ Visita
-    </button>`
-            }
+                ${yaVisitado ? 
+                    `<button class="btn-quitar" onclick="confirmarQuitarVisita('${e.CÓDIGO_DE_SUMINISTRO2}', '${nombreCompleto}')">
+                        ${iconoUndo} Quitar
+                    </button>` : 
+                    `<button class="btn-check" onclick="soloRegistrarVisita('${e.CÓDIGO_DE_SUMINISTRO2}', '${nombreCompleto}')">
+                        ${iconoCheck} Visita
+                    </button>`
+                }
                 <button class="btn-mapa-simple" onclick="abrirSoloMapa('${e.LATITUD2}', '${e.LONGITUD2}')">
-                    📍 Mapa
+                    ${iconoMapa} Mapa
                 </button>
             </div>
         </div>
@@ -97,9 +101,9 @@ function limpiarFiltros() {
     filtroLocalidad.value = "Todos";
     info.textContent = "";
     btnLimpiarFiltros.disabled = true;
-    
+
     // Al limpiar, mostramos de nuevo el array global 'clientes' (la lista original)
-    mostrarClientes(clientes); 
+    mostrarClientes(clientes);
 }
 
 // 6. Gestión de Visitas (LocalStorage)
@@ -163,11 +167,11 @@ function confirmarQuitarVisita(id, nombre) {
 function abrirBanner(mensaje, claseBoton, textoBoton) {
     const banner = document.getElementById("banner-confirmacion");
     const btnConfirmar = document.getElementById("btn-confirmar");
-    
+
     document.getElementById("banner-mensaje").innerHTML = mensaje;
     btnConfirmar.className = claseBoton; // Cambia el color (verde o rojo)
     btnConfirmar.textContent = textoBoton;
-    
+
     banner.classList.remove("banner-oculto");
 }
 
@@ -175,7 +179,7 @@ function abrirBanner(mensaje, claseBoton, textoBoton) {
 document.getElementById("btn-confirmar").addEventListener("click", () => {
     if (clienteTemporal) {
         let historial = obtenerVisitados();
-        
+
         if (accionTemporal === "AGREGAR") {
             if (!historial.some(item => item.id === clienteTemporal.id)) {
                 historial.push({ ...clienteTemporal, fecha: new Date().toLocaleString() });
@@ -183,11 +187,11 @@ document.getElementById("btn-confirmar").addEventListener("click", () => {
         } else if (accionTemporal === "QUITAR") {
             historial = historial.filter(item => item.id !== clienteTemporal.id);
         }
-        
+
         localStorage.setItem('visitas_completadas', JSON.stringify(historial));
-        
+
         // IMPORTANTE: Al terminar, volvemos a aplicar filtros para actualizar la vista
-        aplicarFiltros(); 
+        aplicarFiltros();
     }
     cerrarBanner();
 });

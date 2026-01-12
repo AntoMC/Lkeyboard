@@ -177,3 +177,14 @@ button:disabled { opacity: 0.4; cursor: not-allowed; }
     #contenedor_cards { grid-template-columns: 1fr; }
     .fila-principal { flex-direction: column; }
 }
+button svg, .check-visitado svg {
+    flex-shrink: 0; /* Evita que el icono se aplaste */
+    stroke: currentColor; /* El icono toma el color del texto del botón */
+}
+
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px; /* Espacio entre icono y texto */
+}
