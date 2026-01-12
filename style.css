@@ -96,7 +96,16 @@ button {
 .btn-offline { background: #27ae60; color: white; }
 .btn-reset { background: #95a5a6; color: white; }
 .btn-whatsapp { background: #25d366; color: white; }
-#limpiarFiltros { background: #fceaea; color: #e74c3c; }
+#limpiarFiltros {
+    background-color: #f8f9fa; /* Gris muy suave */
+    color: #5a6268; /* Texto gris oscuro */
+    border: 1px solid #ddd;
+}
+
+#limpiarFiltros:hover:not(:disabled) {
+    background-color: #e2e6ea;
+    color: #212529;
+}
 
 button:disabled { opacity: 0.4; cursor: not-allowed; }
 
@@ -187,4 +196,35 @@ button {
     align-items: center;
     justify-content: center;
     gap: 8px; /* Espacio entre icono y texto */
+}
+/* Añade esto a tu style.css */
+.btn-whatsapp svg {
+    transform: rotate(-10deg); /* Le da un toque dinámico */
+    transition: transform 0.3s ease;
+}
+
+.btn-whatsapp:hover svg {
+    transform: rotate(0deg) scale(1.1); /* Efecto al pasar el mouse */
+}
+/* Animación de entrada */
+@keyframes entradaSuave {
+    from {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Aplicar la animación a las tarjetas */
+.card {
+    /* ... tus estilos anteriores ... */
+    animation: entradaSuave 0.4s ease-out forwards;
+}
+
+/* Esto asegura que si hay muchas tarjetas, no se vea pesado el scroll */
+#contenedor_cards {
+    will-change: transform, opacity;
 }

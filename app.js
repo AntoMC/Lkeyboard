@@ -26,6 +26,8 @@ async function cargarDatos() {
     }
 }
 
+
+            
 // 4. Lógica de Visualización
 // Define los iconos como variables de texto para no repetir código
 const iconoMapa = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 6v14l7-4 8 4 7-4V2l-7 4-8-4-7 4z"></path><line x1="8" y1="2" x2="8" y2="18"></line><line x1="16" y1="6" x2="16" y2="22"></line></svg>`;
@@ -36,14 +38,21 @@ function mostrarClientes(lista) {
     contenedor.innerHTML = "";
     const visitados = obtenerVisitados();
 
-    lista.forEach(e => {
+    lista.forEach((e, index) => {
         const nombreCompleto = `${e.NOMBRES} ${e.APELLIDO_PATERNO} ${e.APELLIDO_MATERNO}`;
         const yaVisitado = visitados.some(v => v.id === e.CÓDIGO_DE_SUMINISTRO2);
-        const claseEstado = e.ESTADO__SFD2 === "0" ? "estado-inoperativo" : "";
-        const claseVisitado = yaVisitado ? "visitado" : "";
+        
+        // Creamos el elemento div manualmente para poder asignarle el delay
+        const card = document.createElement('div');
+        card.className = `card ${e.ESTADO__SFD2 === "0" ? 'estado-inoperativo' : ''} ${yaVisitado ? 'visitado' : ''}`;
+        
+        // Añadimos un pequeño retraso basado en su posición (máximo 10 tarjetas para no tardar mucho)
+        const delay = Math.min(index * 0.05, 0.5); 
+        card.style.animationDelay = `${delay}s`;
+        card.style.opacity = "0"; // Inicia invisible hasta que la animación actúe
+        card.style.animationFillMode = "forwards";
 
-        contenedor.innerHTML += `
-        <div class="card ${claseEstado} ${claseVisitado}">
+        card.innerHTML = `
             ${yaVisitado ? `<span class="check-visitado">${iconoCheck} VISITADO</span>` : ''}
             <p class="label">Suministro: ${e.CÓDIGO_DE_SUMINISTRO2}</p>
             <h3>${nombreCompleto}</h3>
@@ -62,11 +71,10 @@ function mostrarClientes(lista) {
                     ${iconoMapa} Mapa
                 </button>
             </div>
-        </div>
-    `;
+        `;
+        contenedor.appendChild(card);
     });
 }
-
 // 5. Filtros
 function llenarFiltroLocalidades() {
     const localidades = [...new Set(clientes.map(p => p.LOCALIDAD))];
@@ -212,14 +220,15 @@ function abrirSoloMapa(lat, lng) {
 function enviarReporteWhatsApp() {
     const historial = obtenerVisitados();
 
+
     if (historial.length === 0) {
         alert("No hay visitas registradas para reportar.");
         return;
     }
 
-    let mensaje = `*REPORTE DE VISITAS* %0A`;
-    mensaje += `*Fecha:* ${new Date().toLocaleDateString()}%0A`;
-    mensaje += `--------------------------%0A`;
+    let mensaje = `🚀 *REPORTE DE CAMPO - HUASMÍN*%0A`;
+    mensaje += `📅 *Fecha:* ${new Date().toLocaleDateString()}%0A`;
+    mensaje += `----------------------------%0A`;
 
     historial.forEach((v, index) => {
         // %0A es un salto de línea en WhatsApp
