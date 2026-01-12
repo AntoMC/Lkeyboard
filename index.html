@@ -1,52 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>mi app web</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <h1>Lista de productos</h1>
+    <h1>Lista de clientes</h1>
     <div class="caja-filtro">
         <select id="filtro">
-        <option value="Todos">Todos</option>
-        <option value="Smartphones">Smartphones</option>
-        <option value="Computadoras">Computadoras</option>
-        <option value="Tablets">Tablets</option>
-        <option value="Auriculares">Auriculares</option>
-        <option value="Wearables">Wearables</option>
-        <option value="Monitores">Monitores</option>
-        <option value="Periféricos">Periféricos</option>
-        <option value="Almacenamiento">Almacenamiento</option>
-        <option value="Accesorios">Accesorios</option>
-        <option value="Redes">Redes</option>
-    </select>
-    <input type="text" id="busqueda" placeholder="Bucar producto...">
-    <select id="ordenPrecio">
-        <option value="">sin ordenar</option>
-        <option value="asc">Ascendente</option>
-        <option value="desc">Descendente</option>
-    </select>
-    <button id="limpiarFiltros" disabled>limpiar filtros</button>
+           
+        </select>
+        <input type="text" id="busqueda" placeholder="Bucar clientes...">
+        <select id="ordenPrecio">
+            <option value="">sin ordenar</option>
+            <option value="asc">Ascendente</option>
+            <option value="desc">Descendente</option>
+        </select>
+        <button id="limpiarFiltros" disabled>limpiar filtros</button>
     </div>
     <div id="info">
-        
+
     </div>
     <table>
         <thead>
-            <tr  class=""> 
-                <th>nombre</th>
-                <th>categoria</th>
-                <th>precio</th>
-                <th>Stock</th>
+            <tr>
+                <th>Suministro</th>
+                <th>Nombre Completo</th>
+                <th>Distrito</th>
+                <th>Localidad</th>
+                <th>DNI</th>
             </tr>
         </thead>
         <tbody id="tabla_productos"></tbody>
-        
+
     </table>
-    
+
     <!-- <script src="main.js" type="module"> </script> -->
     <script src="app.js" type="module"> </script>
 </body>
+
 </html>
