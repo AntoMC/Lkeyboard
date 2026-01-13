@@ -138,7 +138,7 @@ function verVisitas() {
     const historial = obtenerVisitados();
     if (historial.length === 0) return alert("No hay visitas registradas.");
 
-    info.textContent = `Mostrando ${historial.length} visitas completadas`;
+    info.textContent = `${historial.length} visitas completadas`;
 
     const datosAdaptados = historial.map(v => ({
         CÓDIGO_DE_SUMINISTRO2: v.id,

@@ -40,8 +40,12 @@ h1 {
     font-size: 1rem;
     margin: 10px 0;
     text-align: center;
-    color: #152230;
+    color: #27ae60;
     transition: opacity 0.3s ease;
+}
+#info{
+    color: #3498db;
+    font-weight: bold;
 }
 
 /* --- 3. FILTROS (UNA SOLA FILA EN MÓVIL) --- */
@@ -108,7 +112,7 @@ button svg { flex-shrink: 0; stroke: currentColor; }
 .btn-offline { background: #27ae60; color: white; }
 .btn-reset { background: #95a5a6; color: white; }
 .btn-whatsapp { background: #25d366; color: white; }
-#limpiarFiltros { background: #f8f9fa; color: #5a6268; border: 1px solid #ddd; }
+#limpiarFiltros { background: #79b3ec; color: #222527; border: 1px solid #ddd; }
 button:disabled { opacity: 0.4; cursor: not-allowed; }
 
 /* Menú Lateral */
@@ -119,7 +123,14 @@ button:disabled { opacity: 0.4; cursor: not-allowed; }
     z-index: 3000;
     display: none;
 }
-
+.menu-header{
+    display: flex;
+    justify-content: space-between; 
+    margin-bottom: 20px;
+}
+.menu-header> #btn-cerrar-menu{
+    background-color: #e4968e;
+}
 .menu-contenido {
     width: 280px; height: 100%;
     background: white; padding: 20px;
@@ -161,6 +172,19 @@ button:disabled { opacity: 0.4; cursor: not-allowed; }
 .btn-quitar { flex: 1; background: #fceaea; color: #e74c3c; border: 1px solid #e74c3c; }
 .btn-mapa-simple { flex: 1; background: #3498db; color: white; }
 
+.banner-botones{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 15px;
+}
+#btn-cancelar{
+    background-color: #e4968e;
+}
+#btn-confirmar{
+    background-color: #27ae60;
+    color: rgba(255, 255, 255, 0.877);
+}
 /* --- 6. MODAL Y ANIMACIONES --- */
 #banner-confirmacion {
     position: fixed;
@@ -189,3 +213,38 @@ button:disabled { opacity: 0.4; cursor: not-allowed; }
     #busqueda { font-size: 0.85rem; }
     #filtro { font-size: 0.85rem; padding: 10px 2px; }
 }
+/* .barra-inferior {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 65px;
+    background: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid #ddd;
+    z-index: 2000;
+    padding-bottom: env(safe-area-inset-bottom);
+}
+
+.tab-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: none;
+    border: none;
+    color: #7f8c8d;
+    font-size: 10px;
+    gap: 4px;
+}
+
+.tab-item svg {
+    width: 24px;
+    height: 24px; 
+}
+
+/* Espacio extra al final de la lista para que la barra no tape la última card */
+/* #contenedor_cards {
+    margin-bottom: 80px;
+} */
