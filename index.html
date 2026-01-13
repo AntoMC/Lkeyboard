@@ -21,7 +21,7 @@
 
     <div class="caja-filtro">
         <div class="fila-principal">
-            <input type="text" id="busqueda" placeholder="Buscar cliente o suministro...">
+            <input type="text" id="busqueda" placeholder="Buscar cliente, dni o suministro...">
             <select id="filtro">
                 <option value="Todos">Localidad</option>
                 </select>
@@ -36,13 +36,13 @@
             <button id="btn-cerrar-menu">&times;</button>
         </div>
         <div class="botones-acciones-vertical">
-            <button id="btnOffline" class="btn-menu-item">
+            <!-- <button id="btnOffline" class="btn-menu-item">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
                 Ver Visitas
-            </button>
+            </button> -->
             <button id="limpiarFiltros" class="btn-menu-item" disabled>
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
-                Ir al Inicio (mostrar todos)
+                Inicio y Limpiar Filtros
             </button>
             <button onclick="enviarReporteWhatsApp()" class="btn-whatsapp btn-menu-item">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
@@ -56,20 +56,23 @@
         </div>
     </div>
 </div>
-<!-- <nav class="barra-inferior">
-    <button onclick="irAlInicio()" class="tab-item">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path></svg>
+
+<nav class="tab-bar">
+    <button id="tab-inicio" class="tab-item">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
         <span>Inicio</span>
     </button>
-    <button id="btnOffline" class="tab-item">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+    
+    <button id="tab-visitas" class="tab-item">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
         <span>Visitas</span>
     </button>
-    <button onclick="enviarReporteWhatsApp()" class="tab-item">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+    
+    <!-- <button id="tab-reporte" class="tab-item" onclick="enviarReporteWhatsApp()">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
         <span>Reporte</span>
-    </button>
-</nav> -->
+    </button> -->
+</nav>
 
     <div id="contenedor_cards" class="grid-cards"></div>
 
