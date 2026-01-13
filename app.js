@@ -152,6 +152,9 @@ function verVisitas() {
     }));
 
     mostrarClientes(datosAdaptados);
+    //con esto habilitamos el boton Limpiar 
+    const btnLimpiar = document.getElementById("limpiarFiltros");
+    btnLimpiar.disabled = false;
 }
 
 
