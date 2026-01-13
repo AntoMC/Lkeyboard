@@ -48,11 +48,6 @@ h1 {
     margin: 0 auto;
 }
 
-.fila-principal {
-    display: flex;
-    gap: 8px;
-    margin-bottom: 10px;
-}
 
 #busqueda, #filtro {
     background-color:#eef2f7; 
@@ -227,4 +222,80 @@ button {
 /* Esto asegura que si hay muchas tarjetas, no se vea pesado el scroll */
 #contenedor_cards {
     will-change: transform, opacity;
+}
+/* Header Compacto */
+.header-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 15px;
+}
+
+#main-header h1 {
+    font-size: 1rem; /* Título más pequeño */
+    margin: 0;
+}
+
+.btn-icon {
+    background: none;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+    color: #2c3e50;
+}
+
+/* Menú Lateral */
+#menu-lateral {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: rgba(0,0,0,0.5);
+    z-index: 3000;
+    display: none; /* Se activa con JS */
+}
+
+.menu-contenido {
+    width: 280px;
+    height: 100%;
+    background: white;
+    padding: 20px;
+    box-shadow: 2px 0 10px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.botones-acciones-vertical {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.btn-menu-item {
+    width: 100%;
+    justify-content: flex-start !important;
+    padding: 15px !important;
+    font-size: 1rem !important;
+}
+.fila-principal {
+    display: flex;
+    gap: 8px;
+    width: 100%;
+}
+
+#busqueda {
+    flex: 2; /* El buscador ocupa más espacio */
+    min-width: 0; /* Evita que el input desborde el flex */
+}
+
+#filtro {
+    flex: 1; /* El select ocupa menos */
+    min-width: 0;
+    padding-right: 20px; /* Espacio para la flechita del select */
 }

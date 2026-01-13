@@ -283,6 +283,35 @@ window.addEventListener("scroll", function () {
     lastScrollTop = scrollTop <= 0 ? 0 : scrollTop; // Evitar valores negativos
 }, { passive: true });
 
+// 13 Menú Lateral
+const menuLateral = document.getElementById("menu-lateral");
+const btnMenu = document.getElementById("btn-menu");
+const btnCerrarMenu = document.getElementById("btn-cerrar-menu");
+
+btnMenu.addEventListener("click", () => {
+    menuLateral.style.display = "block";
+});
+
+btnCerrarMenu.addEventListener("click", () => {
+    menuLateral.style.display = "none";
+});
+
+// Cerrar si hacen clic fuera del menú
+window.addEventListener("click", (e) => {
+    if (e.target === menuLateral) menuLateral.style.display = "none";
+});
+
+// 14 Seleccionamos todos los botones que están dentro del menú lateral
+const botonesMenu = document.querySelectorAll('.btn-menu-item');
+
+botonesMenu.forEach(boton => {
+    boton.addEventListener('click', () => {
+        // Cerramos el menú después de un pequeño retraso para que se vea el clic
+        setTimeout(() => {
+            menuLateral.style.display = "none";
+        }, 150); 
+    });
+});
 
 busquedaInput.addEventListener("input", aplicarFiltros);
 filtroLocalidad.addEventListener("change", aplicarFiltros);
