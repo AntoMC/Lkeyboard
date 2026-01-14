@@ -1,4 +1,4 @@
-# Huasmin App Web 🛒
+# Huasmin App Web 
 
 Mini aplicación web de registro de visitas a usuarios desarrollada con **HTML, CSS y JavaScript puro**, sin frameworks.
 
