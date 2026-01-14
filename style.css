@@ -424,7 +424,7 @@ button:disabled {
 }
 
 .back-to-top:hover {
-    background-color: #34495e;
+    background-color: #f4968e;
     transform: translateY(-5px);
     /* Pequeño salto al pasar el mouse */
 }
