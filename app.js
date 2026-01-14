@@ -15,6 +15,7 @@ const menuLateral = document.getElementById("menu-lateral");
 const btnMenu = document.getElementById("btn-menu");
 const btnCerrarMenu = document.getElementById("btn-cerrar-menu");
 const botonesMenu = document.querySelectorAll('.btn-menu-item');
+const backToTopBtn = document.getElementById("backToTop");
 
 // Iconos SVG
 const iconoMapa = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 6v14l7-4 8 4 7-4V2l-7 4-8-4-7 4z"></path><line x1="8" y1="2" x2="8" y2="18"></line><line x1="16" y1="6" x2="16" y2="22"></line></svg>`;
@@ -266,6 +267,13 @@ document.getElementById("btnReset").addEventListener("click", restablecerVisitas
 // Scroll Inteligente
 window.addEventListener("scroll", function () {
     let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    // Lógica para mostrar/ocultar el botón "Ir arriba"
+    if (scrollTop > 300) {
+        backToTopBtn.classList.add("show");
+    } else {
+        backToTopBtn.classList.remove("show");
+    }
+
     if (Math.abs(lastScrollTop - scrollTop) <= 10) return;
 
     if (scrollTop > lastScrollTop && scrollTop > 100) {
@@ -278,6 +286,13 @@ window.addEventListener("scroll", function () {
     lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
 }, { passive: true });
 
+// Función para hacer el scroll hacia arriba
+backToTopBtn.addEventListener("click", () => {
+    window.scrollTo({
+        top: 0,
+        behavior: "smooth" // Desplazamiento suave
+    });
+});
 // Inicialización
 window.addEventListener('load', () => {
     actualizarTabs('tab-inicio');
