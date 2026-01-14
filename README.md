@@ -1,17 +1,18 @@
-# Mini Tienda Web 🛒
+# Huasmin App Web 🛒
 
-Mini aplicación web de una tienda de tecnología desarrollada con **HTML, CSS y JavaScript puro**, sin frameworks.
+Mini aplicación web de registro de visitas a usuarios desarrollada con **HTML, CSS y JavaScript puro**, sin frameworks.
 
-El proyecto permite visualizar productos, buscar, filtrar, ordenar y resaltar productos con bajo stock.
+El proyecto permite listar clientes, buscar, filtrar por nombre, dni o suministro ademas de ver la ubicacion del suministro resaltar clientes que han sido marcados como visitados. generar un reporte de texto y enviarlo por whatsapp.
+reiniciar rutas remover visitas
 
 ## 🚀 Funcionalidades
 
-- Mostrar lista de productos desde un archivo JSON
-- Búsqueda por nombre de producto
-- Filtro por categoría
-- Ordenar por precio (menor a mayor / mayor a menor)
-- Contador de productos encontrados
-- Resaltado de productos con stock bajo
+- Mostrar lista de clientes desde un archivo JSON
+- Búsqueda por nombre dni o codigo de suministro
+- Filtro por localidad
+- mostrar clientes visitados
+- Contador de clientes encontrados
+- usar localstorage para guardar visitas
 - Botón para limpiar filtros
 - Publicado con GitHub Pages
 
