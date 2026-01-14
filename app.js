@@ -10,7 +10,7 @@ const busquedaInput = document.getElementById("busqueda");
 const filtroLocalidad = document.getElementById("filtro");
 const btnLimpiarFiltros = document.getElementById("limpiarFiltros");
 const header = document.getElementById("main-header");
-const h1 = document.querySelector("h1");
+const titulo_app = document.getElementById("titulo_app");
 const menuLateral = document.getElementById("menu-lateral");
 const btnMenu = document.getElementById("btn-menu");
 const btnCerrarMenu = document.getElementById("btn-cerrar-menu");
@@ -48,13 +48,13 @@ function mostrarClientes(lista) {
     lista.forEach((e, index) => {
         const nombreCompleto = `${e.NOMBRES} ${e.APELLIDO_PATERNO} ${e.APELLIDO_MATERNO}`;
         const yaVisitado = visitados.some(v => v.id === e.CÓDIGO_DE_SUMINISTRO2);
-        
+
         const card = document.createElement('div');
         card.className = `card ${e.ESTADO__SFD2 === "0" ? 'estado-inoperativo' : ''} ${yaVisitado ? 'visitado' : ''}`;
-        
-        const delay = Math.min(index * 0.05, 0.5); 
+
+        const delay = Math.min(index * 0.05, 0.5);
         card.style.animationDelay = `${delay}s`;
-        card.style.opacity = "0"; 
+        card.style.opacity = "0";
         card.style.animationFillMode = "forwards";
 
         card.innerHTML = `
@@ -64,14 +64,14 @@ function mostrarClientes(lista) {
             <p><strong>DNI:</strong> ${e.N__DNI}</p>
             <p><strong>Localidad:</strong> ${e.LOCALIDAD}</p>
             <div class="card-acciones">
-                ${yaVisitado ? 
-                    `<button class="btn-quitar" onclick="confirmarQuitarVisita('${e.CÓDIGO_DE_SUMINISTRO2}', '${nombreCompleto}')">
+                ${yaVisitado ?
+                `<button class="btn-quitar" onclick="confirmarQuitarVisita('${e.CÓDIGO_DE_SUMINISTRO2}', '${nombreCompleto}')">
                         ${iconoUndo} Quitar
-                    </button>` : 
-                    `<button class="btn-check" onclick="soloRegistrarVisita('${e.CÓDIGO_DE_SUMINISTRO2}', '${nombreCompleto}')">
+                    </button>` :
+                `<button class="btn-check" onclick="soloRegistrarVisita('${e.CÓDIGO_DE_SUMINISTRO2}', '${nombreCompleto}')">
                         ${iconoCheck} Marcar Visita
                     </button>`
-                }
+            }
                 <button class="btn-mapa-simple" onclick="abrirSoloMapa('${e.LATITUD2}', '${e.LONGITUD2}')">
                     ${iconoMapa} Ver Mapa
                 </button>
@@ -106,7 +106,7 @@ function aplicarFiltros() {
     const filtroLocalidadVal = filtroLocalidad.value;
 
     // 2. Dividimos la búsqueda en palabras (por ejemplo: "Juan Perez" -> ["juan", "perez"])
-    const palabrasBusqueda = textoBusqueda.split(/\s+/); 
+    const palabrasBusqueda = textoBusqueda.split(/\s+/);
 
     const filtrados = clientes.filter(p => {
         // Creamos una sola cadena con toda la información del cliente
@@ -116,9 +116,9 @@ function aplicarFiltros() {
 
         // Verificamos si CADA palabra escrita en el buscador está en algún lado del cliente
         // Esto permite buscar "Perez Juan" o "Juan 4587" y que funcione.
-        const coincideBusqueda = palabrasBusqueda.every(palabra => 
-            nombreCompleto.includes(palabra) || 
-            dni.includes(palabra) || 
+        const coincideBusqueda = palabrasBusqueda.every(palabra =>
+            nombreCompleto.includes(palabra) ||
+            dni.includes(palabra) ||
             suministro.includes(palabra)
         );
 
@@ -129,6 +129,7 @@ function aplicarFiltros() {
 
     // Actualizamos la interfaz
     btnLimpiarFiltros.disabled = (textoBusqueda === "" && filtroLocalidadVal === "Todos");
+    titulo_app.innerText = "";
     info.textContent = `Se encontraron ${filtrados.length} registros`;
     actualizarTabs(null);
     mostrarClientes(filtrados);
@@ -140,6 +141,7 @@ function limpiarFiltros() {
     info.textContent = "";
     btnLimpiarFiltros.disabled = true;
     actualizarTabs('tab-inicio');
+    titulo_app.innerText = "Huasmin";
     mostrarClientes(clientes);
 }
 
@@ -147,7 +149,7 @@ function limpiarFiltros() {
 function verVisitas() {
     const historial = obtenerVisitados();
     if (historial.length === 0) return alert("No hay visitas registradas.");
-    
+
     info.textContent = `${historial.length} visitas completadas`;
 
     const datosAdaptados = historial.map(v => ({
@@ -231,13 +233,13 @@ document.getElementById("tab-visitas").addEventListener("click", verVisitas);
 //document.getElementById("tab-reporte").addEventListener("click", enviarReporteWhatsApp);
 
 // Eventos Menú/Modal
-if(btnMenu) btnMenu.addEventListener("click", () => menuLateral.style.display = "block");
-if(btnCerrarMenu) btnCerrarMenu.addEventListener("click", () => menuLateral.style.display = "none");
+if (btnMenu) btnMenu.addEventListener("click", () => menuLateral.style.display = "block");
+if (btnCerrarMenu) btnCerrarMenu.addEventListener("click", () => menuLateral.style.display = "none");
 window.addEventListener("click", (e) => { if (e.target === menuLateral) menuLateral.style.display = "none"; });
 
 botonesMenu.forEach(boton => {
     boton.addEventListener('click', () => {
-        setTimeout(() => { if(menuLateral) menuLateral.style.display = "none"; }, 150); 
+        setTimeout(() => { if (menuLateral) menuLateral.style.display = "none"; }, 150);
     });
 });
 
