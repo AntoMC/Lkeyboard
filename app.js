@@ -277,10 +277,10 @@ window.addEventListener("scroll", function () {
     if (Math.abs(lastScrollTop - scrollTop) <= 10) return;
 
     if (scrollTop > lastScrollTop && scrollTop > 100) {
-        header.classList.add("header-hidden");
+        // header.classList.add("header-hidden");
         if (h1) h1.style.opacity = "0";
     } else {
-        header.classList.remove("header-hidden");
+        // header.classList.remove("header-hidden");
         if (h1) h1.style.opacity = "1";
     }
     lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
