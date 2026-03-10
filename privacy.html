@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Liquid Keyboard</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #475569;
+            --warning: #dc2626;
+            --bg: #ffffff;
+            --text: #1e293b;
+            --box-bg: #f8fafc;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #0f172a;
+                --text: #f1f5f9;
+                --box-bg: #1e293b;
+            }
+        }
+        body { 
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; 
+            line-height: 1.7; 
+            color: var(--text); 
+            max-width: 850px; 
+            margin: 0 auto; 
+            padding: 40px 20px; 
+            background-color: var(--bg);
+        }
+        h1 { color: var(--primary); font-size: 2.5rem; margin-bottom: 10px; }
+        .last-update { color: var(--secondary); font-size: 0.9rem; margin-bottom: 40px; }
+        h2 { 
+            color: var(--primary); 
+            font-size: 1.5rem; 
+            border-bottom: 2px solid var(--box-bg); 
+            padding-bottom: 8px; 
+            margin-top: 40px; 
+        }
+        .critical-notice { 
+            background: rgba(220, 38, 38, 0.05); 
+            padding: 25px; 
+            border-left: 6px solid var(--warning); 
+            border-radius: 8px;
+            font-weight: 600;
+            margin: 30px 0;
+        }
+        .critical-notice span { color: var(--warning); text-transform: uppercase; }
+        p, li { color: var(--text); opacity: 0.9; }
+        ul { padding-left: 20px; }
+        .footer-note { 
+            margin-top: 60px; 
+            padding-top: 20px; 
+            border-top: 1px solid var(--box-bg); 
+            font-size: 0.9rem; 
+            text-align: center;
+        }
+        a { color: var(--primary); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+    <p class="last-update">Last Updated: March 9, 2025</p>
+
+    <p>At <strong>Liquid Keyboard</strong>, we recognize that your privacy is of the utmost importance, especially for a tool used to input text. This document outlines our commitment to protecting your information.</p>
+
+    <div class="critical-notice">
+        <span>Important:</span> This keyboard <strong>DOES NOT</strong> collect, <strong>DOES NOT</strong> store, and <strong>DOES NOT</strong> transmit any of your keystrokes. This includes passwords, private messages, bank details, or emails.
+    </div>
+
+    <h2>1. Data Collection & Processing</h2>
+    <p>Our application is designed to operate <strong>entirely locally</strong>. We do not require account creation, and we do not request personal data for the keyboard or the Text Expander features to function.</p>
+    <ul>
+        <li><strong>Local Storage:</strong> Your custom layouts, snippets, and clipboard history are stored exclusively on your device's internal storage.</li>
+        <li><strong>No Cloud Sync:</strong> We do not use external servers to process your text or predictions.</li>
+    </ul>
+
+    <h2>2. System Permissions</h2>
+    <p>To function as an Input Method Editor (IME), <strong>Liquid Keyboard</strong> requires standard Android permissions:</p>
+    <ul>
+        <li><strong>Input Method Service:</strong> Essential to display the keyboard across your system.</li>
+        <li><strong>Vibration:</strong> Used only for haptic feedback during key presses.</li>
+        <li><strong>Internet Access:</strong> Required strictly for loading advertisements (AdMob) within the settings screen.</li>
+    </ul>
+
+    <h2>3. Advertising (Google AdMob)</h2>
+    <p>We use Google AdMob to display advertisements, which helps us keep the app free and maintained. AdMob may collect anonymous advertising identifiers to show relevant ads. You can review Google's privacy practices at <a href="https://policies.google.com/privacy" target="_blank">Google's Official Privacy Policy</a>.</p>
+
+    <h2>4. Security Commitment</h2>
+    <p>Because our core logic does not connect to the internet to process your typing, your sensitive data remains within the sandboxed environment of your device, protected by Android's security architecture.</p>
+
+    <h2>5. Contact & Support</h2>
+    <p>If you have any questions or concerns regarding this policy, please reach out to us at:</p>
+    <p><strong>[Your Email Address Here]</strong></p>
+
+    <div class="footer-note">
+        &copy; 2025 Liquid Keyboard Team - Built with transparency and security in mind.
+    </div>
+
+</body>
+</html>
