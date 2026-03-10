@@ -1,114 +1,57 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>mi app web</title>
-    <link rel="stylesheet" href="style.css">
-    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" /> -->
+    <title>Nombre de Tu App - Teclado para Programadores</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f4f7f6; }
+        header { text-align: center; padding: 40px 0; background: #2c3e50; color: white; border-radius: 8px; margin-bottom: 20px; }
+        h1 { margin: 0; }
+        .content-section { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        .tutorial-card { border-left: 5px solid #3498db; padding-left: 15px; margin: 15px 0; }
+        code { background: #e8e8e8; padding: 2px 5px; border-radius: 4px; font-family: monospace; }
+        footer { text-align: center; margin-top: 40px; font-size: 0.9em; color: #7f8c8d; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
 </head>
-
 <body>
-    <header id="main-header">
-        <div class="header-top">
-            <button id="btn-menu" class="btn-icon">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <line x1="3" y1="12" x2="21" y2="12"></line>
-                    <line x1="3" y1="6" x2="21" y2="6"></line>
-                    <line x1="3" y1="18" x2="21" y2="18"></line>
-                </svg>
-            </button>
-            <h1 id="titulo_app">Huasmin</h1>
-            <div id="info"></div>
-            <div style="width: 40px;"></div>
-        </div>
 
-        <div class="caja-filtro">
-            <div class="fila-principal">
-                <input type="text" id="busqueda" placeholder="Buscar cliente, dni o suministro...">
-                <select id="filtro">
-                    <option value="Todos">Localidad</option>
-                </select>
-            </div>
-        </div>
-    </header>
+<header>
+    <h1>⌨️ Teclado Pro para Programadores</h1>
+    <p>Productividad extrema y Text Expander local</p>
+</header>
 
-    <div id="menu-lateral" class="menu-oculto">
-        <div class="menu-contenido">
-            <div class="menu-header">
-                <h3>Opciones</h3>
-                <button id="btn-cerrar-menu">&times;</button>
-            </div>
-            <div class="botones-acciones-vertical">
-                <!-- <button id="btnOffline" class="btn-menu-item">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-                Ver Visitas
-            </button> -->
-                <button id="limpiarFiltros" class="btn-menu-item" disabled>
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
-                        <polyline points="9 22 9 12 15 12 15 22"></polyline>
-                    </svg>
-                    Inicio y Limpiar Filtros
-                </button>
-                <button onclick="enviarReporteWhatsApp()" class="btn-whatsapp btn-menu-item">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <line x1="22" y1="2" x2="11" y2="13"></line>
-                        <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
-                    </svg>
-                    Enviar Reporte
-                </button>
-                <hr>
-                <button id="btnReset" class="btn-reset btn-menu-item">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M23 4v6h-6"></path>
-                        <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path>
-                    </svg>
-                    Reiniciar Datos
-                </button>
-            </div>
-        </div>
-    </div>
-    <button id="backToTop" class="back-to-top" title="Ir arriba">↑</button>
-
-    <nav class="tab-bar">
-        <button id="tab-inicio" class="tab-item">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
-                <polyline points="9 22 9 12 15 12 15 22"></polyline>
-            </svg>
-            <span>Inicio</span>
-        </button>
-
-        <button id="tab-visitas" class="tab-item">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="12" cy="12" r="10"></circle>
-                <polyline points="12 6 12 12 16 14"></polyline>
-            </svg>
-            <span>Visitas</span>
-        </button>
-
-        <!-- <button id="tab-reporte" class="tab-item" onclick="enviarReporteWhatsApp()">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
-        <span>Reporte</span>
-    </button> -->
-    </nav>
-
-    <div id="contenedor_cards" class="grid-cards"></div>
-
-    <div id="banner-confirmacion" class="banner-oculto">
-        <div class="banner-contenido">
-            <p id="banner-mensaje">¿Confirmar visita para este cliente?</p>
-            <div class="banner-botones">
-                <button id="btn-cancelar" class="btn-secundario">Cancelar</button>
-                <button id="btn-confirmar" class="btn-primario">Sí, Confirmar</button>
-            </div>
-        </div>
+<section class="content-section">
+    <h2>🚀 Tutoriales Rápidos</h2>
+    
+    <div class="tutorial-card">
+        <h3>1. Configurar el Text Expander</h3>
+        <p>Ahorra tiempo creando atajos. Ve a <b>Ajustes > Diccionario Personal</b> y añade tus snippets. Por ejemplo, escribe <code>!html</code> para que el teclado sugiera toda la estructura básica.</p>
     </div>
 
-    <!-- <script src="main.js" type="module"> </script> -->
-    <script src="app.js" type="module"> </script>
+    <div class="tutorial-card">
+        <h3>2. Activar el teclado en Android</h3>
+        <p>Una vez instalada la app, ve a <b>Ajustes > Sistema > Idiomas e introducción de texto > Teclado en pantalla</b> y activa nuestro teclado.</p>
+    </div>
+
+    <div class="tutorial-card">
+        <h3>3. Símbolos de programación rápidos</h3>
+        <p>Mantén presionada la tecla de punto <code>.</code> para acceder rápidamente a llaves <code>{ }</code>, corchetes <code>[ ]</code> y flechas <code>=></code>.</p>
+    </div>
+</section>
+
+<section class="content-section">
+    <h2>🔒 Privacidad y Seguridad</h2>
+    <p>Tu privacidad es lo primero. Este teclado funciona de manera <b>totalmente local</b>. No recopilamos, almacenamos ni enviamos lo que escribes a ningún servidor externo.</p>
+    <p>Puedes leer nuestra <a href="#privacy">Política de Privacidad aquí</a>.</p>
+</section>
+
+<footer id="privacy">
+    <p>&copy; 2026 Antomc - Desarrollador Independiente</p>
+    <p><a href="https://antomc.github.io">Ver Política de Privacidad Completa</a> | <a href="mailto:tu-correo@gmail.com">Soporte técnico</a></p>
+</footer>
+
 </body>
-
 </html>
