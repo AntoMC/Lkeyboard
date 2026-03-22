@@ -1,0 +1,5931 @@
+{
+  "de lo": {
+    "que": 3958930,
+    "contrario": 211145,
+    "más": 208570
+  },
+  "uno de": {
+    "los": 3784604,
+    "ellos": 697293,
+    "sus": 594485,
+    "esos": 269157,
+    "estos": 151003,
+    "mis": 125361,
+    "nosotros": 120332
+  },
+  "a través": {
+    "de": 3608825,
+    "del": 922078
+  },
+  "en el": {
+    "que": 2917461,
+    "caso": 1526744,
+    "mundo": 1069127,
+    "suelo": 901752,
+    "momento": 867484,
+    "mismo": 722875,
+    "centro": 647894,
+    "ámbito": 634209,
+    "fondo": 576137,
+    "campo": 533557,
+    "siglo": 530122,
+    "interior": 513244,
+    "artículo": 503072,
+    "año": 502930,
+    "sentido": 447431,
+    "proceso": 444037,
+    "tiempo": 429675,
+    "aire": 427500,
+    "mercado": 383938,
+    "primer": 369519,
+    "capítulo": 367502,
+    "marco": 354858,
+    "cual": 328957,
+    "camino": 328318,
+    "lugar": 326336,
+    "futuro": 323605,
+    "trabajo": 317150,
+    "pasado": 301343,
+    "país": 291721,
+    "contexto": 287495,
+    "pecho": 270536,
+    "desarrollo": 265857,
+    "cielo": 262824,
+    "sistema": 248437,
+    "último": 244146,
+    "corazón": 244122,
+    "agua": 244070,
+    "bolsillo": 240710,
+    "espacio": 240386,
+    "sofá": 231325,
+    "segundo": 213687,
+    "seno": 213289,
+    "cuerpo": 212336,
+    "otro": 211750,
+    "libro": 210509,
+    "salón": 201470,
+    "presente": 199712,
+    "estudio": 198085,
+    "apartado": 196719,
+    "plano": 193754,
+    "hombro": 190259,
+    "hospital": 188785,
+    "rostro": 186169,
+    "sector": 183166,
+    "pueblo": 179523,
+    "asiento": 177796,
+    "coche": 176384,
+    "ejercicio": 168472,
+    "mar": 165552,
+    "estómago": 163966,
+    "área": 155519,
+    "piso": 154115,
+    "extranjero": 151987,
+    "curso": 150923,
+    "cuarto": 149815,
+    "espejo": 149782,
+    "punto": 149523,
+    "exterior": 146344,
+    "de": 144783,
+    "patio": 144575,
+    "jardín": 142906,
+    "cuello": 142554,
+    "texto": 141043,
+    "medio": 135247,
+    "estado": 133181,
+    "grupo": 132605,
+    "acto": 128909,
+    "borde": 127629,
+    "siguiente": 126620,
+    "art": 125618,
+    "bosque": 125095,
+    "cuadro": 124602,
+    "plazo": 119857,
+    "poder": 119695,
+    "brazo": 118493
+  },
+  "una de": {
+    "las": 2737561,
+    "sus": 405030,
+    "ellas": 401264,
+    "esas": 237777
+  },
+  "por lo": {
+    "que": 2687063,
+    "tanto": 1162570,
+    "menos": 730946,
+    "general": 417059,
+    "demás": 207543,
+    "cual": 159517,
+    "visto": 152711
+  },
+  "a pesar": {
+    "de": 2620123,
+    "del": 229723
+  },
+  "todo lo": {
+    "que": 2461390,
+    "demás": 173596,
+    "contrario": 151381,
+    "posible": 137944
+  },
+  "en la": {
+    "que": 2425212,
+    "vida": 888785,
+    "cama": 691401,
+    "mano": 601846,
+    "casa": 586585,
+    "parte": 585035,
+    "misma": 558624,
+    "ciudad": 551997,
+    "actualidad": 512229,
+    "calle": 494816,
+    "cabeza": 450033,
+    "puerta": 445817,
+    "medida": 433883,
+    "primera": 388727,
+    "zona": 382395,
+    "historia": 370785,
+    "tierra": 351197,
+    "sala": 347413,
+    "habitación": 340843,
+    "boca": 335766,
+    "práctica": 330028,
+    "mesa": 329982,
+    "mayoría": 311223,
+    "cara": 308509,
+    "cocina": 306417,
+    "oscuridad": 292548,
+    "sociedad": 267037,
+    "cual": 246513,
+    "universidad": 142383,
+    "forma": 239046,
+    "segunda": 237047,
+    "región": 235914,
+    "época": 231006,
+    "escuela": 229566,
+    "pared": 229485,
+    "figura": 213935,
+    "década": 209985,
+    "espalda": 177088,
+    "noche": 176211,
+    "silla": 166278,
+    "cárcel": 165120,
+    "guerra": 162094,
+    "garganta": 161257,
+    "base": 160373,
+    "obra": 158311,
+    "frente": 155967,
+    "mejilla": 154634,
+    "empresa": 151782,
+    "ley": 150371,
+    "mente": 148460,
+    "última": 148299,
+    "iglesia": 147433,
+    "dirección": 147104,
+    "otra": 145761,
+    "cuenta": 143874,
+    "plaza": 141377,
+    "playa": 133573,
+    "construcción": 132565,
+    "oficina": 130798,
+    "tabla": 130367,
+    "línea": 129375,
+    "isla": 127687,
+    "de": 124691,
+    "memoria": 124052,
+    "superficie": 121579,
+    "relación": 120701,
+    "siguiente": 120513,
+    "entrada": 120234,
+    "piel": 120089
+  },
+  "a partir": {
+    "de": 2323848,
+    "del": 472139
+  },
+  "que no": {
+    "se": 2151017,
+    "es": 766543,
+    "me": 695786,
+    "le": 579227,
+    "lo": 574496,
+    "había": 559406,
+    "era": 506265,
+    "te": 411790,
+    "podía": 396881,
+    "hay": 353644,
+    "tenía": 307537,
+    "puede": 245350,
+    "tiene": 240091,
+    "son": 231224,
+    "sea": 213391,
+    "estaba": 212044,
+    "la": 198630,
+    "nos": 186683,
+    "ha": 177848,
+    "quería": 156729,
+    "tienen": 154963,
+    "está": 148708,
+    "puedo": 143886,
+    "fuera": 139452,
+    "sabía": 136481,
+    "haya": 129781,
+    "pueden": 125206
+  },
+  "lo que": {
+    "se": 2039451,
+    "le": 992535,
+    "no": 902796,
+    "es": 883695,
+    "había": 838155,
+    "me": 832009,
+    "el": 454197,
+    "la": 446074,
+    "te": 442611,
+    "nos": 391603,
+    "estaba": 389459,
+    "ha": 375914,
+    "yo": 373809,
+    "más": 328962,
+    "está": 319167,
+    "en": 299767,
+    "él": 291077,
+    "hace": 266520,
+    "era": 263078,
+    "a": 259183,
+    "los": 233724,
+    "sea": 219553,
+    "les": 213493,
+    "quería": 210721,
+    "hay": 205594,
+    "ella": 199735,
+    "he": 176718,
+    "pasa": 172725,
+    "significa": 166791,
+    "tenía": 166553,
+    "respecta": 160908,
+    "puede": 160707,
+    "ocurre": 157238,
+    "quiero": 156738,
+    "ya": 141144,
+    "sucede": 139466,
+    "sí": 135117,
+    "tú": 134375,
+    "realmente": 132772,
+    "dice": 132266,
+    "hacía": 128209,
+    "quiere": 122532,
+    "quieres": 122351,
+    "hizo": 122056,
+    "tiene": 122010,
+    "pasó": 121676,
+    "su": 120507
+  },
+  "antes de": {
+    "que": 1869427,
+    "la": 552287,
+    "su": 127345
+  },
+  "y de": {
+    "la": 1863883,
+    "los": 860280,
+    "las": 727336,
+    "su": 426161,
+    "sus": 259049,
+    "que": 221663,
+    "un": 155829,
+    "una": 151031,
+    "lo": 121723
+  },
+  "de la": {
+    "vida": 1816299,
+    "ciudad": 1317053,
+    "misma": 1121828,
+    "casa": 125805,
+    "historia": 129971,
+    "que": 813036,
+    "sociedad": 796955,
+    "mano": 795701,
+    "ley": 402008,
+    "noche": 718601,
+    "familia": 715003,
+    "población": 708960,
+    "empresa": 698748,
+    "muerte": 666133,
+    "tierra": 222175,
+    "guerra": 128048,
+    "universidad": 135013,
+    "puerta": 558290,
+    "mañana": 555956,
+    "iglesia": 327317,
+    "mujer": 483227,
+    "república": 476114,
+    "naturaleza": 470797,
+    "cama": 460859,
+    "información": 451825,
+    "calle": 443657,
+    "habitación": 439810,
+    "mesa": 434218,
+    "realidad": 425333,
+    "tarde": 423257,
+    "obra": 410238,
+    "cabeza": 401202,
+    "persona": 396237,
+    "época": 390249,
+    "gente": 376154,
+    "primera": 371054,
+    "unión": 369644,
+    "actividad": 362829,
+    "cultura": 362179,
+    "política": 360941,
+    "comunidad": 172528,
+    "situación": 351120,
+    "zona": 338579,
+    "cocina": 323625,
+    "organización": 321265,
+    "administración": 176231,
+    "constitución": 302189,
+    "educación": 301834,
+    "economía": 296663,
+    "región": 289795,
+    "sala": 289355,
+    "acción": 286217,
+    "libertad": 281560,
+    "enfermedad": 278150,
+    "existencia": 277398,
+    "escuela": 277280,
+    "ciencia": 275611,
+    "salud": 268526,
+    "verdad": 264087,
+    "palabra": 262369,
+    "producción": 262040,
+    "clase": 261571,
+    "cual": 261223,
+    "relación": 256173,
+    "humanidad": 255232,
+    "lengua": 252924,
+    "década": 251795,
+    "luz": 244367,
+    "investigación": 242719,
+    "forma": 242018,
+    "experiencia": 237268,
+    "propia": 227254,
+    "comisión": 223563,
+    "literatura": 217303,
+    "música": 216618,
+    "nueva": 213908,
+    "justicia": 209180,
+    "parte": 204879,
+    "piel": 203641,
+    "madre": 203573,
+    "línea": 202662,
+    "ventana": 202419,
+    "fuerza": 200209,
+    "isla": 199629,
+    "pared": 197911,
+    "cara": 194534,
+    "violencia": 193904,
+    "fe": 188409,
+    "memoria": 188123,
+    "imagen": 186904,
+    "función": 185541,
+    "otra": 185521,
+    "segunda": 184706,
+    "semana": 184597,
+    "teoría": 184152,
+    "compañía": 183456,
+    "mente": 181598,
+    "razón": 179552,
+    "comunicación": 178482,
+    "entrada": 176754,
+    "policía": 175058,
+    "nación": 136852,
+    "siguiente": 173095,
+    "crisis": 172244,
+    "boca": 172139,
+    "revolución": 152196,
+    "provincia": 170330,
+    "estructura": 170286,
+    "filosofía": 169309,
+    "democracia": 169073,
+    "conciencia": 168845,
+    "industria": 167056,
+    "luna": 166052,
+    "calidad": 165172,
+    "sangre": 164277,
+    "señora": 162746,
+    "gran": 161367,
+    "base": 160809,
+    "mayoría": 160665,
+    "creación": 160497,
+    "manera": 159335,
+    "voluntad": 158763,
+    "red": 158238,
+    "novela": 157318,
+    "junta": 155515,
+    "tienda": 154627,
+    "silla": 154409,
+    "capacidad": 153990,
+    "propiedad": 149551,
+    "de": 146294,
+    "plaza": 145354,
+    "federación": 144486,
+    "costa": 143454,
+    "religión": 142423,
+    "unidad": 140305,
+    "materia": 139065,
+    "competencia": 137160,
+    "necesidad": 136398,
+    "capital": 135953,
+    "presencia": 134284,
+    "mitad": 133684,
+    "seguridad": 119960,
+    "superficie": 133515,
+    "construcción": 133118,
+    "responsabilidad": 132336,
+    "evolución": 130121,
+    "carretera": 128959,
+    "personalidad": 128646,
+    "deuda": 128258,
+    "autoridad": 126953,
+    "identidad": 125191,
+    "figura": 125070,
+    "tradición": 124664,
+    "oficina": 124171,
+    "energía": 124015,
+    "madrugada": 123969,
+    "izquierda": 123948,
+    "aplicación": 123393,
+    "demanda": 123188,
+    "paz": 122420,
+    "formación": 122343,
+    "joven": 121546,
+    "revista": 120340,
+    "comida": 119770
+  },
+  "se trata": {
+    "de": 1760599
+  },
+  "la mayoría": {
+    "de": 1757862
+  },
+  "es lo": {
+    "que": 1661982,
+    "mismo": 208649
+  },
+  "el caso": {
+    "de": 1643872,
+    "del": 257203,
+    "es": 138570
+  },
+  "cuenta de": {
+    "que": 1639027,
+    "lo": 190989,
+    "la": 159402
+  },
+  "a lo": {
+    "largo": 1619942,
+    "que": 1070777,
+    "mejor": 412023,
+    "lejos": 200766
+  },
+  "de que": {
+    "el": 1517080,
+    "la": 1412969,
+    "se": 1148860,
+    "no": 1095428,
+    "los": 703109,
+    "su": 416751,
+    "las": 407329,
+    "lo": 319819,
+    "en": 316998,
+    "me": 270759,
+    "había": 233027,
+    "era": 214644,
+    "él": 206539,
+    "le": 205098,
+    "estaba": 192529,
+    "ella": 188862,
+    "un": 164639,
+    "yo": 158909,
+    "es": 157494,
+    "te": 156646,
+    "todo": 150703,
+    "sus": 136417,
+    "una": 131110,
+    "a": 129327,
+    "pudiera": 127332
+  },
+  "y ,": {
+    "por": 1386310,
+    "en": 1228424,
+    "a": 454010,
+    "al": 402391,
+    "sin": 371133,
+    "como": 356297,
+    "de": 333755,
+    "sobre": 303198,
+    "con": 283883,
+    "si": 280892,
+    "cuando": 271489,
+    "además": 222674,
+    "aunque": 211366,
+    "para": 139984
+  },
+  "a la": {
+    "que": 1371904,
+    "vez": 1187902,
+    "hora": 810627,
+    "puerta": 696504,
+    "luz": 517817,
+    "gente": 481178,
+    "casa": 429602,
+    "de": 383367,
+    "vida": 372071,
+    "vista": 352988,
+    "cama": 323612,
+    "mujer": 320373,
+    "mesa": 307106,
+    "calle": 303252,
+    "ciudad": 301682,
+    "altura": 296111,
+    "derecha": 278342,
+    "izquierda": 260818,
+    "cabeza": 260748,
+    "persona": 257526,
+    "mañana": 257419,
+    "muerte": 239959,
+    "misma": 233358,
+    "cocina": 221698,
+    "familia": 213435,
+    "realidad": 197128,
+    "cara": 187179,
+    "entrada": 179804,
+    "ventana": 174928,
+    "escuela": 174554,
+    "otra": 174178,
+    "conclusión": 174146,
+    "sociedad": 173887,
+    "policía": 172321,
+    "primera": 164876,
+    "habitación": 156964,
+    "perfección": 146672,
+    "señora": 146656,
+    "espera": 145493,
+    "población": 141237,
+    "iglesia": 140217,
+    "sala": 140127,
+    "tierra": 138867,
+    "parte": 138488,
+    "niña": 136812,
+    "idea": 136673,
+    "boca": 134450,
+    "semana": 131762,
+    "historia": 124394,
+    "cual": 124088,
+    "acción": 123865,
+    "guerra": 121721,
+    "salida": 121266,
+    "información": 118986
+  },
+  "todo el": {
+    "mundo": 1367033,
+    "tiempo": 357071,
+    "día": 313651,
+    "cuerpo": 142313
+  },
+  "que ,": {
+    "en": 1353232,
+    "por": 720792,
+    "a": 621407,
+    "como": 514628,
+    "si": 512231,
+    "al": 420476,
+    "de": 351258,
+    "con": 277420,
+    "aunque": 238230,
+    "sin": 234351,
+    "según": 231312,
+    "cuando": 230143,
+    "para": 199296,
+    "además": 165247,
+    "desde": 137344
+  },
+  "un par": {
+    "de": 1341534
+  },
+  "parte de": {
+    "la": 1335782,
+    "los": 707895,
+    "su": 414878,
+    "las": 374378,
+    "un": 211770,
+    "una": 163701,
+    "sus": 128997
+  },
+  "al mismo": {
+    "tiempo": 1311913
+  },
+  "la que": {
+    "se": 1278364,
+    "el": 257142,
+    "no": 245247,
+    "había": 209210,
+    "la": 176175,
+    "le": 153833,
+    "los": 142619,
+    "me": 140872
+  },
+  "y a": {
+    "la": 1273826,
+    "los": 657896,
+    "su": 417821,
+    "las": 350841,
+    "mí": 214862,
+    "sus": 205726,
+    "veces": 200206,
+    "pesar": 128987
+  },
+  "el que": {
+    "se": 1268844,
+    "la": 240749,
+    "no": 220171,
+    "el": 213826,
+    "los": 144441,
+    "había": 142723
+  },
+  "en lo": {
+    "que": 1262828,
+    "más": 157526,
+    "alto": 148690
+  },
+  "el hecho": {
+    "de": 1262042
+  },
+  "la idea": {
+    "de": 1204092
+  },
+  "a los": {
+    "que": 1201826,
+    "ojos": 671317,
+    "demás": 521259,
+    "niños": 356523,
+    "hombres": 338819,
+    "dos": 331427,
+    "otros": 210277,
+    "de": 206256,
+    "pies": 172205,
+    "pocos": 133312,
+    "hijos": 125932
+  },
+  "la posibilidad": {
+    "de": 1188590
+  },
+  "a punto": {
+    "de": 1187517
+  },
+  "en los": {
+    "que": 1174373,
+    "últimos": 528948,
+    "años": 387014,
+    "ojos": 295322,
+    "casos": 274277,
+    "primeros": 209029,
+    "términos": 201371,
+    "labios": 200742,
+    "países": 181777,
+    "estados": 151283,
+    "pacientes": 127703,
+    "procesos": 126568,
+    "siguientes": 118969
+  },
+  "y en": {
+    "el": 1172913,
+    "la": 1135054,
+    "los": 403936,
+    "las": 357732,
+    "su": 303769,
+    "un": 158189,
+    "ese": 135128
+  },
+  "por qué": {
+    "no": 1169822,
+    "me": 201122,
+    "se": 199396,
+    "lo": 157041,
+    "te": 127968,
+    "la": 121270
+  },
+  "lo largo": {
+    "de": 1164673,
+    "del": 423546
+  },
+  "de acuerdo": {
+    "con": 1147137,
+    "a": 222341,
+    "en": 131544
+  },
+  "en ese": {
+    "momento": 1137852,
+    "caso": 207207,
+    "sentido": 157667,
+    "instante": 139247
+  },
+  "cada uno": {
+    "de": 1111307
+  },
+  "de todos": {
+    "los": 1104766,
+    "modos": 355415
+  },
+  "una serie": {
+    "de": 1088876
+  },
+  "cada vez": {
+    "más": 1086932,
+    "que": 732218
+  },
+  "hecho de": {
+    "que": 1084300
+  },
+  "con la": {
+    "cabeza": 1044010,
+    "que": 691160,
+    "mano": 444260,
+    "mirada": 415436,
+    "misma": 323739,
+    "ayuda": 200413,
+    "esperanza": 181267,
+    "intención": 172449,
+    "boca": 158595,
+    "de": 144333,
+    "idea": 137684,
+    "otra": 128861
+  },
+  "de modo": {
+    "que": 1036378
+  },
+  "en cuanto": {
+    "a": 1033897,
+    "al": 269226,
+    "se": 122060
+  },
+  "en que": {
+    "se": 1031605,
+    "la": 477991,
+    "el": 461226,
+    "los": 260270,
+    "no": 177948,
+    "las": 151926
+  },
+  "través de": {
+    "la": 1027005,
+    "los": 389763,
+    "las": 321417,
+    "un": 239244,
+    "una": 219544,
+    "su": 142615
+  },
+  "la necesidad": {
+    "de": 1020113
+  },
+  "de los": {
+    "que": 1016111,
+    "dos": 645439,
+    "años": 607277,
+    "hombres": 585781,
+    "derechos": 528000,
+    "demás": 484422,
+    "casos": 443096,
+    "estados": 425814,
+    "niños": 376226,
+    "cuales": 367265,
+    "trabajadores": 314246,
+    "más": 307568,
+    "países": 297943,
+    "recursos": 297904,
+    "mismos": 297336,
+    "elementos": 268880,
+    "servicios": 267214,
+    "medios": 257708,
+    "otros": 253316,
+    "pacientes": 252860,
+    "datos": 252489,
+    "primeros": 247949,
+    "hechos": 236943,
+    "hijos": 231872,
+    "pueblos": 228776,
+    "grandes": 227085,
+    "bienes": 223906,
+    "tres": 221659,
+    "padres": 213322,
+    "miembros": 208684,
+    "ojos": 205081,
+    "procesos": 202004,
+    "problemas": 192189,
+    "productos": 189841,
+    "ciudadanos": 186184,
+    "sistemas": 185318,
+    "grupos": 184494,
+    "árboles": 178144,
+    "resultados": 169254,
+    "principales": 168089,
+    "últimos": 165142,
+    "días": 163846,
+    "dedos": 156772,
+    "valores": 155151,
+    "libros": 149199,
+    "siglos": 148954,
+    "tiempos": 148229,
+    "estudiantes": 145607,
+    "alumnos": 141790,
+    "pies": 141006,
+    "animales": 137576,
+    "objetivos": 135766,
+    "individuos": 132874,
+    "estudios": 132737,
+    "seres": 131325,
+    "mejores": 129772,
+    "intereses": 128285,
+    "dioses": 127617,
+    "límites": 126061,
+    "partidos": 125325,
+    "de": 125057,
+    "jóvenes": 124503,
+    "factores": 122547,
+    "principios": 121786,
+    "diferentes": 118635
+  },
+  "en lugar": {
+    "de": 1004529
+  },
+  "que se": {
+    "le": 1001676,
+    "había": 975445,
+    "ha": 777265,
+    "refiere": 468455,
+    "han": 425996,
+    "puede": 303860,
+    "trata": 303467,
+    "les": 292160,
+    "habían": 282865,
+    "me": 281045,
+    "encuentra": 278055,
+    "lo": 273343,
+    "encuentran": 221661,
+    "encontraba": 219489,
+    "trataba": 212535,
+    "hace": 184027,
+    "pueden": 165806,
+    "está": 155603,
+    "llama": 148809,
+    "haya": 147441,
+    "va": 146492,
+    "trate": 146044,
+    "nos": 143652,
+    "debe": 141442,
+    "produce": 137582,
+    "estaba": 136028,
+    "la": 131346
+  },
+  "que en": {
+    "el": 999594,
+    "la": 767699,
+    "los": 317798,
+    "su": 302725,
+    "las": 220142,
+    "realidad": 216120,
+    "un": 183704,
+    "este": 174381,
+    "ese": 144372
+  },
+  "los que": {
+    "se": 992915,
+    "no": 330583,
+    "la": 187865,
+    "el": 145505
+  },
+  "el resto": {
+    "de": 990890,
+    "del": 326814
+  },
+  "lo único": {
+    "que": 990224
+  },
+  "después de": {
+    "la": 955527,
+    "que": 541479,
+    "todo": 362877,
+    "haber": 362019,
+    "un": 283581,
+    "una": 215960,
+    "su": 196106,
+    "las": 124833
+  },
+  "el punto": {
+    "de": 951388
+  },
+  "más allá": {
+    "de": 934351,
+    "del": 250088
+  },
+  "una especie": {
+    "de": 927242
+  },
+  "por parte": {
+    "de": 926143,
+    "del": 336055
+  },
+  "la hora": {
+    "de": 916915
+  },
+  "punto de": {
+    "vista": 915850,
+    "partida": 189861
+  },
+  "en las": {
+    "que": 906940,
+    "manos": 224425,
+    "relaciones": 138833,
+    "últimas": 135254,
+    "calles": 124719
+  },
+  "en este": {
+    "caso": 899046,
+    "sentido": 635997,
+    "momento": 337030,
+    "punto": 181139,
+    "capítulo": 159040,
+    "libro": 152938,
+    "mundo": 150384
+  },
+  "a su": {
+    "vez": 895940,
+    "lado": 869829,
+    "alrededor": 545510,
+    "madre": 411377,
+    "padre": 405354,
+    "casa": 366939,
+    "hijo": 352446,
+    "hija": 240095,
+    "hermano": 229055,
+    "hermana": 169869,
+    "marido": 163510,
+    "familia": 161514,
+    "mujer": 160396,
+    "esposa": 154082,
+    "amigo": 146361
+  },
+  "en medio": {
+    "de": 895350,
+    "del": 236653
+  },
+  "por primera": {
+    "vez": 889809
+  },
+  "un poco": {
+    "de": 888647,
+    "más": 709021
+  },
+  "el número": {
+    "de": 884515
+  },
+  "al igual": {
+    "que": 877789
+  },
+  "el fin": {
+    "de": 870577
+  },
+  "mayoría de": {
+    "los": 867325,
+    "las": 455813,
+    "la": 129404
+  },
+  "por encima": {
+    "de": 857879,
+    "del": 315069
+  },
+  "el nombre": {
+    "de": 857144,
+    "del": 199523
+  },
+  "a todos": {
+    "los": 848655
+  },
+  "la historia": {
+    "de": 846199,
+    "del": 241995
+  },
+  "este tipo": {
+    "de": 845065
+  },
+  "el proceso": {
+    "de": 842836
+  },
+  "la puerta": {
+    "de": 842096,
+    "del": 443730,
+    "y": 430328,
+    "se": 160821
+  },
+  "la presencia": {
+    "de": 820778,
+    "del": 121502
+  },
+  "con lo": {
+    "que": 811044,
+    "cual": 144566
+  },
+  "por otra": {
+    "parte": 793401
+  },
+  "que ver": {
+    "con": 792103
+  },
+  "no ,": {
+    "no": 791594,
+    "pero": 159947
+  },
+  "la vida": {
+    "de": 788924,
+    "y": 342975,
+    "en": 249151,
+    "del": 164543,
+    "es": 162463,
+    "que": 160653,
+    "cotidiana": 137868
+  },
+  "la casa": {
+    "de": 126047,
+    "y": 198541,
+    "del": 127806
+  },
+  "de las": {
+    "personas": 771680,
+    "mujeres": 526612,
+    "que": 506418,
+    "cosas": 465491,
+    "dos": 349608,
+    "manos": 303084,
+    "relaciones": 300621,
+    "empresas": 251239,
+    "cuales": 237908,
+    "partes": 228271,
+    "mismas": 218360,
+    "actividades": 217698,
+    "palabras": 190171,
+    "más": 187370,
+    "acciones": 181527,
+    "instituciones": 173256,
+    "obras": 170284,
+    "condiciones": 169708,
+    "grandes": 169191,
+    "fuerzas": 166600,
+    "normas": 166054,
+    "ideas": 159642,
+    "naciones": 159457,
+    "leyes": 150620,
+    "primeras": 150079,
+    "tres": 147636,
+    "ciudades": 143701,
+    "políticas": 140112,
+    "formas": 139421,
+    "autoridades": 135018,
+    "características": 134763,
+    "células": 133759,
+    "funciones": 127405,
+    "veces": 126653,
+    "sociedades": 122977,
+    "principales": 122607,
+    "ciencias": 121496,
+    "nuevas": 119723
+  },
+  "dentro de": {
+    "la": 771175,
+    "los": 317214,
+    "un": 303327,
+    "las": 201208,
+    "una": 200427,
+    "su": 164609
+  },
+  "en caso": {
+    "de": 764524
+  },
+  "la existencia": {
+    "de": 763076
+  },
+  "en relación": {
+    "con": 760657,
+    "a": 195108
+  },
+  "el desarrollo": {
+    "de": 754432,
+    "del": 164860
+  },
+  "de su": {
+    "vida": 754251,
+    "padre": 584138,
+    "madre": 472067,
+    "cuerpo": 336896,
+    "casa": 279143,
+    "propia": 270489,
+    "hijo": 247919,
+    "hermano": 198263,
+    "familia": 195981,
+    "propio": 174534,
+    "hija": 170237,
+    "marido": 160630,
+    "muerte": 154159,
+    "corazón": 139698,
+    "hermana": 139436,
+    "mano": 131271,
+    "boca": 130636,
+    "rostro": 125336,
+    "trabajo": 122649,
+    "amigo": 119972,
+    "tiempo": 119822,
+    "esposa": 119309
+  },
+  "de todas": {
+    "las": 744225,
+    "formas": 213731
+  },
+  "más o": {
+    "menos": 743542
+  },
+  "por medio": {
+    "de": 740463,
+    "del": 133174
+  },
+  "la muerte": {
+    "de": 740210,
+    "del": 142769
+  },
+  "poco a": {
+    "poco": 738472
+  },
+  "pesar de": {
+    "que": 735341,
+    "la": 294320,
+    "su": 202124,
+    "todo": 190595,
+    "las": 153589,
+    "los": 125345
+  },
+  "cada una": {
+    "de": 726210
+  },
+  "el momento": {
+    "de": 722788,
+    "en": 534584
+  },
+  "la mayor": {
+    "parte": 717323
+  },
+  "el uso": {
+    "de": 714739,
+    "del": 138734
+  },
+  "en vez": {
+    "de": 708113
+  },
+  "para que": {
+    "se": 702567,
+    "no": 602660,
+    "el": 474538,
+    "la": 469950,
+    "los": 346808,
+    "lo": 200519,
+    "me": 197884,
+    "le": 179181,
+    "las": 158731,
+    "te": 127652
+  },
+  "a medida": {
+    "que": 700530
+  },
+  "en todos": {
+    "los": 697059
+  },
+  "los ojos": {
+    "de": 694539,
+    "y": 556489,
+    "en": 169219,
+    "del": 136391,
+    "cerrados": 127699
+  },
+  "la falta": {
+    "de": 684959
+  },
+  "se dio": {
+    "cuenta": 679757,
+    "la": 223737
+  },
+  "en torno": {
+    "a": 664709,
+    "al": 199377
+  },
+  "una vez": {
+    "más": 660163,
+    "que": 649567,
+    "en": 156085
+  },
+  "a fin": {
+    "de": 654358
+  },
+  "por el": {
+    "contrario": 653427,
+    "que": 515987,
+    "camino": 228219,
+    "momento": 208063,
+    "hecho": 186875,
+    "otro": 156283,
+    "cual": 151667,
+    "pasillo": 134764,
+    "mismo": 131788,
+    "suelo": 126839
+  },
+  "la capacidad": {
+    "de": 653365
+  },
+  "un grupo": {
+    "de": 649436
+  },
+  "momento en": {
+    "que": 648659,
+    "el": 210457
+  },
+  "es que": {
+    "no": 646006,
+    "la": 334442,
+    "el": 327455,
+    "se": 190687,
+    "los": 171398,
+    "me": 148921,
+    "en": 128816
+  },
+  "en primer": {
+    "lugar": 633509
+  },
+  "que le": {
+    "había": 633411,
+    "habían": 178009
+  },
+  "en forma": {
+    "de": 633359
+  },
+  "la cabeza": {
+    "y": 631374,
+    "de": 349466,
+    "en": 190101,
+    "para": 156214,
+    "hacia": 155624,
+    "con": 150225,
+    "del": 122276
+  },
+  "frente a": {
+    "la": 627995,
+    "los": 232051,
+    "las": 171859,
+    "él": 126521
+  },
+  "por otro": {
+    "lado": 626514
+  },
+  "se trataba": {
+    "de": 623499
+  },
+  "por su": {
+    "parte": 622372
+  },
+  "junto a": {
+    "la": 621058,
+    "su": 164821,
+    "él": 152171,
+    "los": 134544,
+    "ella": 128390
+  },
+  "la ciudad": {
+    "de": 144732,
+    "y": 183238
+  },
+  "la forma": {
+    "de": 609826,
+    "en": 355127
+  },
+  "las que": {
+    "se": 604284,
+    "no": 151318
+  },
+  "la sensación": {
+    "de": 603791
+  },
+  "con el": {
+    "fin": 597098,
+    "que": 578249,
+    "tiempo": 381715,
+    "mismo": 218213,
+    "objetivo": 187017,
+    "nombre": 178325,
+    "paso": 157515,
+    "resto": 157043,
+    "corazón": 147641,
+    "mundo": 147027,
+    "propósito": 135314,
+    "dedo": 132761,
+    "de": 128128
+  },
+  "que iba": {
+    "a": 596616
+  },
+  "como si": {
+    "fuera": 595444,
+    "no": 372945,
+    "se": 324845,
+    "estuviera": 276949,
+    "la": 204124,
+    "el": 182877,
+    "hubiera": 176376,
+    "fueran": 174488,
+    "le": 141776
+  },
+  "al día": {
+    "siguiente": 593064
+  },
+  "con los": {
+    "ojos": 587868,
+    "que": 404630,
+    "brazos": 239650,
+    "demás": 214258,
+    "dedos": 168310
+  },
+  "lado de": {
+    "la": 586050
+  },
+  "y lo": {
+    "que": 584925
+  },
+  "de manera": {
+    "que": 584203
+  },
+  "los estados": {
+    "unidos": 578677
+  },
+  "las personas": {
+    "que": 578068,
+    "con": 184763
+  },
+  "la universidad": {
+    "de": 568880
+  },
+  "la primera": {
+    "vez": 555598
+  },
+  "en busca": {
+    "de": 555288
+  },
+  "es posible": {
+    "que": 553136
+  },
+  "dio cuenta": {
+    "de": 551883
+  },
+  "y que": {
+    "no": 549879,
+    "se": 523757,
+    "la": 296512,
+    "el": 274692,
+    "en": 188905,
+    "los": 164810,
+    "le": 136153,
+    "por": 121283
+  },
+  "la voz": {
+    "de": 549334,
+    "del": 119157
+  },
+  "a las": {
+    "que": 546889,
+    "personas": 440281,
+    "mujeres": 306706,
+    "dos": 165680,
+    "necesidades": 139737,
+    "autoridades": 120049,
+    "de": 119842
+  },
+  "con una": {
+    "sonrisa": 546517,
+    "mano": 155267,
+    "mujer": 124481
+  },
+  "no se": {
+    "puede": 543375,
+    "había": 344016,
+    "ha": 340429,
+    "le": 330479,
+    "trata": 306827,
+    "lo": 306441,
+    "me": 165621,
+    "podía": 134398
+  },
+  "que lo": {
+    "que": 540606,
+    "había": 218296
+  },
+  "el centro": {
+    "de": 537600,
+    "del": 173675
+  },
+  "que ya": {
+    "no": 536847,
+    "se": 179020,
+    "había": 131948
+  },
+  "el tipo": {
+    "de": 530710
+  },
+  "de diciembre": {
+    "de": 529514
+  },
+  "una y": {
+    "otra": 529334
+  },
+  "mayor parte": {
+    "de": 527218,
+    "del": 154700
+  },
+  "al lado": {
+    "de": 526325,
+    "del": 157055
+  },
+  "tener en": {
+    "cuenta": 523851
+  },
+  "al otro": {
+    "lado": 523443
+  },
+  "en función": {
+    "de": 522619,
+    "del": 161388
+  },
+  "por la": {
+    "que": 519014,
+    "mañana": 440157,
+    "noche": 430146,
+    "puerta": 268547,
+    "ventana": 244833,
+    "tarde": 238806,
+    "calle": 181275,
+    "cual": 155045,
+    "cabeza": 141025,
+    "ley": 121278
+  },
+  "al cabo": {
+    "de": 518190
+  },
+  "se refiere": {
+    "a": 517425,
+    "el": 165023,
+    "al": 150878
+  },
+  "de este": {
+    "modo": 516711,
+    "tipo": 296415,
+    "libro": 288968,
+    "mundo": 120352
+  },
+  "al tiempo": {
+    "que": 514737
+  },
+  "no creo": {
+    "que": 514132
+  },
+  "a sí": {
+    "mismo": 513793,
+    "misma": 293476
+  },
+  "medio de": {
+    "la": 511197,
+    "un": 166090,
+    "una": 163638
+  },
+  "el de": {
+    "la": 510866,
+    "los": 211166,
+    "las": 123144
+  },
+  "la base": {
+    "de": 509500,
+    "del": 120237
+  },
+  "historia de": {
+    "la": 508176
+  },
+  "tal y": {
+    "como": 508100
+  },
+  "y otra": {
+    "vez": 507069
+  },
+  "la creación": {
+    "de": 504328
+  },
+  "a que": {
+    "se": 503857,
+    "el": 237865,
+    "la": 232658,
+    "los": 140480
+  },
+  "se acercó": {
+    "a": 503524
+  },
+  "con respecto": {
+    "a": 501243,
+    "al": 168813
+  },
+  "no es": {
+    "un": 498559,
+    "una": 424884,
+    "el": 363240,
+    "la": 316147,
+    "que": 274643,
+    "posible": 260516,
+    "así": 231639,
+    "lo": 229335,
+    "más": 227800,
+    "de": 190938,
+    "necesario": 182071,
+    "tan": 178042,
+    "nada": 148357,
+    "cierto": 143621,
+    "fácil": 122342
+  },
+  "de vez": {
+    "en": 494644
+  },
+  "algunos de": {
+    "los": 493160,
+    "ellos": 132923,
+    "sus": 130139
+  },
+  "la mano": {
+    "de": 491653,
+    "y": 441426,
+    "en": 240789,
+    "a": 161384,
+    "para": 148149,
+    "derecha": 137522,
+    "por": 126229
+  },
+  "seguro de": {
+    "que": 491064
+  },
+  "a un": {
+    "lado": 491027,
+    "hombre": 351048,
+    "grupo": 150851
+  },
+  "que es": {
+    "el": 490303,
+    "la": 479343,
+    "un": 400674,
+    "una": 338653,
+    "lo": 205062,
+    "más": 144547,
+    "muy": 119423
+  },
+  "de todo": {
+    "el": 490287,
+    "lo": 372593,
+    "tipo": 138538
+  },
+  "y no": {
+    "se": 488293,
+    "me": 272608,
+    "es": 190701,
+    "lo": 179202,
+    "le": 138402,
+    "hay": 134493,
+    "en": 132890,
+    "de": 126532,
+    "te": 124634,
+    "sólo": 120083
+  },
+  "la década": {
+    "de": 488056
+  },
+  "vez en": {
+    "cuando": 487773,
+    "la": 126624
+  },
+  "de enero": {
+    "de": 485112
+  },
+  "la luz": {
+    "de": 483637,
+    "del": 282636
+  },
+  "lo mismo": {
+    "que": 480107
+  },
+  "todos los": {
+    "días": 479655,
+    "que": 350703,
+    "demás": 217921,
+    "derechos": 185046,
+    "hombres": 172421,
+    "casos": 120486
+  },
+  "el sentido": {
+    "de": 476163
+  },
+  "en materia": {
+    "de": 474638
+  },
+  "en cuenta": {
+    "que": 473592,
+    "la": 193009,
+    "el": 145500,
+    "las": 127089
+  },
+  "de esta": {
+    "manera": 472185,
+    "forma": 318635,
+    "obra": 187904
+  },
+  "se convirtió": {
+    "en": 472075
+  },
+  "de un": {
+    "modo": 467561,
+    "hombre": 368232,
+    "lado": 300442,
+    "año": 203302,
+    "sistema": 199017,
+    "grupo": 180164,
+    "nuevo": 174102,
+    "proceso": 146757,
+    "salto": 138005,
+    "solo": 130086,
+    "momento": 126901,
+    "gran": 122666,
+    "rato": 121705,
+    "niño": 121636
+  },
+  "en todo": {
+    "caso": 467536,
+    "el": 430635,
+    "momento": 180527,
+    "lo": 138899
+  },
+  "de una": {
+    "manera": 466824,
+    "vez": 345589,
+    "forma": 318248,
+    "persona": 268200,
+    "de": 253904,
+    "mujer": 250253,
+    "nueva": 176625,
+    "hora": 148116,
+    "gran": 145461,
+    "serie": 142788,
+    "sociedad": 139041,
+    "empresa": 124939
+  },
+  "partir de": {
+    "la": 465568,
+    "los": 201133,
+    "las": 128081,
+    "ese": 122486
+  },
+  "me dijo": {
+    "que": 461966
+  },
+  "la cantidad": {
+    "de": 460560
+  },
+  "idea de": {
+    "que": 458099,
+    "la": 153792,
+    "lo": 119826
+  },
+  "desde el": {
+    "punto": 457562,
+    "principio": 291264,
+    "primer": 156316,
+    "momento": 136429
+  },
+  "por un": {
+    "lado": 457218,
+    "momento": 365005,
+    "instante": 174640
+  },
+  "de mayo": {
+    "de": 456001
+  },
+  "de julio": {
+    "de": 455620
+  },
+  "en uno": {
+    "de": 454914
+  },
+  "de junio": {
+    "de": 452638
+  },
+  "en todas": {
+    "las": 451945,
+    "partes": 144523
+  },
+  "caso de": {
+    "que": 451235,
+    "la": 284372,
+    "los": 235107,
+    "las": 159399
+  },
+  "llevar a": {
+    "cabo": 446706
+  },
+  "la mitad": {
+    "de": 446207,
+    "del": 146035
+  },
+  "el concepto": {
+    "de": 445941
+  },
+  "teniendo en": {
+    "cuenta": 444467
+  },
+  "no iba": {
+    "a": 443992
+  },
+  "al final": {
+    "de": 442605,
+    "del": 254480
+  },
+  "a mí": {
+    "me": 442505,
+    "no": 155758
+  },
+  "la verdad": {
+    "es": 441840
+  },
+  "con las": {
+    "manos": 439374,
+    "que": 290548
+  },
+  "de marzo": {
+    "de": 438891
+  },
+  "de octubre": {
+    "de": 438853
+  },
+  "y con": {
+    "la": 438625,
+    "el": 386490,
+    "un": 226482,
+    "una": 207542,
+    "los": 198560,
+    "las": 130792
+  },
+  "como en": {
+    "el": 437501,
+    "la": 297723,
+    "los": 151404
+  },
+  "eso es": {
+    "lo": 436509,
+    "todo": 139865
+  },
+  "se encuentra": {
+    "en": 436110
+  },
+  "que había": {
+    "sido": 433239,
+    "en": 257446,
+    "hecho": 237542,
+    "estado": 223834,
+    "visto": 195565,
+    "pasado": 175877,
+    "tenido": 160157,
+    "que": 133452,
+    "llegado": 121367
+  },
+  "la importancia": {
+    "de": 429954
+  },
+  "en su": {
+    "vida": 429022,
+    "interior": 391993,
+    "casa": 366381,
+    "caso": 358624,
+    "lugar": 281040,
+    "mente": 156560,
+    "rostro": 153227,
+    "conjunto": 141108,
+    "propia": 135954,
+    "mayoría": 134398,
+    "momento": 134023,
+    "libro": 127924,
+    "sitio": 126001,
+    "cabeza": 125966,
+    "totalidad": 123199
+  },
+  "la oportunidad": {
+    "de": 429006
+  },
+  "final de": {
+    "la": 428530
+  },
+  "verdad es": {
+    "que": 427569
+  },
+  "qué es": {
+    "lo": 426360
+  },
+  "primera vez": {
+    "que": 425796,
+    "en": 262075
+  },
+  "el valor": {
+    "de": 425637
+  },
+  "respecto a": {
+    "la": 422046,
+    "los": 186392,
+    "las": 141451
+  },
+  "de noviembre": {
+    "de": 421828
+  },
+  "más de": {
+    "lo": 420775,
+    "una": 377761,
+    "un": 358175,
+    "la": 199649,
+    "dos": 152699
+  },
+  "de abril": {
+    "de": 420735
+  },
+  "la construcción": {
+    "de": 420040
+  },
+  "las cosas": {
+    "que": 418728,
+    "de": 140711
+  },
+  "en aquel": {
+    "momento": 418638
+  },
+  "no lo": {
+    "sé": 417554,
+    "es": 152824,
+    "había": 139968
+  },
+  "miembros de": {
+    "la": 416517
+  },
+  "en una": {
+    "de": 414758,
+    "situación": 169524,
+    "ocasión": 149555,
+    "especie": 124176
+  },
+  "el sistema": {
+    "de": 413677
+  },
+  "a causa": {
+    "de": 412691
+  },
+  "trata de": {
+    "un": 412591,
+    "una": 393963,
+    "la": 120357
+  },
+  "debido a": {
+    "la": 412572,
+    "que": 353003,
+    "su": 160683
+  },
+  "el día": {
+    "de": 411733,
+    "en": 246631,
+    "que": 231746,
+    "anterior": 148079
+  },
+  "la obra": {
+    "de": 411097
+  },
+  "segura de": {
+    "que": 410873
+  },
+  "el riesgo": {
+    "de": 410780
+  },
+  "no sé": {
+    "si": 405745,
+    "qué": 342464,
+    "cómo": 190233,
+    "por": 154009
+  },
+  "más que": {
+    "un": 403383,
+    "una": 342386,
+    "el": 197290,
+    "la": 196954,
+    "a": 140299,
+    "en": 132188
+  },
+  "la impresión": {
+    "de": 401922
+  },
+  "una forma": {
+    "de": 401369
+  },
+  "los hijos": {
+    "de": 399289
+  },
+  "los medios": {
+    "de": 398737
+  },
+  "el principio": {
+    "de": 396753
+  },
+  "que todos": {
+    "los": 396036
+  },
+  "de toda": {
+    "la": 395120
+  },
+  "de febrero": {
+    "de": 394534
+  },
+  "sobre la": {
+    "mesa": 394421,
+    "base": 181823,
+    "cama": 123246,
+    "que": 120618
+  },
+  "se convierte": {
+    "en": 394364
+  },
+  "no puede": {
+    "ser": 394148
+  },
+  "llegar a": {
+    "la": 392886,
+    "ser": 181948
+  },
+  "embargo ,": {
+    "la": 392546,
+    "no": 382114,
+    "el": 333265,
+    "en": 296325,
+    "los": 141696,
+    "se": 137146,
+    "a": 129923
+  },
+  "encima de": {
+    "la": 392201,
+    "los": 119399
+  },
+  "en cualquier": {
+    "caso": 392174,
+    "momento": 228942
+  },
+  "de septiembre": {
+    "de": 391218
+  },
+  "los miembros": {
+    "de": 391036,
+    "del": 206773
+  },
+  "a diferencia": {
+    "de": 390059
+  },
+  "que tenía": {
+    "que": 387850,
+    "en": 185515
+  },
+  "en contra": {
+    "de": 387200
+  },
+  "acerca de": {
+    "la": 386835,
+    "los": 131793
+  },
+  "el estado": {
+    "de": 384824
+  },
+  "que hay": {
+    "que": 384686,
+    "en": 214998
+  },
+  "el interior": {
+    "de": 384363,
+    "del": 185448
+  },
+  "así como": {
+    "la": 383170,
+    "el": 279991,
+    "de": 211757,
+    "los": 198243,
+    "en": 173155,
+    "las": 169507,
+    "a": 125370
+  },
+  "era lo": {
+    "que": 382505
+  },
+  "la formación": {
+    "de": 380008
+  },
+  "de mi": {
+    "vida": 377791,
+    "padre": 273228,
+    "madre": 225883
+  },
+  "la aplicación": {
+    "de": 377508
+  },
+  "un hombre": {
+    "que": 377170,
+    "de": 309093
+  },
+  "sobre todo": {
+    "en": 375875
+  },
+  "en un": {
+    "momento": 374652,
+    "lugar": 268331,
+    "mundo": 180177,
+    "principio": 162910,
+    "tono": 146084,
+    "estado": 143255,
+    "contexto": 118993
+  },
+  "si no": {
+    "se": 374159,
+    "lo": 246357,
+    "es": 169411,
+    "me": 146268,
+    "hubiera": 144967,
+    "te": 139851,
+    "fuera": 131269
+  },
+  "desarrollo de": {
+    "la": 373217,
+    "las": 143429
+  },
+  "es uno": {
+    "de": 371160
+  },
+  "la realización": {
+    "de": 370241
+  },
+  "ninguno de": {
+    "los": 369736
+  },
+  "el resultado": {
+    "de": 368568
+  },
+  "de uno": {
+    "de": 367219
+  },
+  "algunas de": {
+    "las": 366655
+  },
+  "no te": {
+    "preocupes": 366532,
+    "lo": 118797
+  },
+  "la esperanza": {
+    "de": 366473
+  },
+  "el nivel": {
+    "de": 365630
+  },
+  "pero no": {
+    "se": 364972,
+    "lo": 296782,
+    "es": 246059,
+    "me": 231657,
+    "podía": 180993,
+    "era": 151302,
+    "le": 140712,
+    "había": 140293
+  },
+  "la imagen": {
+    "de": 363442
+  },
+  "cierto es": {
+    "que": 363030
+  },
+  "la sala": {
+    "de": 362835
+  },
+  "se va": {
+    "a": 362489
+  },
+  "la producción": {
+    "de": 361814
+  },
+  "y por": {
+    "qué": 361768,
+    "eso": 330872,
+    "la": 290258,
+    "lo": 255621,
+    "el": 245905,
+    "tanto": 203052,
+    "ello": 121767
+  },
+  "un sistema": {
+    "de": 361159
+  },
+  "cerca de": {
+    "la": 360270
+  },
+  "es cierto": {
+    "que": 360197
+  },
+  "en voz": {
+    "baja": 359821,
+    "alta": 326160
+  },
+  "hasta que": {
+    "se": 359754,
+    "el": 229797,
+    "la": 206367,
+    "no": 137554
+  },
+  "un montón": {
+    "de": 358949
+  },
+  "que la": {
+    "gente": 356632,
+    "mayoría": 235984,
+    "vida": 235449,
+    "de": 204313,
+    "había": 174287,
+    "persona": 139510,
+    "mujer": 133657
+  },
+  "de estados": {
+    "unidos": 356159
+  },
+  "hoy en": {
+    "día": 355033
+  },
+  "la ley": {
+    "de": 230787
+  },
+  "la persona": {
+    "que": 353349
+  },
+  "fuera de": {
+    "la": 353302
+  },
+  "el objetivo": {
+    "de": 353277
+  },
+  "se encogió": {
+    "de": 352180
+  },
+  "la calidad": {
+    "de": 352139
+  },
+  "puerta de": {
+    "la": 350445
+  },
+  "otro lado": {
+    "de": 349271,
+    "del": 231175
+  },
+  "encogió de": {
+    "hombros": 348995
+  },
+  "el tiempo": {
+    "que": 348078,
+    "de": 307889,
+    "y": 176424
+  },
+  "no voy": {
+    "a": 347729
+  },
+  "la pérdida": {
+    "de": 346471
+  },
+  "las palabras": {
+    "de": 346023,
+    "que": 156045
+  },
+  "relación con": {
+    "el": 345526,
+    "la": 317525,
+    "los": 173241
+  },
+  "el poder": {
+    "de": 345396
+  },
+  "el control": {
+    "de": 343613
+  },
+  "a favor": {
+    "de": 342923
+  },
+  "resto de": {
+    "la": 340304,
+    "los": 245991,
+    "las": 118518
+  },
+  "la relación": {
+    "entre": 338488,
+    "de": 210715
+  },
+  "de agosto": {
+    "de": 338349
+  },
+  "que era": {
+    "un": 338108,
+    "una": 275633,
+    "el": 254627,
+    "la": 203926
+  },
+  "la de": {
+    "la": 335775,
+    "los": 294451,
+    "un": 140143
+  },
+  "a modo": {
+    "de": 335742
+  },
+  "en estados": {
+    "unidos": 335616
+  },
+  "un conjunto": {
+    "de": 334953
+  },
+  "del siglo": {
+    "xx": 334765,
+    "xix": 311929,
+    "xviii": 145184
+  },
+  "del mismo": {
+    "modo": 334313
+  },
+  "el estudio": {
+    "de": 334073
+  },
+  "debajo de": {
+    "la": 333953
+  },
+  "el ejercicio": {
+    "de": 333636
+  },
+  "a todo": {
+    "el": 333547,
+    "lo": 121224
+  },
+  "largo de": {
+    "la": 332507,
+    "los": 190899
+  },
+  "a uno": {
+    "de": 332446
+  },
+  "medios de": {
+    "comunicación": 332278
+  },
+  "el campo": {
+    "de": 331507
+  },
+  "una parte": {
+    "de": 329760
+  },
+  "abrió la": {
+    "puerta": 329393
+  },
+  "el ámbito": {
+    "de": 329264
+  },
+  "general de": {
+    "la": 328475
+  },
+  "a menos": {
+    "que": 328453
+  },
+  "estaba a": {
+    "punto": 328269
+  },
+  "la libertad": {
+    "de": 327915
+  },
+  "sensación de": {
+    "que": 327171
+  },
+  "sí ,": {
+    "pero": 327150,
+    "sí": 154203,
+    "lo": 141406,
+    "claro": 137276,
+    "es": 132970,
+    "y": 129331
+  },
+  "lo cierto": {
+    "es": 326781
+  },
+  "la vez": {
+    "que": 325618
+  },
+  "a todas": {
+    "las": 325613
+  },
+  "o de": {
+    "la": 324874,
+    "los": 136601,
+    "un": 123656
+  },
+  "que va": {
+    "a": 323811
+  },
+  "los derechos": {
+    "de": 323447,
+    "humanos": 222983
+  },
+  "la fuerza": {
+    "de": 322248
+  },
+  "derecho a": {
+    "la": 322158
+  },
+  "el cuerpo": {
+    "de": 322099
+  },
+  "la aparición": {
+    "de": 321932
+  },
+  "me di": {
+    "cuenta": 321419
+  },
+  "no hay": {
+    "nada": 320748,
+    "que": 232928
+  },
+  "en contacto": {
+    "con": 320023
+  },
+  "posibilidad de": {
+    "que": 319922
+  },
+  "de cada": {
+    "uno": 319057,
+    "una": 156325
+  },
+  "al ver": {
+    "que": 318058,
+    "a": 127542
+  },
+  "era un": {
+    "hombre": 317934
+  },
+  "por debajo": {
+    "de": 317098,
+    "del": 122121
+  },
+  "y al": {
+    "cabo": 316838,
+    "mismo": 144510
+  },
+  "centro de": {
+    "la": 316719
+  },
+  "es una": {
+    "de": 315570
+  },
+  "le había": {
+    "dicho": 315369,
+    "dado": 207819,
+    "hecho": 162243
+  },
+  "la ausencia": {
+    "de": 315237
+  },
+  "en términos": {
+    "de": 315129
+  },
+  "me parece": {
+    "que": 314890
+  },
+  "los procesos": {
+    "de": 314509
+  },
+  "la intención": {
+    "de": 314184
+  },
+  "forma en": {
+    "que": 313250
+  },
+  "un punto": {
+    "de": 313118
+  },
+  "cuanto a": {
+    "la": 312969,
+    "los": 124219
+  },
+  "algo que": {
+    "no": 310476
+  },
+  "el mundo": {
+    "de": 308737,
+    "se": 165037,
+    "y": 135847
+  },
+  "el conjunto": {
+    "de": 308202
+  },
+  "el trabajo": {
+    "de": 308186
+  },
+  "el derecho": {
+    "de": 307890,
+    "a": 306180
+  },
+  "el camino": {
+    "de": 307254
+  },
+  "a largo": {
+    "plazo": 305982
+  },
+  "el rostro": {
+    "de": 304707
+  },
+  "a ver": {
+    "a": 303150,
+    "si": 209393
+  },
+  "los últimos": {
+    "años": 302607
+  },
+  "todo tipo": {
+    "de": 300824
+  },
+  "gracias a": {
+    "la": 300519,
+    "dios": 158196
+  },
+  "los seres": {
+    "humanos": 299262
+  },
+  "todas las": {
+    "cosas": 299056,
+    "personas": 167851
+  },
+  "cerró los": {
+    "ojos": 298070
+  },
+  "el papel": {
+    "de": 297760
+  },
+  "la expresión": {
+    "de": 297693
+  },
+  "la madre": {
+    "de": 296114
+  },
+  "la situación": {
+    "de": 296009
+  },
+  "los efectos": {
+    "de": 295917
+  },
+  "es capaz": {
+    "de": 295861
+  },
+  "la llegada": {
+    "de": 295859
+  },
+  "la mirada": {
+    "de": 295360,
+    "y": 118526
+  },
+  "el deseo": {
+    "de": 295141
+  },
+  "vez que": {
+    "se": 294694,
+    "la": 150212,
+    "lo": 119846
+  },
+  "que el": {
+    "hombre": 294572,
+    "de": 209721,
+    "mundo": 181155,
+    "que": 147040,
+    "niño": 136535,
+    "tiempo": 132381,
+    "resto": 131210
+  },
+  "los resultados": {
+    "de": 294196
+  },
+  "se puso": {
+    "en": 293901,
+    "a": 278859,
+    "de": 225955
+  },
+  "que acababa": {
+    "de": 293220
+  },
+  "el marco": {
+    "de": 292878
+  },
+  "de alguna": {
+    "manera": 292790
+  },
+  "en casa": {
+    "de": 292665
+  },
+  "el grado": {
+    "de": 292474
+  },
+  "como consecuencia": {
+    "de": 292344
+  },
+  "y se": {
+    "lo": 291918,
+    "la": 231728,
+    "puso": 225347,
+    "le": 207006,
+    "dirigió": 205982,
+    "quedó": 192260,
+    "sentó": 181444,
+    "había": 167512,
+    "fue": 149274,
+    "acercó": 138678,
+    "ha": 124096
+  },
+  "presidente de": {
+    "la": 291907
+  },
+  "tiene que": {
+    "ver": 291533,
+    "ser": 193682
+  },
+  "lo primero": {
+    "que": 291317
+  },
+  "interior de": {
+    "la": 291137
+  },
+  "la teoría": {
+    "de": 291039
+  },
+  "se volvió": {
+    "hacia": 291009,
+    "a": 130252
+  },
+  "detrás de": {
+    "la": 290969
+  },
+  "las condiciones": {
+    "de": 290825
+  },
+  "la medida": {
+    "en": 290824,
+    "de": 145289
+  },
+  "y sobre": {
+    "todo": 290438
+  },
+  "que a": {
+    "la": 289902,
+    "su": 244498,
+    "veces": 226346,
+    "los": 191132,
+    "mí": 165733
+  },
+  "de sí": {
+    "mismo": 289524,
+    "misma": 134453
+  },
+  "él ,": {
+    "y": 289430,
+    "pero": 175726
+  },
+  "la búsqueda": {
+    "de": 288460
+  },
+  "gran parte": {
+    "de": 287428
+  },
+  "medida en": {
+    "que": 287427
+  },
+  "el hombre": {
+    "que": 285570,
+    "de": 152460,
+    "se": 146605
+  },
+  "el tema": {
+    "de": 285056
+  },
+  "se dirigió": {
+    "a": 284777,
+    "hacia": 137588
+  },
+  "muchos de": {
+    "los": 284313,
+    "ellos": 135676
+  },
+  "y empezó": {
+    "a": 284126
+  },
+  "nada que": {
+    "ver": 284075
+  },
+  "un proceso": {
+    "de": 284039
+  },
+  "y después": {
+    "de": 283980
+  },
+  "es el": {
+    "que": 283083,
+    "caso": 268840,
+    "de": 251149,
+    "único": 186026,
+    "momento": 120938
+  },
+  "impresión de": {
+    "que": 283074
+  },
+  "día en": {
+    "que": 282778
+  },
+  "fin de": {
+    "semana": 282189,
+    "que": 189244,
+    "la": 137927,
+    "cuentas": 118500
+  },
+  "la última": {
+    "vez": 281664
+  },
+  "al fin": {
+    "y": 281268
+  },
+  "por supuesto": {
+    "que": 281082
+  },
+  "toda la": {
+    "vida": 280917,
+    "noche": 228204
+  },
+  "otra cosa": {
+    "que": 280535
+  },
+  "le dio": {
+    "un": 279968,
+    "la": 131859
+  },
+  "va a": {
+    "ser": 279930
+  },
+  "iba a": {
+    "ser": 279090
+  },
+  "consciente de": {
+    "que": 278451
+  },
+  "es la": {
+    "que": 277511,
+    "de": 220336,
+    "única": 190483,
+    "primera": 170618
+  },
+  "dos o": {
+    "tres": 277412
+  },
+  "en mi": {
+    "vida": 276257,
+    "casa": 139752
+  },
+  "a mi": {
+    "lado": 275054,
+    "madre": 245383,
+    "padre": 235444,
+    "casa": 130322
+  },
+  "que yo": {
+    "no": 274855,
+    "me": 126694
+  },
+  "que ha": {
+    "sido": 274735,
+    "de": 167927
+  },
+  "el análisis": {
+    "de": 274624
+  },
+  "estaba en": {
+    "el": 274557,
+    "la": 261018
+  },
+  "como el": {
+    "de": 274416,
+    "que": 144511
+  },
+  "la gente": {
+    "que": 274185,
+    "de": 202020,
+    "se": 168034
+  },
+  "fin y": {
+    "al": 273972
+  },
+  "la toma": {
+    "de": 273851
+  },
+  "en manos": {
+    "de": 273811
+  },
+  "ejemplo ,": {
+    "en": 273512,
+    "la": 236278,
+    "el": 234115
+  },
+  "la zona": {
+    "de": 273303
+  },
+  "la noche": {
+    "anterior": 273283,
+    "en": 144938,
+    "y": 138865
+  },
+  "se sentó": {
+    "en": 271853
+  },
+  "la cama": {
+    "y": 271732
+  },
+  "la parte": {
+    "de": 270522,
+    "superior": 196845
+  },
+  "razón por": {
+    "la": 269865
+  },
+  "la cual": {
+    "se": 268243
+  },
+  "darse cuenta": {
+    "de": 267771
+  },
+  "la unión": {
+    "europea": 267128
+  },
+  "en tanto": {
+    "que": 267021
+  },
+  "el corazón": {
+    "de": 266932
+  },
+  "si es": {
+    "que": 266893
+  },
+  "al que": {
+    "se": 266796
+  },
+  "por todo": {
+    "el": 266444
+  },
+  "de más": {
+    "de": 265956
+  },
+  "es más": {
+    "que": 265744
+  },
+  "y si": {
+    "no": 265390
+  },
+  "que me": {
+    "había": 265253,
+    "ha": 206477,
+    "lo": 132378
+  },
+  "de forma": {
+    "que": 264793
+  },
+  "es algo": {
+    "que": 264604
+  },
+  "se basa": {
+    "en": 264494
+  },
+  "a una": {
+    "mujer": 264469,
+    "persona": 209832,
+    "de": 171130
+  },
+  "por todas": {
+    "partes": 264411
+  },
+  "en algunos": {
+    "casos": 264339
+  },
+  "las manos": {
+    "en": 263893,
+    "y": 258981,
+    "de": 223367
+  },
+  "mientras que": {
+    "el": 263538,
+    "la": 235188,
+    "en": 191144,
+    "los": 179082
+  },
+  "y la": {
+    "de": 263439,
+    "otra": 139153,
+    "vida": 119955
+  },
+  "a sus": {
+    "hijos": 262774,
+    "padres": 153207,
+    "pies": 118649
+  },
+  "y es": {
+    "que": 262312
+  },
+  "ir a": {
+    "la": 262064
+  },
+  "la manera": {
+    "de": 261375,
+    "en": 207010
+  },
+  "y el": {
+    "de": 260500,
+    "otro": 164778,
+    "resto": 160098,
+    "que": 129278
+  },
+  "está en": {
+    "el": 260482,
+    "la": 230275
+  },
+  "aumento de": {
+    "la": 260250
+  },
+  "de volver": {
+    "a": 260177
+  },
+  "sin dejar": {
+    "de": 259990
+  },
+  "dio la": {
+    "vuelta": 258616
+  },
+  "no va": {
+    "a": 258076
+  },
+  "luz de": {
+    "la": 258019
+  },
+  "cuál es": {
+    "el": 257027,
+    "la": 234395
+  },
+  "uso de": {
+    "la": 256934,
+    "los": 121273
+  },
+  "momento de": {
+    "la": 256781
+  },
+  "lo dispuesto": {
+    "en": 256448
+  },
+  "a cambio": {
+    "de": 255890
+  },
+  "el problema": {
+    "de": 255252
+  },
+  "le dijo": {
+    "que": 255217,
+    "a": 244990
+  },
+  "la altura": {
+    "de": 255070
+  },
+  "por ciento": {
+    "de": 255057
+  },
+  "se le": {
+    "había": 254887,
+    "ocurrió": 138648,
+    "ha": 124597
+  },
+  "la ayuda": {
+    "de": 254607
+  },
+  "a finales": {
+    "de": 253656,
+    "del": 136684
+  },
+  "frunció el": {
+    "ceño": 252862
+  },
+  "que estaba": {
+    "en": 252624,
+    "a": 148646
+  },
+  "así que": {
+    "no": 252218,
+    "se": 126082,
+    "me": 121789
+  },
+  "negó con": {
+    "la": 252006
+  },
+  "en virtud": {
+    "de": 251669
+  },
+  "la cara": {
+    "de": 251319,
+    "y": 157012
+  },
+  "el padre": {
+    "de": 250945
+  },
+  "pero lo": {
+    "que": 250896
+  },
+  "como la": {
+    "de": 250775
+  },
+  "el lugar": {
+    "de": 250665,
+    "donde": 175588
+  },
+  "que está": {
+    "en": 250109
+  },
+  "allá de": {
+    "la": 249626
+  },
+  "la atención": {
+    "de": 247770
+  },
+  "en segundo": {
+    "lugar": 247559
+  },
+  "en sus": {
+    "ojos": 247350,
+    "manos": 198811,
+    "brazos": 159090
+  },
+  "la voluntad": {
+    "de": 247348
+  },
+  "de nuevo": {
+    "en": 247172,
+    "a": 229663,
+    "la": 138127,
+    "el": 126899,
+    "y": 120202
+  },
+  "y volvió": {
+    "a": 247160
+  },
+  "la misma": {
+    "manera": 246659,
+    "forma": 135598
+  },
+  "hacer lo": {
+    "que": 246531
+  },
+  "el cual": {
+    "se": 246310
+  },
+  "la decisión": {
+    "de": 245958
+  },
+  "de ser": {
+    "un": 245747,
+    "una": 172178,
+    "el": 132433
+  },
+  "y comenzó": {
+    "a": 245450
+  },
+  "mitad de": {
+    "la": 245222
+  },
+  "no era": {
+    "un": 244937,
+    "el": 226776,
+    "una": 215161,
+    "la": 200663,
+    "más": 127675
+  },
+  "la naturaleza": {
+    "de": 244822
+  },
+  "di cuenta": {
+    "de": 244551
+  },
+  "hombres y": {
+    "mujeres": 244487
+  },
+  "las necesidades": {
+    "de": 244413
+  },
+  "ya que": {
+    "la": 244377,
+    "el": 243758,
+    "no": 221201,
+    "se": 162637,
+    "en": 136528,
+    "los": 123979
+  },
+  "convencido de": {
+    "que": 244305
+  },
+  "estoy seguro": {
+    "de": 244105
+  },
+  "quiere decir": {
+    "que": 243262
+  },
+  "no quiero": {
+    "que": 243141
+  },
+  "en algún": {
+    "momento": 242958
+  },
+  "o en": {
+    "el": 242821,
+    "la": 219512
+  },
+  "en otras": {
+    "palabras": 242427
+  },
+  "sobre lo": {
+    "que": 241648
+  },
+  "no ha": {
+    "sido": 241127
+  },
+  "los niveles": {
+    "de": 241124
+  },
+  "la mesa": {
+    "de": 239932,
+    "y": 223015
+  },
+  "que ni": {
+    "siquiera": 239841
+  },
+  "la mujer": {
+    "que": 239810,
+    "de": 167515
+  },
+  "teoría de": {
+    "la": 239783
+  },
+  "la entrada": {
+    "de": 239616,
+    "del": 119482
+  },
+  "se encuentran": {
+    "en": 239569
+  },
+  "para el": {
+    "desarrollo": 239568,
+    "caso": 122177
+  },
+  "hacia la": {
+    "puerta": 239483
+  },
+  "un tipo": {
+    "de": 239371
+  },
+  "causa de": {
+    "la": 239013
+  },
+  "años de": {
+    "edad": 238769
+  },
+  "alrededor de": {
+    "la": 238691
+  },
+  "para llegar": {
+    "a": 238508
+  },
+  "el tratamiento": {
+    "de": 238307
+  },
+  "los de": {
+    "la": 238248
+  },
+  "y le": {
+    "dijo": 237381,
+    "dio": 182924
+  },
+  "que todo": {
+    "el": 236865,
+    "lo": 185132
+  },
+  "claro que": {
+    "no": 235962,
+    "sí": 127147
+  },
+  "el propósito": {
+    "de": 235885
+  },
+  "la dirección": {
+    "de": 235746
+  },
+  "el libro": {
+    "de": 235720
+  },
+  "al servicio": {
+    "de": 235321
+  },
+  "el contenido": {
+    "de": 235148
+  },
+  "el fondo": {
+    "de": 234867
+  },
+  "los pacientes": {
+    "con": 234589
+  },
+  "se echó": {
+    "a": 234454
+  },
+  "sino que": {
+    "se": 234301,
+    "también": 156448
+  },
+  "es probable": {
+    "que": 234065
+  },
+  "por todos": {
+    "los": 233650
+  },
+  "la utilización": {
+    "de": 233646
+  },
+  "sacudió la": {
+    "cabeza": 233215
+  },
+  "la vista": {
+    "de": 233138,
+    "y": 123626
+  },
+  "era capaz": {
+    "de": 233094
+  },
+  "de sus": {
+    "padres": 232866,
+    "hijos": 202461,
+    "ojos": 201828
+  },
+  "la causa": {
+    "de": 232540
+  },
+  "no me": {
+    "lo": 232384,
+    "gusta": 196132,
+    "importa": 139424
+  },
+  "en toda": {
+    "la": 232264,
+    "su": 142535
+  },
+  "los hombres": {
+    "de": 232192,
+    "que": 187023,
+    "y": 143426
+  },
+  "el final": {
+    "de": 231831
+  },
+  "la obligación": {
+    "de": 231692
+  },
+  "al llegar": {
+    "a": 231671
+  },
+  "yo creo": {
+    "que": 231425
+  },
+  "la función": {
+    "de": 231421
+  },
+  "los sistemas": {
+    "de": 230908
+  },
+  "ya no": {
+    "se": 230822,
+    "es": 171720,
+    "era": 135926
+  },
+  "del proceso": {
+    "de": 230675
+  },
+  "algo más": {
+    "que": 230374
+  },
+  "acuerdo con": {
+    "la": 230319,
+    "el": 208367,
+    "las": 119082
+  },
+  "se supone": {
+    "que": 230046
+  },
+  "un gesto": {
+    "de": 229946
+  },
+  "la gestión": {
+    "de": 229872
+  },
+  "millones de": {
+    "dólares": 229759
+  },
+  "la tasa": {
+    "de": 229283
+  },
+  "ella ,": {
+    "y": 229091,
+    "pero": 150121
+  },
+  "el ser": {
+    "humano": 228977
+  },
+  "la lista": {
+    "de": 228688
+  },
+  "y sin": {
+    "embargo": 228483
+  },
+  "en dirección": {
+    "a": 227983
+  },
+  "la acción": {
+    "de": 227748
+  },
+  "se había": {
+    "convertido": 227491,
+    "quedado": 191137,
+    "ido": 144399,
+    "puesto": 144337,
+    "dado": 127977,
+    "hecho": 119011
+  },
+  "control de": {
+    "la": 227425
+  },
+  "el cumplimiento": {
+    "de": 227013
+  },
+  "la línea": {
+    "de": 226657
+  },
+  "ha dicho": {
+    "que": 226619
+  },
+  "de ahí": {
+    "que": 226333
+  },
+  "algún tipo": {
+    "de": 224856
+  },
+  "entre los": {
+    "dos": 224581,
+    "que": 198814
+  },
+  "los servicios": {
+    "de": 224100
+  },
+  "para ir": {
+    "a": 224054
+  },
+  "hasta el": {
+    "punto": 224006,
+    "momento": 212633,
+    "final": 168214,
+    "día": 121750
+  },
+  "pero ,": {
+    "en": 223818,
+    "por": 178182,
+    "como": 130380,
+    "al": 124377
+  },
+  "no quería": {
+    "que": 223680
+  },
+  "el gobierno": {
+    "de": 223532
+  },
+  "de tal": {
+    "manera": 223400,
+    "modo": 144671,
+    "forma": 122430
+  },
+  "pero eso": {
+    "no": 223334
+  },
+  "salir de": {
+    "la": 222817
+  },
+  "la mañana": {
+    "siguiente": 222501
+  },
+  "le dije": {
+    "que": 222184
+  },
+  "acceso a": {
+    "la": 221917
+  },
+  "esta es": {
+    "la": 221624,
+    "una": 136258
+  },
+  "última vez": {
+    "que": 220685
+  },
+  "de esa": {
+    "manera": 220645
+  },
+  "el grupo": {
+    "de": 220554
+  },
+  "la información": {
+    "que": 220387,
+    "y": 121164
+  },
+  "ciudad de": {
+    "méxico": 220359
+  },
+  "ha de": {
+    "ser": 220271
+  },
+  "decir ,": {
+    "que": 219819,
+    "la": 203576,
+    "el": 176057,
+    "en": 122674
+  },
+  "mismo tiempo": {
+    "que": 219679
+  },
+  "este es": {
+    "el": 219503,
+    "un": 120546
+  },
+  "eso no": {
+    "es": 219282
+  },
+  "que las": {
+    "personas": 219188,
+    "cosas": 217635,
+    "mujeres": 178038
+  },
+  "gran cantidad": {
+    "de": 218989
+  },
+  "la protección": {
+    "de": 218807
+  },
+  "duda de": {
+    "que": 218667
+  },
+  "de otro": {
+    "modo": 217875
+  },
+  "miró a": {
+    "su": 217714,
+    "los": 163395
+  },
+  "de ese": {
+    "modo": 217706
+  },
+  "la fecha": {
+    "de": 217536
+  },
+  "el acceso": {
+    "a": 217381
+  },
+  "la diferencia": {
+    "entre": 217360
+  },
+  "nombre de": {
+    "la": 216821
+  },
+  "lugar en": {
+    "el": 216725
+  },
+  "o al": {
+    "menos": 216386
+  },
+  "el amor": {
+    "de": 216378
+  },
+  "había convertido": {
+    "en": 216001
+  },
+  "por mucho": {
+    "que": 215956
+  },
+  "que tal": {
+    "vez": 215508
+  },
+  "el origen": {
+    "de": 215466
+  },
+  "ninguna de": {
+    "las": 215449
+  },
+  "sentido de": {
+    "la": 215377,
+    "que": 119346
+  },
+  "los días": {
+    "de": 215373
+  },
+  "la familia": {
+    "de": 215161
+  },
+  "salió de": {
+    "la": 215031
+  },
+  "la experiencia": {
+    "de": 214883
+  },
+  "lo había": {
+    "hecho": 214697
+  },
+  "de llegar": {
+    "a": 214151
+  },
+  "día de": {
+    "la": 213719
+  },
+  "los casos": {
+    "de": 213627
+  },
+  "se encontraba": {
+    "en": 212325
+  },
+  "en sí": {
+    "mismo": 212241,
+    "misma": 143902
+  },
+  "a casa": {
+    "de": 212179
+  },
+  "que su": {
+    "padre": 211579,
+    "madre": 168789
+  },
+  "nada más": {
+    "que": 211351
+  },
+  "dado cuenta": {
+    "de": 210993
+  },
+  "se levantó": {
+    "y": 210852,
+    "de": 149460
+  },
+  "la participación": {
+    "de": 210693
+  },
+  "hasta llegar": {
+    "a": 210626
+  },
+  "es como": {
+    "si": 210606
+  },
+  "de buenos": {
+    "aires": 210534
+  },
+  "el sonido": {
+    "de": 210387
+  },
+  "que todas": {
+    "las": 210364
+  },
+  "hora de": {
+    "la": 210117
+  },
+  "hay que": {
+    "tener": 209990
+  },
+  "se debe": {
+    "a": 209908
+  },
+  "poco más": {
+    "de": 209790
+  },
+  "y todos": {
+    "los": 209612
+  },
+  "una mujer": {
+    "que": 209406,
+    "de": 145006
+  },
+  "es mucho": {
+    "más": 209369
+  },
+  "con un": {
+    "gesto": 209287,
+    "hombre": 145018,
+    "poco": 143623
+  },
+  "el peso": {
+    "de": 209160
+  },
+  "la condición": {
+    "de": 209112
+  },
+  "función de": {
+    "la": 209011
+  },
+  "el paso": {
+    "de": 208934,
+    "del": 159026
+  },
+  "había llegado": {
+    "a": 208715
+  },
+  "ese tipo": {
+    "de": 208370
+  },
+  "se limitó": {
+    "a": 208045
+  },
+  "se dice": {
+    "que": 207889
+  },
+  "me voy": {
+    "a": 207182
+  },
+  "o a": {
+    "la": 206565
+  },
+  "era como": {
+    "si": 206544
+  },
+  "un estado": {
+    "de": 206486
+  },
+  "que él": {
+    "no": 206410,
+    "se": 157369,
+    "había": 135786,
+    "mismo": 131394
+  },
+  "lo mucho": {
+    "que": 206259
+  },
+  "ámbito de": {
+    "la": 205428
+  },
+  "alguno de": {
+    "los": 205353
+  },
+  "la administración": {
+    "de": 205132
+  },
+  "de algún": {
+    "modo": 204964
+  },
+  "el objeto": {
+    "de": 204893
+  },
+  "con todos": {
+    "los": 204737
+  },
+  "del sistema": {
+    "de": 204503
+  },
+  "estoy segura": {
+    "de": 204284
+  },
+  "torno a": {
+    "la": 204217
+  },
+  "modo en": {
+    "que": 204141
+  },
+  "toma de": {
+    "decisiones": 203463
+  },
+  "ver con": {
+    "la": 203395,
+    "el": 165270
+  },
+  "no había": {
+    "sido": 203361,
+    "nada": 168762
+  },
+  "por una": {
+    "parte": 203073
+  },
+  "casi todos": {
+    "los": 202966
+  },
+  "y luego": {
+    "se": 202961
+  },
+  "las características": {
+    "de": 202898
+  },
+  "me temo": {
+    "que": 202389
+  },
+  "la evolución": {
+    "de": 202265
+  },
+  "la posición": {
+    "de": 201379
+  },
+  "borde de": {
+    "la": 201094
+  },
+  "había sido": {
+    "un": 200704,
+    "una": 150566,
+    "el": 120821
+  },
+  "sabía que": {
+    "no": 200528
+  },
+  "es evidente": {
+    "que": 200479
+  },
+  "al margen": {
+    "de": 200345
+  },
+  "para todos": {
+    "los": 200291
+  },
+  "no podía": {
+    "ser": 200154
+  },
+  "además ,": {
+    "la": 200101,
+    "el": 185442,
+    "se": 133112,
+    "no": 127336,
+    "en": 119744
+  },
+  "que voy": {
+    "a": 200084
+  },
+  "lo más": {
+    "importante": 200056,
+    "probable": 122312
+  },
+  "que los": {
+    "hombres": 199900,
+    "demás": 193166,
+    "niños": 160681,
+    "dos": 143422,
+    "que": 135470
+  },
+  "los problemas": {
+    "de": 199517
+  },
+  "las formas": {
+    "de": 199485
+  },
+  "el modelo": {
+    "de": 198767
+  },
+  "para evitar": {
+    "que": 198605
+  },
+  "mano en": {
+    "el": 198550
+  },
+  "con que": {
+    "se": 198362
+  },
+  "años ,": {
+    "y": 198117
+  },
+  "tanto ,": {
+    "la": 197890,
+    "el": 176195,
+    "no": 140242
+  },
+  "su relación": {
+    "con": 197746
+  },
+  "las puertas": {
+    "de": 197668
+  },
+  "de nueva": {
+    "york": 197549
+  },
+  "y yo": {
+    "no": 197529,
+    "nos": 151126,
+    "me": 150114
+  },
+  "entró en": {
+    "la": 197387,
+    "el": 159511
+  },
+  "la punta": {
+    "de": 197228
+  },
+  "delante de": {
+    "la": 197012
+  },
+  "he dicho": {
+    "que": 196861
+  },
+  "había dicho": {
+    "que": 196839
+  },
+  "son los": {
+    "que": 196744
+  },
+  "es necesario": {
+    "que": 196683
+  },
+  "el cambio": {
+    "de": 196537
+  },
+  "manera en": {
+    "que": 196386
+  },
+  "que tiene": {
+    "que": 196243,
+    "el": 127403,
+    "la": 127032
+  },
+  "con base": {
+    "en": 196045
+  },
+  "las obras": {
+    "de": 195739
+  },
+  "de otra": {
+    "manera": 195640
+  },
+  "llegó a": {
+    "la": 195372
+  },
+  "entrar en": {
+    "la": 195205,
+    "el": 193098
+  },
+  "en realidad": {
+    "no": 195068
+  },
+  "la práctica": {
+    "de": 195024
+  },
+  "base de": {
+    "datos": 194802,
+    "la": 158413
+  },
+  "de conformidad": {
+    "con": 194702
+  },
+  "que puede": {
+    "ser": 194566
+  },
+  "estudio de": {
+    "la": 194524
+  },
+  "la habitación": {
+    "de": 194521
+  },
+  "pese a": {
+    "que": 194501
+  },
+  "la estructura": {
+    "de": 194464
+  },
+  "a no": {
+    "ser": 194160
+  },
+  "durante todo": {
+    "el": 193997
+  },
+  "a cada": {
+    "uno": 193862
+  },
+  "toda su": {
+    "vida": 193482
+  },
+  "en comparación": {
+    "con": 193309
+  },
+  "en cierto": {
+    "modo": 193160
+  },
+  "la época": {
+    "de": 193112
+  },
+  "miembro de": {
+    "la": 192902
+  },
+  "abrió los": {
+    "ojos": 192609
+  },
+  "a cargo": {
+    "de": 192595
+  },
+  "como se": {
+    "ha": 192405
+  },
+  "la figura": {
+    "de": 192206,
+    "del": 118427
+  },
+  "las relaciones": {
+    "entre": 192181,
+    "de": 162909
+  },
+  "una persona": {
+    "que": 192072
+  },
+  "por más": {
+    "que": 191335
+  },
+  "los nombres": {
+    "de": 191239
+  },
+  "la guerra": {
+    "de": 191094
+  },
+  "buena parte": {
+    "de": 190884
+  },
+  "la provincia": {
+    "de": 190425
+  },
+  "esperanza de": {
+    "que": 190304
+  },
+  "en gran": {
+    "medida": 190002
+  },
+  "resultado de": {
+    "la": 189906
+  },
+  "de pensar": {
+    "en": 189411
+  },
+  "de vista": {
+    "de": 189390
+  },
+  "ha sido": {
+    "un": 189036,
+    "una": 133356,
+    "el": 123874
+  },
+  "de ella": {
+    "y": 188246
+  },
+  "por las": {
+    "que": 187967,
+    "calles": 162776
+  },
+  "a base": {
+    "de": 187879
+  },
+  "de dios": {
+    "y": 187862
+  },
+  "en estos": {
+    "casos": 187659,
+    "momentos": 140417
+  },
+  "el modo": {
+    "de": 187478,
+    "en": 161667
+  },
+  "años más": {
+    "tarde": 187438
+  },
+  "de personas": {
+    "que": 187217
+  },
+  "en condiciones": {
+    "de": 186849
+  },
+  "además de": {
+    "la": 186836,
+    "los": 126804
+  },
+  "los datos": {
+    "de": 186834
+  },
+  "los habitantes": {
+    "de": 186697
+  },
+  "esto es": {
+    "lo": 186657
+  },
+  "no le": {
+    "había": 186175,
+    "gustaba": 144272
+  },
+  "a tener": {
+    "que": 185377
+  },
+  "esto no": {
+    "es": 185274
+  },
+  "se ha": {
+    "convertido": 185251,
+    "de": 170372,
+    "hecho": 154763,
+    "ido": 146732,
+    "visto": 120916,
+    "dicho": 119906
+  },
+  "la seguridad": {
+    "de": 184839,
+    "social": 153785
+  },
+  "el curso": {
+    "de": 184430
+  },
+  "a principios": {
+    "de": 184416
+  },
+  "la noción": {
+    "de": 184395
+  },
+  "al menos": {
+    "en": 184378
+  },
+  "refiere a": {
+    "la": 183943
+  },
+  "pero en": {
+    "el": 183820,
+    "la": 120857
+  },
+  "caso ,": {
+    "la": 183811,
+    "el": 172275
+  },
+  "de él": {
+    "y": 183663
+  },
+  "era la": {
+    "primera": 183616,
+    "única": 143500
+  },
+  "el único": {
+    "que": 183525
+  },
+  "la conclusión": {
+    "de": 183519
+  },
+  "la elaboración": {
+    "de": 183376
+  },
+  "la perspectiva": {
+    "de": 183087
+  },
+  "no sabía": {
+    "qué": 183040,
+    "que": 168230,
+    "si": 137606
+  },
+  "la clase": {
+    "de": 182895
+  },
+  "en muchos": {
+    "casos": 182788
+  },
+  "década de": {
+    "los": 182581
+  },
+  "no hace": {
+    "falta": 182565
+  },
+  "valor de": {
+    "la": 182170
+  },
+  "tal vez": {
+    "no": 181853
+  },
+  "estaba seguro": {
+    "de": 181756
+  },
+  "estaba segura": {
+    "de": 181517
+  },
+  "para llevar": {
+    "a": 181463
+  },
+  "consecuencia de": {
+    "la": 181393
+  },
+  "hizo un": {
+    "gesto": 181245
+  },
+  "un lado": {
+    "a": 181114,
+    "y": 146267
+  },
+  "de trabajo": {
+    "y": 181112
+  },
+  "así ,": {
+    "el": 180533,
+    "la": 175645,
+    "en": 171754,
+    "por": 125994
+  },
+  "el título": {
+    "de": 180287
+  },
+  "el conocimiento": {
+    "de": 180279
+  },
+  "de ir": {
+    "a": 180004
+  },
+  "los cuales": {
+    "se": 179998
+  },
+  "el aumento": {
+    "de": 179985
+  },
+  "la influencia": {
+    "de": 179953
+  },
+  "se iba": {
+    "a": 179843
+  },
+  "las actividades": {
+    "de": 179697
+  },
+  "ha convertido": {
+    "en": 179504
+  },
+  "será mejor": {
+    "que": 179486
+  },
+  "la cuestión": {
+    "de": 179359
+  },
+  "sin necesidad": {
+    "de": 179286
+  },
+  "mucho más": {
+    "que": 179215
+  },
+  "la distribución": {
+    "de": 179163
+  },
+  "asegurarse de": {
+    "que": 178731
+  },
+  "por toda": {
+    "la": 178680
+  },
+  "que ella": {
+    "no": 178293,
+    "se": 167504
+  },
+  "había vuelto": {
+    "a": 178225
+  },
+  "echó a": {
+    "reír": 178034
+  },
+  "sé lo": {
+    "que": 177800
+  },
+  "como parte": {
+    "de": 177789
+  },
+  "vida ,": {
+    "y": 177767
+  },
+  "sin perjuicio": {
+    "de": 177573
+  },
+  "a alguien": {
+    "que": 177240
+  },
+  "del consejo": {
+    "de": 177226
+  },
+  "cabo de": {
+    "un": 177220
+  },
+  "nada de": {
+    "lo": 177213,
+    "eso": 133548
+  },
+  "puso en": {
+    "pie": 176919
+  },
+  "finales del": {
+    "siglo": 176659
+  },
+  "no dejaba": {
+    "de": 176099
+  },
+  "la política": {
+    "de": 175979
+  },
+  "al pie": {
+    "de": 175736
+  },
+  "si fuera": {
+    "un": 175493,
+    "una": 124051
+  },
+  "el contexto": {
+    "de": 175295
+  },
+  "la ejecución": {
+    "de": 175146
+  },
+  "la vuelta": {
+    "y": 175108
+  },
+  "el efecto": {
+    "de": 175031
+  },
+  "muchas de": {
+    "las": 174979
+  },
+  "es ,": {
+    "en": 174591,
+    "por": 131534
+  },
+  "tal manera": {
+    "que": 174572
+  },
+  "día a": {
+    "día": 174518
+  },
+  "lo mejor": {
+    "que": 174491,
+    "de": 127009
+  },
+  "creo que": {
+    "no": 174412,
+    "es": 168148
+  },
+  "tema de": {
+    "la": 174222
+  },
+  "casa de": {
+    "la": 173994,
+    "los": 129666
+  },
+  "las naciones": {
+    "unidas": 173986
+  },
+  "ya se": {
+    "ha": 173849,
+    "había": 156743
+  },
+  "a pensar": {
+    "que": 173686,
+    "en": 159243
+  },
+  "en nombre": {
+    "de": 173580
+  },
+  "siempre y": {
+    "cuando": 173568
+  },
+  "es muy": {
+    "importante": 173560
+  },
+  "del ser": {
+    "humano": 173288
+  },
+  "y los": {
+    "que": 173097,
+    "demás": 125178,
+    "ojos": 120029
+  },
+  "un momento": {
+    "en": 172845,
+    "de": 170689
+  },
+  "las posibilidades": {
+    "de": 172795
+  },
+  "más y": {
+    "más": 172709
+  },
+  "que uno": {
+    "de": 172648
+  },
+  "estuvo a": {
+    "punto": 172579
+  },
+  "otro tipo": {
+    "de": 172550
+  },
+  "parte ,": {
+    "la": 172457,
+    "el": 166816
+  },
+  "el consumo": {
+    "de": 172244
+  },
+  "relacionados con": {
+    "la": 171930,
+    "el": 123311
+  },
+  "el jefe": {
+    "de": 171902
+  },
+  "el suelo": {
+    "y": 171698,
+    "de": 119458
+  },
+  "para lo": {
+    "que": 171575
+  },
+  "igual que": {
+    "el": 171405,
+    "en": 150692,
+    "la": 145532
+  },
+  "lado a": {
+    "otro": 171126
+  },
+  "cerró la": {
+    "puerta": 171024
+  },
+  "efectos de": {
+    "la": 170595
+  },
+  "se lo": {
+    "había": 170174
+  },
+  "se caracteriza": {
+    "por": 170136
+  },
+  "a él": {
+    "y": 170124,
+    "le": 144775
+  },
+  "la suma": {
+    "de": 170119
+  },
+  "ni idea": {
+    "de": 170048
+  },
+  "trataba de": {
+    "un": 170043,
+    "una": 151908
+  },
+  "entre otras": {
+    "cosas": 170021
+  },
+  "a ser": {
+    "un": 169888,
+    "el": 141364,
+    "una": 124546
+  },
+  "a toda": {
+    "la": 169768,
+    "prisa": 167921,
+    "velocidad": 144660
+  },
+  "sus ojos": {
+    "se": 169366
+  },
+  "la elección": {
+    "de": 169336
+  },
+  "el precio": {
+    "de": 168877
+  },
+  "la boca": {
+    "y": 168819,
+    "de": 136053
+  },
+  "un ejemplo": {
+    "de": 168568
+  },
+  "un buen": {
+    "rato": 168553
+  },
+  "no dijo": {
+    "nada": 168488
+  },
+  "por los": {
+    "que": 168465
+  },
+  "no pudo": {
+    "evitar": 168397
+  },
+  "los intereses": {
+    "de": 167653
+  },
+  "es verdad": {
+    "que": 167618
+  },
+  "que aún": {
+    "no": 167536
+  },
+  "la cuenta": {
+    "de": 167159
+  },
+  "los padres": {
+    "de": 167050
+  },
+  "análisis de": {
+    "la": 167042
+  },
+  "o lo": {
+    "que": 167020
+  },
+  "es un": {
+    "hombre": 167012,
+    "buen": 146037
+  },
+  "tanto en": {
+    "el": 166911,
+    "la": 125972
+  },
+  "era más": {
+    "que": 166637
+  },
+  "no tiene": {
+    "nada": 166558
+  },
+  "te voy": {
+    "a": 166472
+  },
+  "o ,": {
+    "en": 166126
+  },
+  "su padre": {
+    "y": 166010
+  },
+  "más remedio": {
+    "que": 165990
+  },
+  "convertido en": {
+    "un": 165946,
+    "una": 132152
+  },
+  "la definición": {
+    "de": 165891
+  },
+  "no deja": {
+    "de": 165679
+  },
+  "en nueva": {
+    "york": 165608
+  },
+  "había ido": {
+    "a": 165580
+  },
+  "y todo": {
+    "lo": 165470
+  },
+  "el seno": {
+    "de": 165306
+  },
+  "un trozo": {
+    "de": 165261
+  },
+  "se fue": {
+    "a": 165175
+  },
+  "y creo": {
+    "que": 165060
+  },
+  "forma parte": {
+    "de": 165016
+  },
+  "favor de": {
+    "la": 164527
+  },
+  "el inicio": {
+    "de": 164505
+  },
+  "su madre": {
+    "y": 164477
+  },
+  "la razón": {
+    "de": 164430,
+    "por": 154502
+  },
+  "vale la": {
+    "pena": 164333
+  },
+  "en américa": {
+    "latina": 164271
+  },
+  "los límites": {
+    "de": 163951
+  },
+  "durante mucho": {
+    "tiempo": 163887
+  },
+  "a más": {
+    "de": 163865
+  },
+  "una mezcla": {
+    "de": 163853
+  },
+  "toda clase": {
+    "de": 163769
+  },
+  "sé que": {
+    "no": 163297
+  },
+  "del resto": {
+    "de": 163231
+  },
+  "como por": {
+    "ejemplo": 163127
+  },
+  "mundo de": {
+    "la": 162930,
+    "los": 127202
+  },
+  "el significado": {
+    "de": 162874
+  },
+  "para ver": {
+    "si": 162850
+  },
+  "que ir": {
+    "a": 162790
+  },
+  "se trate": {
+    "de": 162699
+  },
+  "que cada": {
+    "uno": 162616
+  },
+  "a veces": {
+    "se": 162295
+  },
+  "decir que": {
+    "no": 162196
+  },
+  "mano de": {
+    "obra": 162141
+  },
+  "que si": {
+    "no": 162066
+  },
+  "en esta": {
+    "ocasión": 161784
+  },
+  "las consecuencias": {
+    "de": 161634
+  },
+  "conclusión de": {
+    "que": 161512
+  },
+  "que un": {
+    "día": 161500,
+    "hombre": 143276
+  },
+  "era uno": {
+    "de": 161314
+  },
+  "calidad de": {
+    "vida": 161303,
+    "la": 120185
+  },
+  "la actividad": {
+    "de": 161042
+  },
+  "sobre el": {
+    "tema": 160854,
+    "que": 136505
+  },
+  "me ha": {
+    "dicho": 160833
+  },
+  "en esos": {
+    "momentos": 160607
+  },
+  "junto con": {
+    "el": 160555,
+    "la": 148713
+  },
+  "una manera": {
+    "de": 160211
+  },
+  "el otro": {
+    "lado": 160129
+  },
+  "o tal": {
+    "vez": 160125
+  },
+  "hasta qué": {
+    "punto": 159784
+  },
+  "de vuelta": {
+    "a": 159733
+  },
+  "el hijo": {
+    "de": 159669
+  },
+  "el recuerdo": {
+    "de": 159595
+  },
+  "del tipo": {
+    "de": 159362
+  },
+  "del estado": {
+    "de": 156423
+  },
+  "los libros": {
+    "de": 159055
+  },
+  "me alegro": {
+    "de": 159045
+  },
+  "los principios": {
+    "de": 159045
+  },
+  "el primero": {
+    "en": 158831,
+    "de": 150898
+  },
+  "con toda": {
+    "la": 158799
+  },
+  "la edad": {
+    "de": 158761,
+    "media": 138961
+  },
+  "sé por": {
+    "qué": 158602
+  },
+  "a continuación": {
+    "se": 158572
+  },
+  "los tipos": {
+    "de": 158472
+  },
+  "sabía lo": {
+    "que": 158416
+  },
+  "y ya": {
+    "no": 158401
+  },
+  "al resto": {
+    "de": 158393
+  },
+  "dijo que": {
+    "no": 158368
+  },
+  "para volver": {
+    "a": 158107
+  },
+  "mitad del": {
+    "siglo": 157984
+  },
+  "qué tipo": {
+    "de": 157858
+  },
+  "gran número": {
+    "de": 157806
+  },
+  "problema de": {
+    "la": 157769
+  },
+  "la tierra": {
+    "de": 157609,
+    "y": 154927
+  },
+  "el movimiento": {
+    "de": 157515
+  },
+  "alguna de": {
+    "las": 157409
+  },
+  "la finalidad": {
+    "de": 157196
+  },
+  "el establecimiento": {
+    "de": 157099
+  },
+  "tiempo que": {
+    "se": 156916
+  },
+  "contra la": {
+    "pared": 156863
+  },
+  "la defensa": {
+    "de": 156742
+  },
+  "asintió con": {
+    "la": 156543
+  },
+  "una sensación": {
+    "de": 156359
+  },
+  "que han": {
+    "sido": 156340
+  },
+  "la responsabilidad": {
+    "de": 156136
+  },
+  "de no": {
+    "ser": 156059,
+    "haber": 135600
+  },
+  "para ayudar": {
+    "a": 155973
+  },
+  "pero creo": {
+    "que": 155956
+  },
+  "era evidente": {
+    "que": 155920
+  },
+  "tú y": {
+    "yo": 155893
+  },
+  "me refiero": {
+    "a": 155873
+  },
+  "tan pronto": {
+    "como": 155776
+  },
+  "los niños": {
+    "y": 155648
+  },
+  "el arte": {
+    "de": 155438
+  },
+  "las mujeres": {
+    "que": 155365,
+    "de": 125104
+  },
+  "inicio de": {
+    "la": 155310
+  },
+  "el plan": {
+    "de": 155295
+  },
+  "pero que": {
+    "no": 155195
+  },
+  "estados unidos": {
+    "y": 155080
+  },
+  "por sí": {
+    "mismo": 154528
+  },
+  "era una": {
+    "mujer": 154506,
+    "de": 120073
+  },
+  "estado de": {
+    "ánimo": 154250
+  },
+  "su forma": {
+    "de": 154248
+  },
+  "cuarto de": {
+    "baño": 154128
+  },
+  "el mes": {
+    "de": 153979
+  },
+  "no tenía": {
+    "nada": 153961,
+    "ni": 147983
+  },
+  "en favor": {
+    "de": 153539
+  },
+  "el consejo": {
+    "de": 153500
+  },
+  "del ministerio": {
+    "de": 153433
+  },
+  "dio un": {
+    "paso": 153289
+  },
+  "hizo una": {
+    "pausa": 153241
+  },
+  "formar parte": {
+    "de": 152679
+  },
+  "puso de": {
+    "pie": 152624
+  },
+  "desde la": {
+    "perspectiva": 152553
+  },
+  "a cabo": {
+    "en": 152498,
+    "la": 119847
+  },
+  "importancia de": {
+    "la": 152381
+  },
+  "la totalidad": {
+    "de": 152342
+  },
+  "lugar de": {
+    "la": 152266
+  },
+  "como resultado": {
+    "de": 152130
+  },
+  "los pies": {
+    "de": 152129
+  },
+  "el ministerio": {
+    "de": 151962
+  },
+  "pero yo": {
+    "no": 151376
+  },
+  "la realidad": {
+    "de": 151221
+  },
+  "el tono": {
+    "de": 151065
+  },
+  "con todas": {
+    "las": 150917,
+    "sus": 145540
+  },
+  "para los": {
+    "que": 150859
+  },
+  "vista de": {
+    "la": 150753
+  },
+  "los grupos": {
+    "de": 150744
+  },
+  "campo de": {
+    "la": 150704
+  },
+  "el proyecto": {
+    "de": 150607
+  },
+  "aplicación de": {
+    "la": 150467
+  },
+  "de vida": {
+    "de": 150444,
+    "y": 134641
+  },
+  "ni siquiera": {
+    "se": 150244
+  },
+  "que van": {
+    "a": 149993
+  },
+  "su capacidad": {
+    "de": 149872
+  },
+  "la tarea": {
+    "de": 149823
+  },
+  "el reconocimiento": {
+    "de": 149606
+  },
+  "a corto": {
+    "plazo": 149567
+  },
+  "bien ,": {
+    "pero": 149564
+  },
+  "se apresuró": {
+    "a": 149471
+  },
+  "principio de": {
+    "la": 149322
+  },
+  "paso del": {
+    "tiempo": 149194
+  },
+  "los brazos": {
+    "y": 149123,
+    "de": 127900
+  },
+  "el apoyo": {
+    "de": 148897
+  },
+  "la superficie": {
+    "de": 148784
+  },
+  "los programas": {
+    "de": 148780
+  },
+  "ejercicio de": {
+    "la": 148718
+  },
+  "estilo de": {
+    "vida": 148516
+  },
+  "los valores": {
+    "de": 148353
+  },
+  "que después": {
+    "de": 148246
+  },
+  "la orden": {
+    "de": 148214
+  },
+  "lleva a": {
+    "cabo": 148000
+  },
+  "no significa": {
+    "que": 147960
+  },
+  "la sombra": {
+    "de": 147800
+  },
+  "la hija": {
+    "de": 147790
+  },
+  "también en": {
+    "el": 147577,
+    "la": 131308
+  },
+  "que tener": {
+    "en": 147472
+  },
+  "llegado el": {
+    "momento": 147445
+  },
+  "con todo": {
+    "el": 147119
+  },
+  "el primer": {
+    "día": 146925
+  },
+  "volver a": {
+    "la": 146914
+  },
+  "como para": {
+    "que": 146851
+  },
+  "dispuesto en": {
+    "el": 146772
+  },
+  "fue lo": {
+    "que": 146704
+  },
+  "y eso": {
+    "es": 146678
+  },
+  "esa es": {
+    "la": 146581
+  },
+  "vida de": {
+    "los": 146467,
+    "la": 127504
+  },
+  "un programa": {
+    "de": 146460
+  },
+  "jefe de": {
+    "la": 146267
+  },
+  "el espíritu": {
+    "de": 146230,
+    "santo": 142764
+  },
+  "acercó a": {
+    "la": 145982
+  },
+  "que una": {
+    "vez": 145864
+  },
+  "de haber": {
+    "sido": 145791
+  },
+  "la isla": {
+    "de": 145622
+  },
+  "y me": {
+    "dijo": 145126
+  },
+  "aceite de": {
+    "oliva": 145100
+  },
+  "las leyes": {
+    "de": 144962
+  },
+  "que vamos": {
+    "a": 144869
+  },
+  "camino de": {
+    "la": 144665
+  },
+  "lo alto": {
+    "de": 144634
+  },
+  "de tu": {
+    "vida": 144588
+  },
+  "el reino": {
+    "de": 144484
+  },
+  "a ella": {
+    "y": 144258,
+    "le": 131847
+  },
+  "se preguntó": {
+    "si": 144113
+  },
+  "al borde": {
+    "de": 144088
+  },
+  "entre sus": {
+    "brazos": 143900
+  },
+  "y cada": {
+    "uno": 143887
+  },
+  "marco de": {
+    "la": 143748
+  },
+  "había empezado": {
+    "a": 143683
+  },
+  "la visión": {
+    "de": 143652
+  },
+  "puntos de": {
+    "vista": 143166
+  },
+  "los estudios": {
+    "de": 142991
+  },
+  "muerte de": {
+    "su": 142852
+  },
+  "sabes lo": {
+    "que": 142716
+  },
+  "suficiente como": {
+    "para": 142529
+  },
+  "la prueba": {
+    "de": 142385
+  },
+  "el borde": {
+    "de": 142008
+  },
+  "las redes": {
+    "sociales": 141920
+  },
+  "una lista": {
+    "de": 141704
+  },
+  "el dolor": {
+    "de": 141485
+  },
+  "los dedos": {
+    "de": 141479
+  },
+  "su vida": {
+    "y": 141322
+  },
+  "aquí ,": {
+    "en": 141281
+  },
+  "la unidad": {
+    "de": 141182
+  },
+  "la mente": {
+    "de": 141174
+  },
+  "una botella": {
+    "de": 141153
+  },
+  "no pasa": {
+    "nada": 141150
+  },
+  "palabra de": {
+    "dios": 141101
+  },
+  "qué clase": {
+    "de": 141042
+  },
+  "y tal": {
+    "vez": 140974
+  },
+  "había dejado": {
+    "de": 140677
+  },
+  "saber lo": {
+    "que": 140671
+  },
+  "que con": {
+    "el": 140666
+  },
+  "se da": {
+    "cuenta": 140557
+  },
+  "estaba dispuesto": {
+    "a": 140533
+  },
+  "por esta": {
+    "razón": 140437
+  },
+  "el plazo": {
+    "de": 140369
+  },
+  "cualquier tipo": {
+    "de": 140359
+  },
+  "lo último": {
+    "que": 140298
+  },
+  "la propuesta": {
+    "de": 140294
+  },
+  "un día": {
+    "de": 140279
+  },
+  "es mejor": {
+    "que": 140123
+  },
+  "hasta ese": {
+    "momento": 140019
+  },
+  "a hablar": {
+    "con": 139964,
+    "de": 128203
+  },
+  "mismo modo": {
+    "que": 139921
+  },
+  "la población": {
+    "de": 139904
+  },
+  "y ella": {
+    "se": 139900
+  },
+  "ningún tipo": {
+    "de": 139898
+  },
+  "la determinación": {
+    "de": 139760
+  },
+  "el siglo": {
+    "xix": 139669
+  },
+  "al principio": {
+    "de": 139524
+  },
+  "por eso": {
+    "no": 139514
+  },
+  "por delante": {
+    "de": 139509
+  },
+  "cosas que": {
+    "no": 139331
+  },
+  "las calles": {
+    "de": 139253
+  },
+  "más importante": {
+    "de": 139207
+  },
+  "defensa de": {
+    "la": 139166
+  },
+  "a decir": {
+    "que": 139152
+  },
+  "referencia a": {
+    "la": 139102
+  },
+  "y antes": {
+    "de": 138924
+  },
+  "son capaces": {
+    "de": 138911
+  },
+  "el ruido": {
+    "de": 138852
+  },
+  "el equipo": {
+    "de": 138840
+  },
+  "a ir": {
+    "a": 138718
+  },
+  "está claro": {
+    "que": 138675
+  },
+  "se encontró": {
+    "con": 138533
+  },
+  "fondo de": {
+    "la": 138511
+  },
+  "el tamaño": {
+    "de": 138323
+  },
+  "no vas": {
+    "a": 137927
+  },
+  "cuando se": {
+    "trata": 137586
+  },
+  "cualquier cosa": {
+    "que": 137475
+  },
+  "caso es": {
+    "que": 137338
+  },
+  "ya en": {
+    "el": 137122
+  },
+  "la velocidad": {
+    "de": 137055
+  },
+  "un total": {
+    "de": 137002
+  },
+  "había dado": {
+    "cuenta": 136977
+  },
+  "existencia de": {
+    "un": 136925
+  },
+  "los restos": {
+    "de": 136878
+  },
+  "la respuesta": {
+    "de": 136846
+  },
+  "no ser": {
+    "que": 136751
+  },
+  "con él": {
+    "y": 136718
+  },
+  "la organización": {
+    "de": 136648
+  },
+  "una suerte": {
+    "de": 136564
+  },
+  "en pacientes": {
+    "con": 136540
+  },
+  "casa ,": {
+    "y": 136485
+  },
+  "se inclinó": {
+    "hacia": 136458
+  },
+  "por falta": {
+    "de": 136392
+  },
+  "desde un": {
+    "punto": 136191
+  },
+  "eso lo": {
+    "que": 136117
+  },
+  "lo cual": {
+    "se": 136005,
+    "no": 126893
+  },
+  "a mediados": {
+    "de": 135983
+  },
+  "un vaso": {
+    "de": 135946
+  },
+  "una mano": {
+    "en": 135761
+  },
+  "respecto de": {
+    "la": 135760
+  },
+  "los países": {
+    "de": 135724
+  },
+  "un acto": {
+    "de": 135689
+  },
+  "y miró": {
+    "a": 135633
+  },
+  "eso era": {
+    "lo": 135563
+  },
+  "el pueblo": {
+    "de": 135522
+  },
+  "el área": {
+    "de": 135448
+  },
+  "en cada": {
+    "uno": 135407
+  },
+  "tenía que": {
+    "hacer": 135341,
+    "ser": 133356
+  },
+  "la sangre": {
+    "de": 135337
+  },
+  "en presencia": {
+    "de": 135336
+  },
+  "otro de": {
+    "los": 135109
+  },
+  "la cocina": {
+    "y": 135074
+  },
+  "a qué": {
+    "se": 135070
+  },
+  "de entrar": {
+    "en": 135024
+  },
+  "me doy": {
+    "cuenta": 134999
+  },
+  "la segunda": {
+    "mitad": 134894,
+    "guerra": 130167
+  },
+  "puede llegar": {
+    "a": 134844
+  },
+  "de arriba": {
+    "abajo": 134784
+  },
+  "en compañía": {
+    "de": 134741
+  },
+  "el cuarto": {
+    "de": 134737
+  },
+  "hace mucho": {
+    "tiempo": 134705
+  },
+  "un modelo": {
+    "de": 134534
+  },
+  "sin que": {
+    "se": 134439
+  },
+  "que iban": {
+    "a": 134225
+  },
+  "ah ,": {
+    "sí": 134138
+  },
+  "dios ,": {
+    "y": 134103
+  },
+  "la facultad": {
+    "de": 134003
+  },
+  "en más": {
+    "de": 133766
+  },
+  "se convierten": {
+    "en": 133483
+  },
+  "tiempo ,": {
+    "y": 133446
+  },
+  "la piel": {
+    "de": 133420
+  },
+  "te he": {
+    "dicho": 133397
+  },
+  "tres o": {
+    "cuatro": 133223
+  },
+  "conocimiento de": {
+    "la": 132997
+  },
+  "la evaluación": {
+    "de": 132857
+  },
+  "lado ,": {
+    "la": 132711
+  },
+  "atención a": {
+    "la": 132549
+  },
+  "un vistazo": {
+    "a": 132475
+  },
+  "las acciones": {
+    "de": 132325
+  },
+  "amor de": {
+    "dios": 132265
+  },
+  "con cara": {
+    "de": 132187
+  },
+  "como los": {
+    "de": 132044
+  },
+  "que están": {
+    "en": 131792
+  },
+  "la salud": {
+    "de": 131740
+  },
+  "tono de": {
+    "voz": 131685
+  },
+  "durante toda": {
+    "la": 131658
+  },
+  "la secretaría": {
+    "de": 131449
+  },
+  "todo aquello": {
+    "que": 131273
+  },
+  "la constitución": {
+    "de": 131268
+  },
+  "las medidas": {
+    "de": 131203
+  },
+  "como es": {
+    "el": 131193
+  },
+  "haga clic": {
+    "en": 131186
+  },
+  "algo así": {
+    "como": 131170
+  },
+  "en ningún": {
+    "caso": 130847,
+    "momento": 119064
+  },
+  "había visto": {
+    "en": 130715
+  },
+  "la salida": {
+    "de": 130674
+  },
+  "y cuando": {
+    "se": 130662
+  },
+  "imagen de": {
+    "la": 130604
+  },
+  "un cambio": {
+    "de": 130590
+  },
+  "similar a": {
+    "la": 130568
+  },
+  "que pueden": {
+    "ser": 130539
+  },
+  "allí ,": {
+    "en": 130447
+  },
+  "es hora": {
+    "de": 130327
+  },
+  "ser capaz": {
+    "de": 130256
+  },
+  "la iglesia": {
+    "de": 130254
+  },
+  "uno al": {
+    "otro": 130190
+  },
+  "de miles": {
+    "de": 130174
+  },
+  "la junta": {
+    "de": 130114
+  },
+  "la fuente": {
+    "de": 130086
+  },
+  "el rey": {
+    "de": 130041
+  },
+  "la caída": {
+    "de": 130001
+  },
+  "disminución de": {
+    "la": 129970
+  },
+  "como uno": {
+    "de": 129785
+  },
+  "un aumento": {
+    "de": 129770
+  },
+  "cualquiera de": {
+    "los": 129744
+  },
+  "un puñado": {
+    "de": 129670
+  },
+  "la declaración": {
+    "de": 129644
+  },
+  "depende de": {
+    "la": 129611
+  },
+  "medida que": {
+    "se": 129566
+  },
+  "un período": {
+    "de": 129555
+  },
+  "bueno ,": {
+    "no": 129489
+  },
+  "dos tipos": {
+    "de": 129432
+  },
+  "los campos": {
+    "de": 129360
+  },
+  "sino más": {
+    "bien": 129315
+  },
+  "las cuales": {
+    "se": 129276
+  },
+  "la palma": {
+    "de": 129275
+  },
+  "la lectura": {
+    "de": 129076
+  },
+  "segunda guerra": {
+    "mundial": 128980
+  },
+  "la calle": {
+    "de": 128885
+  },
+  "el diseño": {
+    "de": 128872
+  },
+  "la opinión": {
+    "pública": 128728,
+    "de": 121699
+  },
+  "que mi": {
+    "padre": 128663
+  },
+  "el pago": {
+    "de": 128597
+  },
+  "las normas": {
+    "de": 128593
+  },
+  "poco después": {
+    "de": 128499
+  },
+  "desde que": {
+    "se": 128456
+  },
+  "la probabilidad": {
+    "de": 128439
+  },
+  "los objetivos": {
+    "de": 128410
+  },
+  "esperar a": {
+    "que": 128328
+  },
+  "la memoria": {
+    "de": 128162
+  },
+  "da cuenta": {
+    "de": 128129
+  },
+  "yo no": {
+    "soy": 128124
+  },
+  "de parte": {
+    "de": 128122
+  },
+  "pero es": {
+    "que": 128111
+  },
+  "te vas": {
+    "a": 127955
+  },
+  "en muchas": {
+    "ocasiones": 127856
+  },
+  "que hace": {
+    "que": 127793
+  },
+  "y él": {
+    "se": 127669
+  },
+  "la espalda": {
+    "y": 127582
+  },
+  "hacer frente": {
+    "a": 127533
+  },
+  "lo miró": {
+    "con": 127517
+  },
+  "la venta": {
+    "de": 127423
+  },
+  "durante un": {
+    "tiempo": 127396
+  },
+  "que tengo": {
+    "que": 127364
+  },
+  "un beso": {
+    "en": 127360
+  },
+  "las comunidades": {
+    "autónomas": 127282
+  },
+  "con más": {
+    "fuerza": 127071
+  },
+  "y una": {
+    "vez": 127058
+  },
+  "qué iba": {
+    "a": 126984
+  },
+  "pie de": {
+    "la": 126852
+  },
+  "de agua": {
+    "y": 126759
+  },
+  "un millón": {
+    "de": 126540
+  },
+  "una situación": {
+    "de": 126510
+  },
+  "mí no": {
+    "me": 126402
+  },
+  "hay algo": {
+    "que": 125993
+  },
+  "y todas": {
+    "las": 125977
+  },
+  "del otro": {
+    "lado": 125899
+  },
+  "los años": {
+    "de": 125831
+  },
+  "tarde o": {
+    "temprano": 125792
+  },
+  "a entrar": {
+    "en": 125701
+  },
+  "relacionadas con": {
+    "la": 125606
+  },
+  "de de": {
+    "de": 125590
+  },
+  "la estación": {
+    "de": 125570
+  },
+  "que nunca": {
+    "se": 125523
+  },
+  "contacto con": {
+    "el": 125474
+  },
+  "de salir": {
+    "de": 125397
+  },
+  "el carácter": {
+    "de": 125359
+  },
+  "desde una": {
+    "perspectiva": 125316
+  },
+  "la miró": {
+    "con": 125311
+  },
+  "qué te": {
+    "parece": 125030
+  },
+  "la fase": {
+    "de": 124946
+  },
+  "un plan": {
+    "de": 124917
+  },
+  "días de": {
+    "la": 124909
+  },
+  "en menos": {
+    "de": 124858
+  },
+  "por culpa": {
+    "de": 124838
+  },
+  "llevado a": {
+    "cabo": 124775
+  },
+  "puede ser": {
+    "un": 124758
+  },
+  "se habla": {
+    "de": 124689
+  },
+  "la espera": {
+    "de": 124686
+  },
+  "dirección general": {
+    "de": 124541
+  },
+  "exactamente lo": {
+    "que": 124499
+  },
+  "al aire": {
+    "libre": 124407
+  },
+  "pero antes": {
+    "de": 124113
+  },
+  "que son": {
+    "los": 124102
+  },
+  "y mucho": {
+    "menos": 123695
+  },
+  "como de": {
+    "la": 123225
+  },
+  "forman parte": {
+    "de": 123224
+  },
+  "que también": {
+    "se": 123217
+  },
+  "los labios": {
+    "y": 123211
+  },
+  "la obtención": {
+    "de": 123098
+  },
+  "se van": {
+    "a": 123097
+  },
+  "a juzgar": {
+    "por": 123060
+  },
+  "la cámara": {
+    "de": 123056
+  },
+  "del mundo": {
+    "y": 123039
+  },
+  "voy a": {
+    "hacer": 122964
+  },
+  "conforme a": {
+    "la": 122902
+  },
+  "ellos ,": {
+    "y": 122819
+  },
+  "la adquisición": {
+    "de": 122744
+  },
+  "al frente": {
+    "de": 122685
+  },
+  "la suerte": {
+    "de": 122678
+  },
+  "tratamiento de": {
+    "la": 122454
+  },
+  "mayor o": {
+    "menor": 122443
+  },
+  "la comisión": {
+    "de": 122279
+  },
+  "la plaza": {
+    "de": 122239
+  },
+  "la reducción": {
+    "de": 122127
+  },
+  "a buscar": {
+    "a": 122074
+  },
+  "de américa": {
+    "latina": 121885
+  },
+  "como ya": {
+    "se": 121757
+  },
+  "lo de": {
+    "la": 121698
+  },
+  "de ninguna": {
+    "manera": 121652
+  },
+  "el programa": {
+    "de": 121589
+  },
+  "se suponía": {
+    "que": 121481
+  },
+  "la presentación": {
+    "de": 121471
+  },
+  "no estaba": {
+    "en": 121451
+  },
+  "la resolución": {
+    "de": 121386
+  },
+  "ver lo": {
+    "que": 121296
+  },
+  "de pie": {
+    "y": 121223
+  },
+  "se puede": {
+    "decir": 121195
+  },
+  "del número": {
+    "de": 121174
+  },
+  "sabe lo": {
+    "que": 121149
+  },
+  "se atrevió": {
+    "a": 121059
+  },
+  "fue uno": {
+    "de": 121052
+  },
+  "así es": {
+    "como": 121008
+  },
+  "una relación": {
+    "de": 121007
+  },
+  "del que": {
+    "se": 120981
+  },
+  "la interpretación": {
+    "de": 120966
+  },
+  "que habían": {
+    "sido": 120945
+  },
+  "dicho que": {
+    "no": 120936
+  },
+  "la actitud": {
+    "de": 120907
+  },
+  "entre las": {
+    "manos": 120777
+  },
+  "durante los": {
+    "últimos": 120776
+  },
+  "a este": {
+    "respecto": 120744
+  },
+  "a propósito": {
+    "de": 120685
+  },
+  "la certeza": {
+    "de": 120562
+  },
+  "a raíz": {
+    "de": 120538
+  },
+  "el comportamiento": {
+    "de": 120337
+  },
+  "poco antes": {
+    "de": 120327
+  },
+  "debe de": {
+    "ser": 120302
+  },
+  "sí mismo": {
+    "y": 120248
+  },
+  "que al": {
+    "final": 120235
+  },
+  "y uno": {
+    "de": 120233
+  },
+  "la generación": {
+    "de": 120101
+  },
+  "social de": {
+    "la": 120004
+  },
+  "pero sobre": {
+    "todo": 120003
+  },
+  "dijo ,": {
+    "y": 120001
+  },
+  "a ambos": {
+    "lados": 119996
+  },
+  "su condición": {
+    "de": 119976
+  },
+  "del espíritu": {
+    "santo": 119879
+  },
+  "no está": {
+    "en": 119599
+  },
+  "que respecta": {
+    "a": 119473
+  },
+  "si lo": {
+    "que": 119342
+  },
+  "era el": {
+    "único": 119228
+  },
+  "los primeros": {
+    "años": 118994
+  },
+  "que volver": {
+    "a": 118807
+  },
+  "a entender": {
+    "que": 118783
+  },
+  "el régimen": {
+    "de": 118706
+  },
+  "lo establecido": {
+    "en": 118465
+  },
+  "los puntos": {
+    "de": 118430
+  },
+  "en donde": {
+    "se": 118416
+  },
+  "durante el": {
+    "día": 118392
+  }
+}
