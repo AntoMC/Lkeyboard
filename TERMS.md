@@ -1,6 +1,6 @@
 # Terms and Conditions & Privacy Policy
 
-**Last Updated: March 2023**
+**Last Updated: March 2026**
 
 Please read these Terms and Conditions carefully before using **Liquid Keyboard**.
 
