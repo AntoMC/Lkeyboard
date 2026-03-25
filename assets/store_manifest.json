@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "languages": [
+    {
+      "id": "es",
+      "name": "Español",
+      "description": "Pack Completo de Diccionario",
+      "size": "2.4 MB"
+    },
+    {
+      "id": "en",
+      "name": "Inglés",
+      "description": "Pack Completo de Diccionario",
+      "size": "1.8 MB"
+    },
+    {
+      "id": "pt",
+      "name": "Portugués",
+      "description": "Pack Básico de Diccionario",
+      "size": "1.2 MB"
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "bg_minimal",
+      "name": "Minimal White",
+      "desc": "Limpio, puro y elegante",
+      "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/blanco.webp",
+      "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/blanco-preview.webp",
+      "isFree": true,
+      "isAvailable": true
+    },
+    {
+      "id": "bg_good_luck",
+      "name": "Good Luck",
+      "desc": "Imagen animada y colorida",
+      "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/fondo1.webp",
+      "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/fondo1-preview.webp",
+      "isFree": false,
+      "isAvailable": true
+    }
+  ],
+  "themes": [
+    {
+      "name": "Classic Dark",
+      "upperRowColor": "#1A1A1A",
+      "bottomRowColor": "#121212",
+      "mainTextColor": "#FFFFFF",
+      "cornerTextColor": "#888888",
+      "isFree": true
+    },
+    {
+      "name": "Neon Blue",
+      "upperRowColor": "#000B1E",
+      "bottomRowColor": "#00152A",
+      "mainTextColor": "#00E5FF",
+      "cornerTextColor": "#00838F",
+      "gradientColors": ["#000B1E", "#00254D"],
+      "isFree": false
+    }
+  ],
+  "sounds": [
+    {
+      "id": "modern",
+      "name": "Click Moderno",
+      "description": "Sonido estándar y limpio",
+      "size": "120 KB",
+      "isFree": true
+    },
+    {
+      "id": "mechanical",
+      "name": "Azul Mecánico",
+      "description": "Estilo teclado mecánico",
+      "size": "450 KB",
+      "isFree": false
+    }
+  ],
+  "fonts": [
+    {
+      "id": "f1",
+      "name": "Roboto Mono",
+      "description": "Perfecta para programación",
+      "size": "180 KB",
+      "isFree": true
+    },
+    {
+      "id": "f4",
+      "name": "Orbitron",
+      "description": "Look futurista",
+      "size": "190 KB",
+      "isFree": false
+    }
+  ]
+}
