@@ -1,5 +1,23 @@
 {
     "version": 1,
+    "snippets": [
+        {
+            "id": "marketing_pro",
+            "name": "Marketing Digital",
+            "description": "Atajos ideales para community managers",
+            "size": "12 KB",
+            "colorHex": "#FF5722",
+            "isFree": true
+        },
+        {
+            "id": "java_dev",
+            "name": "Java Snippets",
+            "description": "Estructuras rápidas para programadores Java",
+            "size": "15 KB",
+            "colorHex": "#007396",
+            "isFree": true
+        }
+    ],
     "languages": [
         {
             "id": "es",

@@ -1,0 +1,11 @@
+{
+  ".psvm": "public static void main(String[] args) {\n    <caret>\n}",
+  ".sout": "System.out.println(\"\");",
+  ".fori": "for (int i = 0; i < array.length; i++) {\n    \n}",
+  ".try": "try {\n    \n} catch (Exception e) {\n    e.printStackTrace();\n}",
+  ".if": "if (condition) {\n    \n}",
+  ".class": "public class MyClass {\n    public MyClass() {\n        \n    }\n}",
+  ".get": "public String getName() {\n    return name;\n}",
+  ".list": "List<String> items = new ArrayList<>();",
+  ".map": "Map<String, Object> data = new HashMap<>();"
+}
