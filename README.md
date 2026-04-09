@@ -1,44 +1,59 @@
-# 🌊 Liquid Keyboard - Custom & CodingLiquid Keyboard is a powerful, high-performance Android keyboard built entirely with **Jetpack Compose**. Designed for developers, power users, and anyone who loves deep customization. 
+# ⌨️ LKeyboard - ¡Ponte Creativo!
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Android-green.svg)
-![Build](https://img.shields.io/badge/built%20with-Jetpack%20Compose-orange.svg)
+[![Android](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](https://developer.android.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.0-blue.svg)](https://kotlinlang.org)
+[![Compose](https://img.shields.io/badge/Jetpack-Compose-orange.svg)](https://developer.android.com/jetpack/compose)
 
-## ✨ Key Features
+**LKeyboard** no es solo un teclado; es un entorno de escritura dinámico y altamente personalizable diseñado para usuarios avanzados, programadores y entusiastas del diseño. 
 
-*   **Corner Swipe Gestures**: Type symbols quickly by swiping from the corners of any key. No more switching layouts for a simple semicolon!
-*   **Snippets (Text Expander)**: Boost your productivity with VS Code style snippets. Define shortcuts like `!email` and expand them into full text instantly.
-*   **Deep Personalization**: 
-    *   Change every color: Keys, background, main text, and corner hints.
-    *   Fully editable layouts: Add, remove, or resize keys with the built-in **Layout Editor**.
-    *   Custom Typography: Use your favorite system fonts.
-*   **Power User Tools**:
-    *   Integrated **Clipboard Manager**.
-    *   Editing Joystick for precise cursor control.
-    *   Sticky Modifiers (Double-tap Ctrl, Shift, or Alt to lock).
-*   **Smart Layouts**: Multiple templates included (QWERTY, PC, AZERTY, Colemak, Dvorak, Gaming, Math, Programmer).
-*   **Lightweight & Fast**: Optimized with R8/Minification for a tiny footprint without sacrificing features.
+---
 
-## 🛠 Tech Stack
+## ✨ Características Principales
 
-*   **Language**: Kotlin & Java
-*   **UI Framework**: Jetpack Compose
-*   **Persistence**: SharedPreferences & Gson
-*   **Monetization**: Google AdMob (Interstitial Ads for premium features)
-*   **Architecture**: MVVM (Model-View-ViewModel)
+### 🎨 Editor de Diseño "En Vivo" (Layout Editor)
+Reconstruye tu teclado desde la propia aplicación. 
+- **Mover Teclas:** Arrastra y suelta para cambiar la posición de cualquier tecla.
+- **Personalización Total:** Cambia etiquetas, acciones, colores y pesos de cada tecla individualmente.
+- **Acciones Especiales:** Configura macros como `CTRL+C`, `CTRL+V`, o lanza Snippets directamente.
 
-## 🚀 Installation
+### ⚡ Gestos de Esquina Inteligentes
+El alma de LKeyboard. Cada tecla puede albergar hasta 4 símbolos o comandos adicionales en sus esquinas. Desliza hacia la esquina para escribir instantáneamente sin cambiar de panel.
 
-1.  proximamente el enlace.
+### 🤖 Sistema de Snippets Estilo IDE
+Panel de sugerencias dinámico inspirado en VS Code. Ideal para programadores o para quienes usan frases repetitivas. Soporta navegación con la barra espaciadora y selección con `Tab`.
 
-## 📄 Privacy & Terms
+### 🌊 Efectos Visuales "Liquid"
+Animaciones reactivas con efectos de onda RGB. Totalmente configurable en velocidad, difusión y persistencia.
 
-By using Liquid Keyboard, you agree to our [Terms and Conditions](TERMS.md). We respect your privacy: **Liquid Keyboard does not collect, store, or transmit your keystrokes.**
+---
 
-## 🤝 Contributing
+## 🛠️ Modos y Plantillas Incluidas
+LKeyboard viene con layouts optimizados para cada necesidad:
+- **Estándar:** QWERTY, AZERTY, Colemak, Dvorak.
+- **Productividad:** Layouts específicos para **Word**, **Excel** y **Programación**.
+- **Herramientas:** Teclado numérico, matemático y panel de emojis extendido.
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+---
 
-## 📜 License
+## 🔒 Privacidad por Diseño
+La seguridad es nuestra prioridad. 
+- **Sin Internet:** LKeyboard funciona totalmente offline para el procesamiento de texto.
+- **Cero Keylogging:** No almacenamos ni transmitimos tus pulsaciones.
+- **Transparencia:** Consulta nuestra [Política de Privacidad](https://antomc.github.io/Lkeyboard/privacy-policy.html).
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
+
+## 🚀 Instalación
+1. Clona este repositorio.
+2. Abre el proyecto en **Android Studio Jellyfish** o superior.
+3. Compila e instala en tu dispositivo.
+4. Sigue la guía de configuración en la pantalla de inicio de la app.
+
+---
+
+## 📸 Documentación Visual
+*(Próximamente: Aquí se insertarán las capturas y videos cortos del funcionamiento)*
+
+---
+
+**Desarrollado con ❤️ por Antonio M.C.**
