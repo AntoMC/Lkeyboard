@@ -1,5 +1,11 @@
 {
     "version": 1,
+    "update": {
+        "latestVersionCode": 13,
+        "latestVersionName": "1.12-prueba",
+        "updateUrl": "https://github.com/AntoMC/Lkeyboard/releases",
+        "releaseNotes": "Nuevas mejoras en el teclado y corrección de errores."
+    },
     "snippets": [
         {
             "id": "marketing_pro",
