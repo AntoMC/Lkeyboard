@@ -396,14 +396,7 @@
             "cornerTextColor": "#FF92DF",
             "isFree": false
         },
-        {
-            "name": "Midnight Glass",
-            "upperRowColor": "#40000000",
-            "bottomRowColor": "#66000000",
-            "mainTextColor": "#B3FFFFFF",
-            "cornerTextColor": "#66FFFFFF",
-            "isFree": true
-        },
+    
         {
             "name": "Neon Cyan Glass",
             "upperRowColor": "#2600E5FF",
