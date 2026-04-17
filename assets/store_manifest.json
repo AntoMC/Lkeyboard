@@ -1,8 +1,8 @@
 {
     "version": 1,
     "update": {
-        "latestVersionCode": 15,
-        "latestVersionName": "1.14-prueba",
+        "latestVersionCode": 16,
+        "latestVersionName": "1.15-prueba",
         "updateUrl": "https://play.google.com/store/apps/details?id=com.amc.liquidkeyboard",
         "releaseNotes": "Nuevas mejoras en el teclado y corrección de errores."
     },
