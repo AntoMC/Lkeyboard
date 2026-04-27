@@ -1,10 +1,11 @@
 {
     "version": 1,
+    "globalFreeMode": true,
     "update": {
-        "latestVersionCode": 17,
-        "latestVersionName": "1.16-prueba",
+        "latestVersionCode": 18,
+        "latestVersionName": "1.17-prueba",
         "updateUrl": "https://play.google.com/store/apps/details?id=com.amc.liquidkeyboard",
-        "releaseNotes": "Corrección de errores en dispositivos samsung. se agregó la seccion sticker en la tienda"
+        "releaseNotes": "se agregó la seccion sticker en la tienda. y la importacion de contenido como stickers, fondos, fuentes, snippets y diccionarios. se corrigieron errores menores y se mejoró el rendimiento general de la aplicación."
     },
     "snippets": [
         {
@@ -13,7 +14,7 @@
             "description": "Atajos ideales para community managers",
             "size": "12 KB",
             "colorHex": "#FF5722",
-            "isFree": true
+            "isFree": false
         },
         {
             "id": "java_dev",
@@ -21,7 +22,7 @@
             "description": "Estructuras rápidas para programadores Java",
             "size": "15 KB",
             "colorHex": "#007396",
-            "isFree": true
+            "isFree": false
         }
     ],
     "languages": [
@@ -51,7 +52,7 @@
             "desc": "Limpio, puro y elegante",
             "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/blanco.webp",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/blanco-preview.webp",
-            "isFree": true,
+            "isFree": false,
             "isAvailable": true
         },
         {
@@ -60,7 +61,7 @@
             "desc": "Imagen animada y colorida",
             "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/fondo1.webp",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/fondo1-preview.webp",
-            "isFree": true,
+            "isFree": false,
             "isAvailable": true
         },
         {
@@ -69,7 +70,7 @@
             "desc": "imagen decorativa",
             "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/elefante-neon.png",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/elefante-neon-preview.webp",
-            "isFree": true,
+            "isFree": false,
             "isAvailable": true
         },
         {
@@ -78,7 +79,7 @@
             "desc": "imagen decorativa",
             "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/jirafa-neon.png",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/jirafa-neon-preview.webp",
-            "isFree": true,
+            "isFree": false,
             "isAvailable": true
         },
         {
@@ -87,7 +88,7 @@
             "desc": "imagen decorativa",
             "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/lobo-neon.png",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/lobo-neon-preview.webp",
-            "isFree": true,
+            "isFree": false,
             "isAvailable": true
         },
         {
@@ -96,7 +97,7 @@
             "desc": "imagen decorativa",
             "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/mariposa-neon.png",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/mariposa-neon-preview.webp",
-            "isFree": true,
+            "isFree": false,
             "isAvailable": true
         },
         {
@@ -105,7 +106,7 @@
             "desc": "imagen decorativa",
             "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/medusa-neon.png",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/medusa-neon-preview.webp",
-            "isFree": true,
+            "isFree": false,
             "isAvailable": true
         },
         {
@@ -114,7 +115,7 @@
             "desc": "imagen decorativa",
             "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/pavoreal-neon.png",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/pavoreal-neon-preview.webp",
-            "isFree": true,
+            "isFree": false,
             "isAvailable": true
         },
         {
@@ -123,7 +124,7 @@
             "desc": "imagen decorativa",
             "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/pinguino-neon.png",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/pinguino-neon-preview.webp",
-            "isFree": true,
+            "isFree": false,
             "isAvailable": true
         },
         {
@@ -132,7 +133,7 @@
             "desc": "imagen decorativa",
             "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/snake-neon.png",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/snake-neon-preview.webp",
-            "isFree": true,
+            "isFree": false,
             "isAvailable": true
         },
         {
@@ -141,7 +142,7 @@
             "desc": "imagen decorativa",
             "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/tortuga-neon.png",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/tortuga-neon-preview.webp",
-            "isFree": true,
+            "isFree": false,
             "isAvailable": true
         },
         {
@@ -150,7 +151,7 @@
             "desc": "imagen decorativa",
             "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/zorro-neon.png",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/zorro-neon-preview.webp",
-            "isFree": true,
+            "isFree": false,
             "isAvailable": true
         }
     ],
@@ -161,7 +162,7 @@
             "bottomRowColor": "#121212",
             "mainTextColor": "#FFFFFF",
             "cornerTextColor": "#888888",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Neon Blue",
@@ -173,7 +174,7 @@
                 "#000B1E",
                 "#00254D"
             ],
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Neon RGB",
@@ -181,7 +182,7 @@
             "bottomRowColor": "#000000",
             "mainTextColor": "#FFFFFF",
             "cornerTextColor": "#00FFFF",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Neon Rainbow",
@@ -198,7 +199,7 @@
                 "#4B0082",
                 "#8B00FF"
             ],
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Neon Matrix",
@@ -206,7 +207,7 @@
             "bottomRowColor": "#050505",
             "mainTextColor": "#00FF41",
             "cornerTextColor": "#008F11",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Neon Lava",
@@ -214,7 +215,7 @@
             "bottomRowColor": "#0A0000",
             "mainTextColor": "#FF4500",
             "cornerTextColor": "#8B0000",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Neon Ice",
@@ -222,7 +223,7 @@
             "bottomRowColor": "#00050A",
             "mainTextColor": "#00F5FF",
             "cornerTextColor": "#005F6B",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Neon Toxic",
@@ -230,7 +231,7 @@
             "bottomRowColor": "#020500",
             "mainTextColor": "#ADFF2F",
             "cornerTextColor": "#458B00",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Neon Electric",
@@ -238,7 +239,7 @@
             "bottomRowColor": "#000000",
             "mainTextColor": "#7DF9FF",
             "cornerTextColor": "#0000FF",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "RGB Flow",
@@ -246,7 +247,7 @@
             "bottomRowColor": "#050505",
             "mainTextColor": "#FFFFFF",
             "cornerTextColor": "#00FFFF",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Deep Sea Flow",
@@ -254,7 +255,7 @@
             "bottomRowColor": "#001020",
             "mainTextColor": "#00F5FF",
             "cornerTextColor": "#005F6B",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Magma Flow",
@@ -262,7 +263,7 @@
             "bottomRowColor": "#200000",
             "mainTextColor": "#FF4500",
             "cornerTextColor": "#8B0000",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Sakura",
@@ -270,7 +271,7 @@
             "bottomRowColor": "#FFF2F6",
             "mainTextColor": "#59313E",
             "cornerTextColor": "#B28594",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Sky",
@@ -278,7 +279,7 @@
             "bottomRowColor": "#F2FAFF",
             "mainTextColor": "#314B59",
             "cornerTextColor": "#85A3B2",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Lavender",
@@ -286,7 +287,7 @@
             "bottomRowColor": "#F8F2FF",
             "mainTextColor": "#453159",
             "cornerTextColor": "#9C85B2",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Peach",
@@ -294,7 +295,7 @@
             "bottomRowColor": "#FFF7F2",
             "mainTextColor": "#594131",
             "cornerTextColor": "#B29885",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Mint",
@@ -302,7 +303,7 @@
             "bottomRowColor": "#F2FFF8",
             "mainTextColor": "#315945",
             "cornerTextColor": "#85B29C",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Cyberpunk 2077",
@@ -310,7 +311,7 @@
             "bottomRowColor": "#000000",
             "mainTextColor": "#FCEE09",
             "cornerTextColor": "#00F0FF",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Synthwave 84",
@@ -318,7 +319,7 @@
             "bottomRowColor": "#262335",
             "mainTextColor": "#FF7EDB",
             "cornerTextColor": "#2DE2E6",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Retro Wave",
@@ -326,7 +327,7 @@
             "bottomRowColor": "#10002B",
             "mainTextColor": "#FF00BD",
             "cornerTextColor": "#3CFF00",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Vivid Amethyst",
@@ -334,7 +335,7 @@
             "bottomRowColor": "#120D1A",
             "mainTextColor": "#BF00FF",
             "cornerTextColor": "#00D4FF",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Sky Blue",
@@ -346,7 +347,7 @@
                 "#4facfe",
                 "#00f2fe"
             ],
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Sunset",
@@ -358,7 +359,7 @@
                 "#ff9a9e",
                 "#fecfef"
             ],
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Deep Purple",
@@ -370,7 +371,7 @@
                 "#667eea",
                 "#764ba2"
             ],
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Dracula",
@@ -378,7 +379,7 @@
             "bottomRowColor": "#44475A",
             "mainTextColor": "#BD93F9",
             "cornerTextColor": "#FF79C6",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Dracula Neon",
@@ -386,7 +387,7 @@
             "bottomRowColor": "#1E1F29",
             "mainTextColor": "#00F5FF",
             "cornerTextColor": "#BF94FF",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Dracula Supernova",
@@ -394,7 +395,7 @@
             "bottomRowColor": "#282A36",
             "mainTextColor": "#8BE9FD",
             "cornerTextColor": "#FF92DF",
-            "isFree": true
+            "isFree": false
         },
         {
             "name": "Neon Cyan Glass",
@@ -402,7 +403,7 @@
             "bottomRowColor": "#4000E5FF",
             "mainTextColor": "#FF00E5FF",
             "cornerTextColor": "#B300E5FF",
-            "isFree": true
+            "isFree": false
         }
     ],
     "sounds": [
@@ -411,7 +412,7 @@
             "name": "Click Moderno",
             "description": "Sonido estándar y limpio",
             "size": "120 KB",
-            "isFree": true
+            "isFree": false
         },
         {
             "id": "mechanical",
@@ -427,7 +428,7 @@
             "name": "Roboto Mono",
             "description": "Perfecta para programación",
             "size": "180 KB",
-            "isFree": true
+            "isFree": false
         },
         {
             "id": "f4",
@@ -444,7 +445,7 @@
             "author": "Telegram",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/stickers/previews/teddy_bear.jpg",
             "zipUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/stickers/TeddyBear.zip",
-            "isFree": true
+            "isFree": false
         }
     ]
 }
