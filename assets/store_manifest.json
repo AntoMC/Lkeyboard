@@ -2,10 +2,10 @@
     "version": 1,
     "globalFreeMode": true,
     "update": {
-        "latestVersionCode": 18,
-        "latestVersionName": "1.17-prueba",
+        "latestVersionCode": 19,
+        "latestVersionName": "1.18-prueba",
         "updateUrl": "https://play.google.com/store/apps/details?id=com.amc.liquidkeyboard",
-        "releaseNotes": "se agregó la seccion sticker en la tienda. y la importacion de contenido como stickers, fondos, fuentes, snippets y diccionarios. se corrigieron errores menores y se mejoró el rendimiento general de la aplicación."
+        "releaseNotes": "Soporte para el idioma bengalí. Se agregó la seccion sticker en la tienda. y la importacion de contenido como stickers, fondos, fuentes, snippets y diccionarios. se corrigieron errores menores y se mejoró el rendimiento general de la aplicación."
     },
     "snippets": [
         {
@@ -440,12 +440,29 @@
     ],
     "stickers": [
         {
-            "id": "pack_01",
+            "id": "TeddyBear",
             "name": "TeddyBear",
             "author": "Telegram",
             "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/stickers/previews/teddy_bear.jpg",
             "zipUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/stickers/TeddyBear.zip",
             "isFree": false
+        },
+        {
+            "id": "LiveFlowers",
+            "name": "LiveFlowers",
+            "author": "Telegram",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/stickers/previews/flower.png",
+            "zipUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/stickers/LiveFlowers.zip",
+            "isFree": false
+        },
+        {
+            "id": "TrickyFox",
+            "name": "TrickyFox",
+            "author": "Telegram",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/stickers/previews/fox.png",
+            "zipUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/stickers/TrickyFox.zip",
+            "isFree": false
         }
+
     ]
 }
