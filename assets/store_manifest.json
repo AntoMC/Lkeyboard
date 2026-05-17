@@ -2,8 +2,8 @@
     "version": 1,
     "globalFreeMode": true,
     "update": {
-        "latestVersionCode": 21,
-        "latestVersionName": "1.20-prueba",
+        "latestVersionCode": 22,
+        "latestVersionName": "1.21-prueba",
         "updateUrl": "https://play.google.com/store/apps/details?id=com.amc.liquidkeyboard",
         "releaseNotes": "Soporte para el idioma bengalí. Se agregó la seccion sticker en la tienda. y la importacion de contenido como stickers, fondos, fuentes, snippets y diccionarios. se corrigieron errores menores y se mejoró el rendimiento general de la aplicación."
     },
@@ -395,14 +395,6 @@
             "bottomRowColor": "#282A36",
             "mainTextColor": "#8BE9FD",
             "cornerTextColor": "#FF92DF",
-            "isFree": false
-        },
-        {
-            "name": "Neon Cyan Glass",
-            "upperRowColor": "#2600E5FF",
-            "bottomRowColor": "#4000E5FF",
-            "mainTextColor": "#FF00E5FF",
-            "cornerTextColor": "#B300E5FF",
             "isFree": false
         }
     ],
