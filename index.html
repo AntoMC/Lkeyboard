@@ -195,12 +195,20 @@
         }
 
         /* Gallery */
+        .carousel-container {
+            position: relative;
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
         .gallery {
             display: flex;
             overflow-x: auto;
-            gap: 2rem;
-            padding: 2rem;
+            gap: 1.5rem;
+            padding: 2rem 1rem;
             scroll-snap-type: x mandatory;
+            scroll-snap-stop: always;
             scroll-behavior: smooth;
             scrollbar-width: none;
             -ms-overflow-style: none;
@@ -211,7 +219,7 @@
         }
 
         .gallery-item {
-            min-width: 280px;
+            flex: 0 0 280px;
             height: 550px;
             background: #1e293b;
             border-radius: 20px;
@@ -221,6 +229,70 @@
             justify-content: center;
             color: var(--text-muted);
             border: 2px dashed rgba(255, 255, 255, 0.1);
+            transition: transform 0.35s ease, border-color 0.35s ease, box-shadow 0.35s ease, background-color 0.35s ease;
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 18px;
+            transition: transform 0.35s ease, filter 0.35s ease;
+        }
+
+        .gallery-item:hover {
+            transform: translateY(-8px) scale(1.02);
+            border-color: rgba(99, 102, 241, 0.45);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.18);
+            background: rgba(30, 41, 59, 0.95);
+        }
+
+        .gallery-item:hover img {
+            transform: scale(1.05);
+            filter: brightness(1.05);
+        }
+
+        .carousel-btn {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 44px;
+            height: 44px;
+            border: none;
+            border-radius: 50%;
+            background: rgba(15, 23, 42, 0.9);
+            color: var(--text);
+            cursor: pointer;
+            font-size: 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+            transition: transform 0.25s ease, background 0.25s ease;
+            z-index: 1;
+        }
+
+        .carousel-btn:hover {
+            transform: translateY(-50%) scale(1.05);
+            background: rgba(99, 102, 241, 0.9);
+        }
+
+        .carousel-btn.prev {
+            left: 1rem;
+        }
+
+        .carousel-btn.next {
+            right: 1rem;
+        }
+
+        @media (max-width: 768px) {
+            .carousel-btn {
+                width: 38px;
+                height: 38px;
+                font-size: 1.25rem;
+                left: 0.75rem;
+                right: 0.75rem;
+            }
         }
 
         /* Privacy Section */
@@ -263,7 +335,7 @@
     </header>
 
     <section class="hero">
-        <span class="section-tag">Versión 1.25-prueba ya disponible</span>
+        <span class="section-tag">Versión 1.26-prueba ya disponible</span>
         <h1>Escribe con Fluidez,<br>Diseña sin Límites.</h1>
         <p>El primer teclado Android con editor de diseño en vivo, gestos de esquina inteligentes y efectos visuales
             reactivos.</p>
@@ -312,15 +384,19 @@
         <h2>Un teclado que se adapta a ti</h2>
         <p>Ya seas programador, escritor o gamer, LKeyboard tiene una plantilla para ti.</p>
 
-        <div class="gallery">
-            <div class="gallery-item"><img src="screenshots/inicio.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
-            <div class="gallery-item"><img src="screenshots/config.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
-            <div class="gallery-item"><img src="screenshots/fondos.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
-            <div class="gallery-item"><img src="screenshots/gen-stickers.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
-            <div class="gallery-item"><img src="screenshots/gen-iconos.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
-            <div class="gallery-item"><img src="screenshots/calculadora.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
-            <div class="gallery-item"><img src="screenshots/img-snippets.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
-            <div class="gallery-item"><img src="screenshots/LayoutEditor.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
+        <div class="carousel-container">
+            <button class="carousel-btn prev" aria-label="Anterior">‹</button>
+            <button class="carousel-btn next" aria-label="Siguiente">›</button>
+            <div class="gallery">
+                <div class="gallery-item"><img src="screenshots/inicio.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
+                <div class="gallery-item"><img src="screenshots/config.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
+                <div class="gallery-item"><img src="screenshots/fondos.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
+                <div class="gallery-item"><img src="screenshots/gen-stickers.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
+                <div class="gallery-item"><img src="screenshots/gen-iconos.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
+                <div class="gallery-item"><img src="screenshots/calculadora.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
+                <div class="gallery-item"><img src="screenshots/img-snippets.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
+                <div class="gallery-item"><img src="screenshots/LayoutEditor.jpg" alt="LKeyboard Preview" style="width: 100%; height: 100%; object-fit: cover;"></div>
+            </div>
         </div>
     </section>
 
@@ -375,33 +451,58 @@
         });
 
         const gallery = document.querySelector('.gallery');
-        let isGalleryPaused = false;
-        const galleryScrollSpeed = 0.5;
+        const galleryItems = document.querySelectorAll('.gallery-item');
+        const prevButton = document.querySelector('.carousel-btn.prev');
+        const nextButton = document.querySelector('.carousel-btn.next');
+        let currentIndex = 0;
 
-        function autoScrollGallery() {
-            if (gallery && !isGalleryPaused) {
-                gallery.scrollLeft += galleryScrollSpeed;
-                if (gallery.scrollLeft >= gallery.scrollWidth - gallery.clientWidth) {
-                    gallery.scrollLeft = 0;
+        function getClosestIndex() {
+            const galleryCenter = gallery.scrollLeft + gallery.clientWidth / 2;
+            let closestIndex = 0;
+            let closestDistance = Infinity;
+
+            galleryItems.forEach((item, index) => {
+                const itemCenter = item.offsetLeft + item.clientWidth / 2;
+                const distance = Math.abs(galleryCenter - itemCenter);
+                if (distance < closestDistance) {
+                    closestDistance = distance;
+                    closestIndex = index;
                 }
-            }
-            requestAnimationFrame(autoScrollGallery);
+            });
+
+            return closestIndex;
+        }
+
+        function scrollToIndex(index) {
+            const item = galleryItems[index];
+            if (!item) return;
+
+            const offset = item.offsetLeft - (gallery.clientWidth - item.clientWidth) / 2;
+            gallery.scrollTo({ left: offset, behavior: 'smooth' });
+            currentIndex = index;
         }
 
         if (gallery) {
-            const pauseGallery = () => { isGalleryPaused = true; };
-            const resumeGallery = () => { isGalleryPaused = false; };
+            gallery.addEventListener('scroll', () => {
+                currentIndex = getClosestIndex();
+            });
 
-            gallery.addEventListener('pointerdown', pauseGallery);
-            gallery.addEventListener('pointerenter', pauseGallery);
-            gallery.addEventListener('pointerleave', resumeGallery);
-            gallery.addEventListener('pointerup', resumeGallery);
-            gallery.addEventListener('pointercancel', resumeGallery);
-            gallery.addEventListener('touchstart', pauseGallery, { passive: true });
-            gallery.addEventListener('touchend', resumeGallery);
-            gallery.addEventListener('touchcancel', resumeGallery);
+            if (prevButton) {
+                prevButton.addEventListener('click', () => {
+                    const prevIndex = (currentIndex - 1 + galleryItems.length) % galleryItems.length;
+                    scrollToIndex(prevIndex);
+                });
+            }
 
-            autoScrollGallery();
+            if (nextButton) {
+                nextButton.addEventListener('click', () => {
+                    const nextIndex = (currentIndex + 1) % galleryItems.length;
+                    scrollToIndex(nextIndex);
+                });
+            }
+
+            window.addEventListener('resize', () => scrollToIndex(currentIndex));
+            scrollToIndex(0);
         }
     </script>
 </body>
