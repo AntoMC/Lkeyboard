@@ -2,8 +2,8 @@
     "version": 1,
     "globalFreeMode": true,
     "update": {
-        "latestVersionCode": 26,
-        "latestVersionName": "1.26-prueba",
+        "latestVersionCode": 27,
+        "latestVersionName": "1.27-prueba",
         "updateUrl": "https://play.google.com/store/apps/details?id=com.amc.liquidkeyboard",
         "releaseNotes": "Soporte para el idioma bengalí. Se agregó la seccion sticker en la tienda. y la importacion de contenido como stickers, fondos, fuentes, snippets y diccionarios. se corrigieron errores menores y se mejoró el rendimiento general de la aplicación."
     },
