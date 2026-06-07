@@ -2,8 +2,8 @@
     "version": 1,
     "globalFreeMode": false,
     "update": {
-        "latestVersionCode": 29,
-        "latestVersionName": "1.29-prueba",
+        "latestVersionCode": 30,
+        "latestVersionName": "1.30-prueba",
         "updateUrl": "https://play.google.com/store/apps/details?id=com.amc.liquidkeyboard",
         "releaseNotes": "Soporte para el idioma bengalí. Se agregó la seccion sticker en la tienda. y la importacion de contenido como stickers, fondos, fuentes, snippets y diccionarios. se corrigieron errores menores y se mejoró el rendimiento general de la aplicación."
     },
@@ -159,7 +159,7 @@
         {
             "name": "Classic Dark",
             "upperRowColor": "#1A1A1A",
-            "bottomRowColor": "#121212",
+            "bottomRowColor": "#0A0A0A",
             "mainTextColor": "#FFFFFF",
             "cornerTextColor": "#888888",
             "isFree": false
@@ -238,7 +238,7 @@
             "upperRowColor": "#000000",
             "bottomRowColor": "#000000",
             "mainTextColor": "#7DF9FF",
-            "cornerTextColor": "#0000FF",
+            "cornerTextColor": "#0070FF",
             "isFree": false
         },
         {
@@ -269,7 +269,7 @@
             "name": "Sakura",
             "upperRowColor": "#F4D7E1",
             "bottomRowColor": "#FFF2F6",
-            "mainTextColor": "#59313E",
+            "mainTextColor": "#4A2934",
             "cornerTextColor": "#B28594",
             "isFree": false
         },
@@ -277,7 +277,7 @@
             "name": "Sky",
             "upperRowColor": "#D7EBF4",
             "bottomRowColor": "#F2FAFF",
-            "mainTextColor": "#314B59",
+            "mainTextColor": "#233640",
             "cornerTextColor": "#85A3B2",
             "isFree": false
         },
@@ -285,7 +285,7 @@
             "name": "Lavender",
             "upperRowColor": "#E6D7F4",
             "bottomRowColor": "#F8F2FF",
-            "mainTextColor": "#453159",
+            "mainTextColor": "#342542",
             "cornerTextColor": "#9C85B2",
             "isFree": false
         },
@@ -293,7 +293,7 @@
             "name": "Peach",
             "upperRowColor": "#F4E3D7",
             "bottomRowColor": "#FFF7F2",
-            "mainTextColor": "#594131",
+            "mainTextColor": "#423125",
             "cornerTextColor": "#B29885",
             "isFree": false
         },
@@ -301,12 +301,12 @@
             "name": "Mint",
             "upperRowColor": "#D7F4E6",
             "bottomRowColor": "#F2FFF8",
-            "mainTextColor": "#315945",
+            "mainTextColor": "#254234",
             "cornerTextColor": "#85B29C",
             "isFree": false
         },
         {
-            "name": "Cyberpunk 2077",
+            "name": "Neon Cyberpunk",
             "upperRowColor": "#1D1D1D",
             "bottomRowColor": "#000000",
             "mainTextColor": "#FCEE09",
@@ -314,15 +314,15 @@
             "isFree": false
         },
         {
-            "name": "Synthwave 84",
-            "upperRowColor": "#44355B",
-            "bottomRowColor": "#262335",
+            "name": "Neon Synthwave",
+            "upperRowColor": "#2D1B33",
+            "bottomRowColor": "#1A1423",
             "mainTextColor": "#FF7EDB",
             "cornerTextColor": "#2DE2E6",
             "isFree": false
         },
         {
-            "name": "Retro Wave",
+            "name": "Neon Retro",
             "upperRowColor": "#240046",
             "bottomRowColor": "#10002B",
             "mainTextColor": "#FF00BD",
@@ -330,9 +330,9 @@
             "isFree": false
         },
         {
-            "name": "Vivid Amethyst",
+            "name": "Neon Amethyst",
             "upperRowColor": "#1F162E",
-            "bottomRowColor": "#120D1A",
+            "bottomRowColor": "#0D0915",
             "mainTextColor": "#BF00FF",
             "cornerTextColor": "#00D4FF",
             "isFree": false
@@ -340,9 +340,9 @@
         {
             "name": "Sky Blue",
             "upperRowColor": "#FFFFFF",
-            "bottomRowColor": "#F0F2F5",
-            "mainTextColor": "#007AFF",
-            "cornerTextColor": "#007AFF",
+            "bottomRowColor": "#F8FAFC",
+            "mainTextColor": "#0056B3",
+            "cornerTextColor": "#3B82F6",
             "gradientColors": [
                 "#4facfe",
                 "#00f2fe"
@@ -352,9 +352,9 @@
         {
             "name": "Sunset",
             "upperRowColor": "#FFFFFF",
-            "bottomRowColor": "#F0F2F5",
-            "mainTextColor": "#E91E63",
-            "cornerTextColor": "#E91E63",
+            "bottomRowColor": "#F8FAFC",
+            "mainTextColor": "#AD1457",
+            "cornerTextColor": "#F06292",
             "gradientColors": [
                 "#ff9a9e",
                 "#fecfef"
@@ -364,9 +364,9 @@
         {
             "name": "Deep Purple",
             "upperRowColor": "#FFFFFF",
-            "bottomRowColor": "#F0F2F5",
-            "mainTextColor": "#6200EE",
-            "cornerTextColor": "#6200EE",
+            "bottomRowColor": "#F8FAFC",
+            "mainTextColor": "#4527A0",
+            "cornerTextColor": "#7E57C2",
             "gradientColors": [
                 "#667eea",
                 "#764ba2"
@@ -374,25 +374,25 @@
             "isFree": false
         },
         {
-            "name": "Dracula",
+            "name": "Dracula Classic",
             "upperRowColor": "#282A36",
-            "bottomRowColor": "#44475A",
+            "bottomRowColor": "#1E1F29",
             "mainTextColor": "#BD93F9",
             "cornerTextColor": "#FF79C6",
             "isFree": false
         },
         {
-            "name": "Dracula Neon",
+            "name": "Neon Dracula",
             "upperRowColor": "#2D2F3F",
             "bottomRowColor": "#1E1F29",
             "mainTextColor": "#00F5FF",
-            "cornerTextColor": "#BF94FF",
+            "cornerTextColor": "#BD93F9",
             "isFree": false
         },
         {
-            "name": "Dracula Supernova",
-            "upperRowColor": "#4D5B8E",
-            "bottomRowColor": "#282A36",
+            "name": "Neon Supernova",
+            "upperRowColor": "#1E1F29",
+            "bottomRowColor": "#121212",
             "mainTextColor": "#8BE9FD",
             "cornerTextColor": "#FF92DF",
             "isFree": false
@@ -455,6 +455,5 @@
             "zipUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/stickers/TrickyFox.zip",
             "isFree": false
         }
-
     ]
 }
