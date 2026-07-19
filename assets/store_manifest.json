@@ -2,8 +2,8 @@
     "version": 1,
     "globalFreeMode": false,
     "update": {
-        "latestVersionCode": 39,
-        "latestVersionName": "1.39",
+        "latestVersionCode": 40,
+        "latestVersionName": "1.40",
         "updateUrl": "https://play.google.com/store/apps/details?id=com.amc.liquidkeyboard",
         "releaseNotes": "Soporte para el idioma bengalí. Se agregó la seccion sticker en la tienda. y la importacion de contenido como stickers, fondos, fuentes, snippets y diccionarios. se corrigieron errores menores y se mejoró el rendimiento general de la aplicación."
     },
@@ -156,248 +156,271 @@
         }
     ],
     "themes": [
-        {
-            "name": "Classic Dark",
-            "upperRowColor": "#1A1A1A",
-            "bottomRowColor": "#0A0A0A",
-            "mainTextColor": "#FFFFFF",
-            "cornerTextColor": "#888888",
-            "isFree": false
-        },
-        {
-            "name": "Neon Blue",
-            "upperRowColor": "#000B1E",
-            "bottomRowColor": "#00152A",
-            "mainTextColor": "#00E5FF",
-            "cornerTextColor": "#00838F",
-            "gradientColors": [
-                "#000B1E",
-                "#00254D"
-            ],
-            "isFree": false
-        },
-        {
-            "name": "Neon RGB",
-            "upperRowColor": "#000000",
-            "bottomRowColor": "#000000",
-            "mainTextColor": "#FFFFFF",
-            "cornerTextColor": "#00FFFF",
-            "isFree": false
-        },
-        {
-            "name": "Neon Rainbow",
-            "upperRowColor": "#0A0A0A",
-            "bottomRowColor": "#000000",
-            "mainTextColor": "#FF00FF",
-            "cornerTextColor": "#00FF00",
-            "gradientColors": [
-                "#FF0000",
-                "#FF7F00",
-                "#FFFF00",
-                "#00FF00",
-                "#0000FF",
-                "#4B0082",
-                "#8B00FF"
-            ],
-            "isFree": false
-        },
-        {
-            "name": "Neon Matrix",
-            "upperRowColor": "#000000",
-            "bottomRowColor": "#050505",
-            "mainTextColor": "#00FF41",
-            "cornerTextColor": "#008F11",
-            "isFree": false
-        },
-        {
-            "name": "Neon Lava",
-            "upperRowColor": "#000000",
-            "bottomRowColor": "#0A0000",
-            "mainTextColor": "#FF4500",
-            "cornerTextColor": "#8B0000",
-            "isFree": false
-        },
-        {
-            "name": "Neon Ice",
-            "upperRowColor": "#000000",
-            "bottomRowColor": "#00050A",
-            "mainTextColor": "#00F5FF",
-            "cornerTextColor": "#005F6B",
-            "isFree": false
-        },
-        {
-            "name": "Neon Toxic",
-            "upperRowColor": "#000000",
-            "bottomRowColor": "#020500",
-            "mainTextColor": "#ADFF2F",
-            "cornerTextColor": "#458B00",
-            "isFree": false
-        },
-        {
-            "name": "Neon Electric",
-            "upperRowColor": "#000000",
-            "bottomRowColor": "#000000",
-            "mainTextColor": "#7DF9FF",
-            "cornerTextColor": "#0070FF",
-            "isFree": false
-        },
-        {
-            "name": "RGB Flow",
-            "upperRowColor": "#000000",
-            "bottomRowColor": "#050505",
-            "mainTextColor": "#FFFFFF",
-            "cornerTextColor": "#00FFFF",
-            "isFree": false
-        },
-        {
-            "name": "Deep Sea Flow",
-            "upperRowColor": "#000510",
-            "bottomRowColor": "#001020",
-            "mainTextColor": "#00F5FF",
-            "cornerTextColor": "#005F6B",
-            "isFree": false
-        },
-        {
-            "name": "Magma Flow",
-            "upperRowColor": "#100000",
-            "bottomRowColor": "#200000",
-            "mainTextColor": "#FF4500",
-            "cornerTextColor": "#8B0000",
-            "isFree": false
-        },
-        {
-            "name": "Sakura",
-            "upperRowColor": "#F4D7E1",
-            "bottomRowColor": "#FFF2F6",
-            "mainTextColor": "#4A2934",
-            "cornerTextColor": "#B28594",
-            "isFree": false
-        },
-        {
-            "name": "Sky",
-            "upperRowColor": "#D7EBF4",
-            "bottomRowColor": "#F2FAFF",
-            "mainTextColor": "#233640",
-            "cornerTextColor": "#85A3B2",
-            "isFree": false
-        },
-        {
-            "name": "Lavender",
-            "upperRowColor": "#E6D7F4",
-            "bottomRowColor": "#F8F2FF",
-            "mainTextColor": "#342542",
-            "cornerTextColor": "#9C85B2",
-            "isFree": false
-        },
-        {
-            "name": "Peach",
-            "upperRowColor": "#F4E3D7",
-            "bottomRowColor": "#FFF7F2",
-            "mainTextColor": "#423125",
-            "cornerTextColor": "#B29885",
-            "isFree": false
-        },
-        {
-            "name": "Mint",
-            "upperRowColor": "#D7F4E6",
-            "bottomRowColor": "#F2FFF8",
-            "mainTextColor": "#254234",
-            "cornerTextColor": "#85B29C",
-            "isFree": false
-        },
-        {
-            "name": "Neon Cyberpunk",
-            "upperRowColor": "#1D1D1D",
-            "bottomRowColor": "#000000",
-            "mainTextColor": "#FCEE09",
-            "cornerTextColor": "#00F0FF",
-            "isFree": false
-        },
-        {
-            "name": "Neon Synthwave",
-            "upperRowColor": "#2D1B33",
-            "bottomRowColor": "#1A1423",
-            "mainTextColor": "#FF7EDB",
-            "cornerTextColor": "#2DE2E6",
-            "isFree": false
-        },
-        {
-            "name": "Neon Retro",
-            "upperRowColor": "#240046",
-            "bottomRowColor": "#10002B",
-            "mainTextColor": "#FF00BD",
-            "cornerTextColor": "#3CFF00",
-            "isFree": false
-        },
-        {
-            "name": "Neon Amethyst",
-            "upperRowColor": "#1F162E",
-            "bottomRowColor": "#0D0915",
-            "mainTextColor": "#BF00FF",
-            "cornerTextColor": "#00D4FF",
-            "isFree": false
-        },
-        {
-            "name": "Sky Blue",
-            "upperRowColor": "#FFFFFF",
-            "bottomRowColor": "#F8FAFC",
-            "mainTextColor": "#0056B3",
-            "cornerTextColor": "#3B82F6",
-            "gradientColors": [
-                "#4facfe",
-                "#00f2fe"
-            ],
-            "isFree": false
-        },
-        {
-            "name": "Sunset",
-            "upperRowColor": "#FFFFFF",
-            "bottomRowColor": "#F8FAFC",
-            "mainTextColor": "#AD1457",
-            "cornerTextColor": "#F06292",
-            "gradientColors": [
-                "#ff9a9e",
-                "#fecfef"
-            ],
-            "isFree": false
-        },
-        {
-            "name": "Deep Purple",
-            "upperRowColor": "#FFFFFF",
-            "bottomRowColor": "#F8FAFC",
-            "mainTextColor": "#4527A0",
-            "cornerTextColor": "#7E57C2",
-            "gradientColors": [
-                "#667eea",
-                "#764ba2"
-            ],
-            "isFree": false
-        },
-        {
-            "name": "Dracula Classic",
-            "upperRowColor": "#282A36",
-            "bottomRowColor": "#1E1F29",
-            "mainTextColor": "#BD93F9",
-            "cornerTextColor": "#FF79C6",
-            "isFree": false
-        },
-        {
-            "name": "Neon Dracula",
-            "upperRowColor": "#2D2F3F",
-            "bottomRowColor": "#1E1F29",
-            "mainTextColor": "#00F5FF",
-            "cornerTextColor": "#BD93F9",
-            "isFree": false
-        },
-        {
-            "name": "Neon Supernova",
-            "upperRowColor": "#1E1F29",
-            "bottomRowColor": "#121212",
-            "mainTextColor": "#8BE9FD",
-            "cornerTextColor": "#FF92DF",
-            "isFree": false
-        }
-    ],
+    {
+        "name": "Classic Dark",
+        "upperRowColor": "#1A1A1A",
+        "bottomRowColor": "#0A0A0A",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#9E9E9E",
+        "isFree": true
+    },
+    {
+        "name": "Neon Blue",
+        "upperRowColor": "#00050A",
+        "bottomRowColor": "#000A14",
+        "mainTextColor": "#00F5FF",
+        "cornerTextColor": "#00838F",
+        "gradientColors": ["#00050A", "#00152A"],
+        "isFree": false
+    },
+    {
+        "name": "Neon RGB",
+        "upperRowColor": "#000000",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#00FFFF",
+        "isFree": false
+    },
+    {
+        "name": "Neon Rainbow",
+        "upperRowColor": "#000000",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#FF00FF",
+        "cornerTextColor": "#00FF00",
+        "gradientColors": ["#FF0000", "#FF7F00", "#FFFF00", "#00FF00", "#0000FF", "#4B0082", "#8B00FF"],
+        "isFree": false
+    },
+    {
+        "name": "Neon Matrix",
+        "upperRowColor": "#000000",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#00FF41",
+        "cornerTextColor": "#008F11",
+        "isFree": false
+    },
+    {
+        "name": "Neon Lava",
+        "upperRowColor": "#000000",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#FF4500",
+        "cornerTextColor": "#8B0000",
+        "isFree": false
+    },
+    {
+        "name": "Neon Ice",
+        "upperRowColor": "#000000",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#00F5FF",
+        "cornerTextColor": "#005F6B",
+        "isFree": false
+    },
+    {
+        "name": "Neon Toxic",
+        "upperRowColor": "#000000",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#ADFF2F",
+        "cornerTextColor": "#458B00",
+        "isFree": false
+    },
+    {
+        "name": "Neon Electric",
+        "upperRowColor": "#000000",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#7DF9FF",
+        "cornerTextColor": "#0070FF",
+        "isFree": false
+    },
+    {
+        "name": "RGB Flow",
+        "upperRowColor": "#000000",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#00FFFF",
+        "isFree": false
+    },
+    {
+        "name": "Deep Sea Flow",
+        "upperRowColor": "#00050A",
+        "bottomRowColor": "#000A14",
+        "mainTextColor": "#00F5FF",
+        "cornerTextColor": "#005F6B",
+        "isFree": false
+    },
+    {
+        "name": "Magma Flow",
+        "upperRowColor": "#0A0000",
+        "bottomRowColor": "#150000",
+        "mainTextColor": "#FF4500",
+        "cornerTextColor": "#8B0000",
+        "isFree": false
+    },
+    {
+        "name": "Sakura",
+        "upperRowColor": "#FCE4EC",
+        "bottomRowColor": "#FFF1F8",
+        "mainTextColor": "#880E4F",
+        "cornerTextColor": "#F06292",
+        "isFree": true
+    },
+    {
+        "name": "Sky",
+        "upperRowColor": "#E3F2FD",
+        "bottomRowColor": "#F1F8FE",
+        "mainTextColor": "#0D47A1",
+        "cornerTextColor": "#42A5F5",
+        "isFree": true
+    },
+    {
+        "name": "Lavender",
+        "upperRowColor": "#F3E5F5",
+        "bottomRowColor": "#F9F3FB",
+        "mainTextColor": "#4A148C",
+        "cornerTextColor": "#AB47BC",
+        "isFree": true
+    },
+    {
+        "name": "Peach",
+        "upperRowColor": "#FFF3E0",
+        "bottomRowColor": "#FFF9F0",
+        "mainTextColor": "#E65100",
+        "cornerTextColor": "#FFA726",
+        "isFree": true
+    },
+    {
+        "name": "Mint",
+        "upperRowColor": "#E8F5E9",
+        "bottomRowColor": "#F1FBF2",
+        "mainTextColor": "#1B5E20",
+        "cornerTextColor": "#66BB6A",
+        "isFree": true
+    },
+    {
+        "name": "Neon Cyberpunk",
+        "upperRowColor": "#000000",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#FCEE09",
+        "cornerTextColor": "#00F0FF",
+        "isFree": false
+    },
+    {
+        "name": "Neon Synthwave",
+        "upperRowColor": "#120421",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#FF7EDB",
+        "cornerTextColor": "#2DE2E6",
+        "isFree": false
+    },
+    {
+        "name": "Neon Retro",
+        "upperRowColor": "#10002B",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#FF00BD",
+        "cornerTextColor": "#3CFF00",
+        "isFree": false
+    },
+    {
+        "name": "Neon Amethyst",
+        "upperRowColor": "#0D0915",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#BF00FF",
+        "cornerTextColor": "#00D4FF",
+        "isFree": false
+    },
+    {
+        "name": "Sky Blue",
+        "upperRowColor": "#FFFFFF",
+        "bottomRowColor": "#F8FAFC",
+        "mainTextColor": "#0277BD",
+        "cornerTextColor": "#29B6F6",
+        "gradientColors": ["#4facfe", "#00f2fe"],
+        "isFree": true
+    },
+    {
+        "name": "Sunset",
+        "upperRowColor": "#FFFFFF",
+        "bottomRowColor": "#F8FAFC",
+        "mainTextColor": "#C2185B",
+        "cornerTextColor": "#F06292",
+        "gradientColors": ["#ff9a9e", "#fecfef"],
+        "isFree": true
+    },
+    {
+        "name": "Deep Purple",
+        "upperRowColor": "#FFFFFF",
+        "bottomRowColor": "#F8FAFC",
+        "mainTextColor": "#512DA8",
+        "cornerTextColor": "#9575CD",
+        "gradientColors": ["#667eea", "#764ba2"],
+        "isFree": true
+    },
+    {
+        "name": "Dracula Classic",
+        "upperRowColor": "#282A36",
+        "bottomRowColor": "#1E1F29",
+        "mainTextColor": "#BD93F9",
+        "cornerTextColor": "#FF79C6",
+        "isFree": false
+    },
+    {
+        "name": "Neon Dracula",
+        "upperRowColor": "#1E1F29",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#50FA7B",
+        "cornerTextColor": "#BD93F9",
+        "isFree": false
+    },
+    {
+        "name": "Neon Supernova",
+        "upperRowColor": "#000000",
+        "bottomRowColor": "#000000",
+        "mainTextColor": "#FF79C6",
+        "cornerTextColor": "#8BE9FD",
+        "isFree": false
+    },{
+        "name": "Vibrant Learning",
+        "upperRowColor": "#0D47A1",
+        "consonantKeyColor": "#0D47A1",
+        "vowelKeyColor": "#42A5F5",
+        "bottomRowColor": "#EF5350",
+        "specialKeyColor": "#EF5350",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#FFD54F",
+        "isFree": true
+    },
+    {
+        "name": "Gamer Acid",
+        "upperRowColor": "#1A1A1A",
+        "consonantKeyColor": "#1A1A1A",
+        "vowelKeyColor": "#ADFF2F",
+        "bottomRowColor": "#FF00FF",
+        "specialKeyColor": "#FF00FF",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#00FFFF",
+        "isFree": false
+    },
+    {
+        "name": "Cyber Orange",
+        "upperRowColor": "#000000",
+        "consonantKeyColor": "#000000",
+        "vowelKeyColor": "#FF8C00",
+        "bottomRowColor": "#00CED1",
+        "specialKeyColor": "#00CED1",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#FFD700",
+        "isFree": false
+    },
+    {
+        "name": "Pastel Candy",
+        "upperRowColor": "#B39DDB",
+        "consonantKeyColor": "#B39DDB",
+        "vowelKeyColor": "#F48FB1",
+        "bottomRowColor": "#80CBC4",
+        "specialKeyColor": "#80CBC4",
+        "mainTextColor": "#2E1A47",
+        "cornerTextColor": "#FFFFFF",
+        "isFree": false
+    }
+],
     "sounds": [
         {
             "id": "modern",
