@@ -162,7 +162,7 @@
         "bottomRowColor": "#0A0A0A",
         "mainTextColor": "#FFFFFF",
         "cornerTextColor": "#9E9E9E",
-        "isFree": true
+        "isFree": false
     },
     {
         "name": "Neon Blue",
@@ -260,7 +260,7 @@
         "bottomRowColor": "#FFF1F8",
         "mainTextColor": "#880E4F",
         "cornerTextColor": "#F06292",
-        "isFree": true
+        "isFree": false
     },
     {
         "name": "Sky",
@@ -268,7 +268,7 @@
         "bottomRowColor": "#F1F8FE",
         "mainTextColor": "#0D47A1",
         "cornerTextColor": "#42A5F5",
-        "isFree": true
+        "isFree": false
     },
     {
         "name": "Lavender",
@@ -276,7 +276,7 @@
         "bottomRowColor": "#F9F3FB",
         "mainTextColor": "#4A148C",
         "cornerTextColor": "#AB47BC",
-        "isFree": true
+        "isFree": false
     },
     {
         "name": "Peach",
@@ -284,7 +284,7 @@
         "bottomRowColor": "#FFF9F0",
         "mainTextColor": "#E65100",
         "cornerTextColor": "#FFA726",
-        "isFree": true
+        "isFree": false
     },
     {
         "name": "Mint",
@@ -292,7 +292,7 @@
         "bottomRowColor": "#F1FBF2",
         "mainTextColor": "#1B5E20",
         "cornerTextColor": "#66BB6A",
-        "isFree": true
+        "isFree": false
     },
     {
         "name": "Neon Cyberpunk",
@@ -333,7 +333,7 @@
         "mainTextColor": "#0277BD",
         "cornerTextColor": "#29B6F6",
         "gradientColors": ["#4facfe", "#00f2fe"],
-        "isFree": true
+        "isFree": false
     },
     {
         "name": "Sunset",
@@ -342,7 +342,7 @@
         "mainTextColor": "#C2185B",
         "cornerTextColor": "#F06292",
         "gradientColors": ["#ff9a9e", "#fecfef"],
-        "isFree": true
+        "isFree": false
     },
     {
         "name": "Deep Purple",
@@ -351,7 +351,7 @@
         "mainTextColor": "#512DA8",
         "cornerTextColor": "#9575CD",
         "gradientColors": ["#667eea", "#764ba2"],
-        "isFree": true
+        "isFree": false
     },
     {
         "name": "Dracula Classic",
@@ -385,7 +385,7 @@
         "specialKeyColor": "#EF5350",
         "mainTextColor": "#FFFFFF",
         "cornerTextColor": "#FFD54F",
-        "isFree": true
+        "isFree": false
     },
     {
         "name": "Gamer Acid",
@@ -418,6 +418,50 @@
         "specialKeyColor": "#80CBC4",
         "mainTextColor": "#2E1A47",
         "cornerTextColor": "#FFFFFF",
+        "isFree": false
+    },
+    {
+        "name": "Oceanic Flow",
+        "upperRowColor": "#002171",
+        "consonantKeyColor": "#002171",
+        "vowelKeyColor": "#00bcd4",
+        "bottomRowColor": "#00104a",
+        "specialKeyColor": "#00104a",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#80deea",
+        "isFree": false
+    },
+    {
+        "name": "Forest Fire",
+        "upperRowColor": "#1b5e20",
+        "consonantKeyColor": "#1b5e20",
+        "vowelKeyColor": "#ff7043",
+        "bottomRowColor": "#003300",
+        "specialKeyColor": "#003300",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#ffccbc",
+        "isFree": false
+    },
+    {
+        "name": "Royal Velvet",
+        "upperRowColor": "#4a148c",
+        "consonantKeyColor": "#4a148c",
+        "vowelKeyColor": "#ffeb3b",
+        "bottomRowColor": "#311b92",
+        "specialKeyColor": "#311b92",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#fff9c4",
+        "isFree": false
+    },
+    {
+        "name": "Midnight Neon",
+        "upperRowColor": "#000000",
+        "consonantKeyColor": "#121212",
+        "vowelKeyColor": "#00ff00",
+        "bottomRowColor": "#000000",
+        "specialKeyColor": "#ff00ff",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#ffffff",
         "isFree": false
     }
 ],
