@@ -463,6 +463,68 @@
         "mainTextColor": "#FFFFFF",
         "cornerTextColor": "#ffffff",
         "isFree": false
+    },
+    {
+        "name": "Deep Purple",
+        "upperRowColor": "#FFFFFF",
+        "bottomRowColor": "#F8FAFC",
+        "mainTextColor": "#FFFFFF", 
+        "cornerTextColor": "#E1BEE7",
+        "gradientColors": ["#2E1A47", "#764ba2"], 
+        "isFree": true
+    },
+    {
+        "name": "Sky Blue",
+        "upperRowColor": "#FFFFFF",
+        "bottomRowColor": "#F8FAFC",
+        "mainTextColor": "#01579B",
+        "cornerTextColor": "#81D4FA",
+        "gradientColors": ["#E1F5FE", "#4facfe"],
+        "isFree": true
+    },
+    {
+        "name": "Vibrant Learning",
+        "upperRowColor": "#0D47A1",
+        "consonantKeyColor": "#0D47A1",
+        "vowelKeyColor": "#42A5F5",
+        "bottomRowColor": "#EF5350",
+        "specialKeyColor": "#EF5350",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#FFD54F",
+        "isFree": true
+    },
+    {
+        "name": "Emerald City",
+        "upperRowColor": "#1B5E20",
+        "consonantKeyColor": "#1B5E20",
+        "vowelKeyColor": "#66BB6A",
+        "bottomRowColor": "#FFD600",
+        "specialKeyColor": "#FFD600",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#C8E6C9",
+        "isFree": false
+    },
+    {
+        "name": "Volcano Peak",
+        "upperRowColor": "#BF360C",
+        "consonantKeyColor": "#BF360C",
+        "vowelKeyColor": "#FF7043",
+        "bottomRowColor": "#3E2723",
+        "specialKeyColor": "#3E2723",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#FFCCBC",
+        "isFree": false
+    },
+    {
+        "name": "Deep Space",
+        "upperRowColor": "#000000",
+        "consonantKeyColor": "#000000",
+        "vowelKeyColor": "#6200EA",
+        "bottomRowColor": "#311B92",
+        "specialKeyColor": "#311B92",
+        "mainTextColor": "#FFFFFF",
+        "cornerTextColor": "#B39DDB",
+        "isFree": false
     }
 ],
     "sounds": [
