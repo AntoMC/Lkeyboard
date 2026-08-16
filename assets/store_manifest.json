@@ -2,8 +2,8 @@
     "version": 1,
     "globalFreeMode": false,
     "update": {
-        "latestVersionCode": 44,
-        "latestVersionName": "1.44",
+        "latestVersionCode": 45,
+        "latestVersionName": "1.45",
         "updateUrl": "https://play.google.com/store/apps/details?id=com.amc.liquidkeyboard",
         "releaseNotes": "Soporte para el idioma bengalí. Se agregó la seccion sticker en la tienda. y la importacion de contenido como stickers, fondos, fuentes, snippets y diccionarios. se corrigieron errores menores y se mejoró el rendimiento general de la aplicación."
     },
@@ -194,7 +194,7 @@
         "bottomRowColor": "#0A0A0A",
         "mainTextColor": "#FFFFFF",
         "cornerTextColor": "#9E9E9E",
-        "isFree": false
+        "isFree": true
     },
     {
         "name": "Neon Blue",
