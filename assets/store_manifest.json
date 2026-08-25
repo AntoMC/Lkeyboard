@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "globalFreeMode": false,
+    "globalFreeMode": true,
     "update": {
         "latestVersionCode": 45,
         "latestVersionName": "1.45",
@@ -50,8 +50,8 @@
             "id": "bg_minimal",
             "name": "Minimal White",
             "desc": "Limpio, puro y elegante",
-            "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/blanco.webp",
-            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/blanco-preview.webp",
+            "url": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/blanco.webp",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/blanco-preview.webp",
             "isFree": false,
             "isAvailable": true
         },
@@ -59,8 +59,8 @@
             "id": "bg_good_luck",
             "name": "Good Luck",
             "desc": "Imagen animada y colorida",
-            "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/fondo1.webp",
-            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/fondo1-preview.webp",
+            "url": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/fondo1.webp",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/fondo1-preview.webp",
             "isFree": false,
             "isAvailable": true
         },
@@ -68,8 +68,8 @@
             "id": "bg_elefante_neon",
             "name": "Elefante neon",
             "desc": "imagen decorativa",
-            "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/elefante-neon.png",
-            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/elefante-neon-preview.webp",
+            "url": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/elefante-neon.png",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/elefante-neon-preview.webp",
             "isFree": false,
             "isAvailable": true
         },
@@ -77,8 +77,8 @@
             "id": "bg_jirafa_neon",
             "name": "Jirafa neon",
             "desc": "imagen decorativa",
-            "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/jirafa-neon.png",
-            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/jirafa-neon-preview.webp",
+            "url": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/jirafa-neon.png",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/jirafa-neon-preview.webp",
             "isFree": false,
             "isAvailable": true
         },
@@ -86,8 +86,8 @@
             "id": "bg_lobo_neon",
             "name": "Lobo neon",
             "desc": "imagen decorativa",
-            "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/lobo-neon.png",
-            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/lobo-neon-preview.webp",
+            "url": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/lobo-neon.png",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/lobo-neon-preview.webp",
             "isFree": false,
             "isAvailable": true
         },
@@ -95,8 +95,8 @@
             "id": "bg_mariposa_neon",
             "name": "Mariposa neon",
             "desc": "imagen decorativa",
-            "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/mariposa-neon.png",
-            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/mariposa-neon-preview.webp",
+            "url": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/mariposa-neon.png",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/mariposa-neon-preview.webp",
             "isFree": false,
             "isAvailable": true
         },
@@ -104,8 +104,8 @@
             "id": "bg_medusa_neon",
             "name": "Medusa neon",
             "desc": "imagen decorativa",
-            "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/medusa-neon.png",
-            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/medusa-neon-preview.webp",
+            "url": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/medusa-neon.png",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/medusa-neon-preview.webp",
             "isFree": false,
             "isAvailable": true
         },
@@ -113,8 +113,8 @@
             "id": "bg_pavoreal_neon",
             "name": "Pavo Real neon",
             "desc": "imagen decorativa",
-            "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/pavoreal-neon.png",
-            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/pavoreal-neon-preview.webp",
+            "url": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/pavoreal-neon.png",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/pavoreal-neon-preview.webp",
             "isFree": false,
             "isAvailable": true
         },
@@ -122,8 +122,8 @@
             "id": "bg_pinguino_neon",
             "name": "Pinguino neon",
             "desc": "imagen decorativa",
-            "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/pinguino-neon.png",
-            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/pinguino-neon-preview.webp",
+            "url": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/pinguino-neon.png",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/pinguino-neon-preview.webp",
             "isFree": false,
             "isAvailable": true
         },
@@ -131,8 +131,8 @@
             "id": "bg_snake_neon",
             "name": "Serpiente neon",
             "desc": "imagen decorativa",
-            "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/snake-neon.png",
-            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/snake-neon-preview.webp",
+            "url": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/snake-neon.png",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/snake-neon-preview.webp",
             "isFree": false,
             "isAvailable": true
         },
@@ -140,8 +140,8 @@
             "id": "bg_tortuga_neon",
             "name": "Tortuga neon",
             "desc": "imagen decorativa",
-            "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/tortuga-neon.png",
-            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/tortuga-neon-preview.webp",
+            "url": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/tortuga-neon.png",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/tortuga-neon-preview.webp",
             "isFree": false,
             "isAvailable": true
         },
@@ -149,8 +149,8 @@
             "id": "bg_zorro_neon",
             "name": "Zorro neon",
             "desc": "imagen decorativa",
-            "url": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/zorro-neon.png",
-            "previewUrl": "https://raw.githubusercontent.com/AntoMC/Lkeyboard/master/assets/fondos/zorro-neon-preview.webp",
+            "url": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/zorro-neon.png",
+            "previewUrl": "https://raw.githubusercontent.com/AntoMC/KeyMaker/master/assets/fondos/zorro-neon-preview.webp",
             "isFree": false,
             "isAvailable": true
         }

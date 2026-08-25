@@ -1,10 +1,10 @@
-# ⌨️ LKeyboard - ¡Ponte Creativo!
+# ⌨️ KeyMaker - ¡Ponte Creativo!
 
 [![Android](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0-blue.svg)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Jetpack-Compose-orange.svg)](https://developer.android.com/jetpack/compose)
 
-**LKeyboard** no es solo un teclado; es un entorno de escritura dinámico y altamente personalizable diseñado para usuarios avanzados, programadores y entusiastas del diseño. 
+**KeyMaker** no es solo un teclado; es un entorno de escritura dinámico y altamente personalizable diseñado para usuarios avanzados, programadores y entusiastas del diseño. 
 
 ---
 
@@ -17,7 +17,7 @@ Reconstruye tu teclado desde la propia aplicación.
 - **Acciones Especiales:** Configura macros como `CTRL+C`, `CTRL+V`, o lanza Snippets directamente.
 
 ### ⚡ Gestos de Esquina Inteligentes
-El alma de LKeyboard. Cada tecla puede albergar hasta 4 símbolos o comandos adicionales en sus esquinas. Desliza hacia la esquina para escribir instantáneamente sin cambiar de panel.
+El alma de KeyMaker. Cada tecla puede albergar hasta 4 símbolos o comandos adicionales en sus esquinas. Desliza hacia la esquina para escribir instantáneamente sin cambiar de panel.
 
 ### 🤖 Sistema de Snippets Estilo IDE
 Panel de sugerencias dinámico inspirado en VS Code. Ideal para programadores o para quienes usan frases repetitivas. Soporta navegación con la barra espaciadora y selección con `Tab`.
@@ -28,7 +28,7 @@ Animaciones reactivas con efectos de onda RGB. Totalmente configurable en veloci
 ---
 
 ## 🛠️ Modos y Plantillas Incluidas
-LKeyboard viene con layouts optimizados para cada necesidad:
+KeyMaker viene con layouts optimizados para cada necesidad:
 - **Estándar:** QWERTY, AZERTY, Colemak, Dvorak.
 - **Productividad:** Layouts específicos para **Word**, **Excel** y **Programación**.
 - **Herramientas:** Teclado numérico, matemático y panel de emojis extendido.
@@ -37,9 +37,9 @@ LKeyboard viene con layouts optimizados para cada necesidad:
 
 ## 🔒 Privacidad por Diseño
 La seguridad es nuestra prioridad. 
-- **Sin Internet:** LKeyboard funciona totalmente offline para el procesamiento de texto.
+- **Sin Internet:** KeyMaker funciona totalmente offline para el procesamiento de texto.
 - **Cero Keylogging:** No almacenamos ni transmitimos tus pulsaciones.
-- **Transparencia:** Consulta nuestra [Política de Privacidad](https://antomc.github.io/Lkeyboard/privacy-policy.html).
+- **Transparencia:** Consulta nuestra [Política de Privacidad](https://antomc.github.io/KeyMaker/privacy-policy.html).
 
 ---
 
