@@ -263,30 +263,6 @@
         "isFree": false
     },
     {
-        "name": "RGB Flow",
-        "upperRowColor": "#000000",
-        "bottomRowColor": "#000000",
-        "mainTextColor": "#FFFFFF",
-        "cornerTextColor": "#00FFFF",
-        "isFree": false
-    },
-    {
-        "name": "Deep Sea Flow",
-        "upperRowColor": "#00050A",
-        "bottomRowColor": "#000A14",
-        "mainTextColor": "#00F5FF",
-        "cornerTextColor": "#005F6B",
-        "isFree": false
-    },
-    {
-        "name": "Magma Flow",
-        "upperRowColor": "#0A0000",
-        "bottomRowColor": "#150000",
-        "mainTextColor": "#FF4500",
-        "cornerTextColor": "#8B0000",
-        "isFree": false
-    },
-    {
         "name": "Sakura",
         "upperRowColor": "#FCE4EC",
         "bottomRowColor": "#FFF1F8",
@@ -327,38 +303,6 @@
         "isFree": false
     },
     {
-        "name": "Neon Cyberpunk",
-        "upperRowColor": "#000000",
-        "bottomRowColor": "#000000",
-        "mainTextColor": "#FCEE09",
-        "cornerTextColor": "#00F0FF",
-        "isFree": false
-    },
-    {
-        "name": "Neon Synthwave",
-        "upperRowColor": "#120421",
-        "bottomRowColor": "#000000",
-        "mainTextColor": "#FF7EDB",
-        "cornerTextColor": "#2DE2E6",
-        "isFree": false
-    },
-    {
-        "name": "Neon Retro",
-        "upperRowColor": "#10002B",
-        "bottomRowColor": "#000000",
-        "mainTextColor": "#FF00BD",
-        "cornerTextColor": "#3CFF00",
-        "isFree": false
-    },
-    {
-        "name": "Neon Amethyst",
-        "upperRowColor": "#0D0915",
-        "bottomRowColor": "#000000",
-        "mainTextColor": "#BF00FF",
-        "cornerTextColor": "#00D4FF",
-        "isFree": false
-    },
-    {
         "name": "Sky Blue",
         "upperRowColor": "#FFFFFF",
         "bottomRowColor": "#F8FAFC",
@@ -394,21 +338,6 @@
         "isFree": false
     },
     {
-        "name": "Neon Dracula",
-        "upperRowColor": "#1E1F29",
-        "bottomRowColor": "#000000",
-        "mainTextColor": "#50FA7B",
-        "cornerTextColor": "#BD93F9",
-        "isFree": false
-    },
-    {
-        "name": "Neon Supernova",
-        "upperRowColor": "#000000",
-        "bottomRowColor": "#000000",
-        "mainTextColor": "#FF79C6",
-        "cornerTextColor": "#8BE9FD",
-        "isFree": false
-    },{
         "name": "Vibrant Learning",
         "upperRowColor": "#0D47A1",
         "consonantKeyColor": "#0D47A1",
